@@ -8,9 +8,11 @@ namespace _2.Person_Task
 {
     class Person
     {
+        //Properties
         public string Name { get; set; }
         public int? Age { get; set; }
 
+        //Constructors
         public Person(string name)
             : this(name, null) { }
 
