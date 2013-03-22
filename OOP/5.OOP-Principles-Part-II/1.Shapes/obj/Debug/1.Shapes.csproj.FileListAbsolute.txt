@@ -1,0 +1,6 @@
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\1.Shapes\bin\Debug\1_Task.exe.config
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\1.Shapes\obj\Debug\1_Task.exe
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\1.Shapes\obj\Debug\1_Task.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\1.Shapes\bin\Debug\1_Task.exe
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\1.Shapes\bin\Debug\1_Task.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\1.Shapes\obj\Debug\1.Shapes.csprojResolveAssemblyReference.cache

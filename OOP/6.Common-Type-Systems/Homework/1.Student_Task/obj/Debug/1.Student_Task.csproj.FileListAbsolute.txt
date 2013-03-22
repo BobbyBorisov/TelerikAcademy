@@ -1,0 +1,9 @@
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\1.Student_Task\bin\Debug\1.Student_Task.exe.config
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\1.Student_Task\obj\Debug\1.Student_Task.csprojResolveAssemblyReference.cache
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\1.Student_Task\bin\Debug\1.Student_Task.exe
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\1.Student_Task\bin\Debug\1.Student_Task.pdb
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\1.Student_Task\obj\Debug\1.Student_Task.exe
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\1.Student_Task\obj\Debug\1.Student_Task.pdb
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\6.Common-Type-Systems\Homework\1.Student_Task\bin\Debug\1.Student_Task.exe.config
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\6.Common-Type-Systems\Homework\1.Student_Task\obj\Debug\1.Student_Task.exe
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\6.Common-Type-Systems\Homework\1.Student_Task\obj\Debug\1.Student_Task.pdb

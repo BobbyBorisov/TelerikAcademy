@@ -1,0 +1,12 @@
+C:\Users\Bocko\Documents\Visual Studio 2012\Projects\OOP-Principles_2_Homework\2.Bank\obj\Debug\2.Bank.csprojResolveAssemblyReference.cache
+C:\Users\Bocko\Documents\Visual Studio 2012\Projects\OOP-Principles_2_Homework\2.Bank\bin\Debug\2.Bank.exe.config
+C:\Users\Bocko\Documents\Visual Studio 2012\Projects\OOP-Principles_2_Homework\2.Bank\bin\Debug\2.Bank.exe
+C:\Users\Bocko\Documents\Visual Studio 2012\Projects\OOP-Principles_2_Homework\2.Bank\bin\Debug\2.Bank.pdb
+C:\Users\Bocko\Documents\Visual Studio 2012\Projects\OOP-Principles_2_Homework\2.Bank\obj\Debug\2.Bank.exe
+C:\Users\Bocko\Documents\Visual Studio 2012\Projects\OOP-Principles_2_Homework\2.Bank\obj\Debug\2.Bank.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\2.Bank\bin\Debug\2.Bank.exe.config
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\2.Bank\obj\Debug\2.Bank.exe
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\2.Bank\obj\Debug\2.Bank.pdb
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\5.OOP-Principles-Part-II\2.Bank\bin\Debug\2.Bank.exe.config
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\5.OOP-Principles-Part-II\2.Bank\obj\Debug\2.Bank.exe
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\5.OOP-Principles-Part-II\2.Bank\obj\Debug\2.Bank.pdb

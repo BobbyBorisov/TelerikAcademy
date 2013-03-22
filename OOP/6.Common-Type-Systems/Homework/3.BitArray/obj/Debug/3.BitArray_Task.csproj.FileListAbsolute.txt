@@ -1,0 +1,3 @@
+C:\Users\Bocko\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\bin\Debug\3.BitArray.exe.config
+C:\Users\Bocko\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\obj\Debug\3.BitArray.exe
+C:\Users\Bocko\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\obj\Debug\3.BitArray.pdb

@@ -1,0 +1,15 @@
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\obj\Debug\3.OutOfRangeExeption.csprojResolveAssemblyReference.cache
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\bin\Debug\OutOfRangeExeption.exe.config
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\bin\Debug\OutOfRangeExeption.exe
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\bin\Debug\OutOfRangeExeption.pdb
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\obj\Debug\OutOfRangeExeption.exe
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\obj\Debug\OutOfRangeExeption.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\OutOfRangeExeption\bin\Debug\OutOfRangeExeption.exe.config
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\OutOfRangeExeption\obj\Debug\OutOfRangeExeption.exe
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\OutOfRangeExeption\obj\Debug\OutOfRangeExeption.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\3.OutOfRangeExeption\bin\Debug\OutOfRangeExeption.exe.config
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\3.OutOfRangeExeption\obj\Debug\OutOfRangeExeption.exe
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\3.OutOfRangeExeption\obj\Debug\OutOfRangeExeption.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\3.OutOfRangeExeption\bin\Debug\OutOfRangeExeption.exe
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\3.OutOfRangeExeption\bin\Debug\OutOfRangeExeption.pdb
+C:\Users\Bocko\Downloads\HW_borislav.borisov.tues_Principi-na-OOP---chast-II_2013-03-19_21-45\OOP-Principles_2_Homework\3.OutOfRangeExeption\obj\Debug\3.OutOfRangeExeption.csprojResolveAssemblyReference.cache

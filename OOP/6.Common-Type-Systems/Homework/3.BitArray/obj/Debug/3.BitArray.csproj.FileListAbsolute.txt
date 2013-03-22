@@ -1,0 +1,6 @@
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\bin\Debug\3.BitArray.exe.config
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\obj\Debug\3.BitArray.csprojResolveAssemblyReference.cache
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\bin\Debug\3.BitArray.exe
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\bin\Debug\3.BitArray.pdb
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\obj\Debug\3.BitArray.exe
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\3.BitArray\obj\Debug\3.BitArray.pdb

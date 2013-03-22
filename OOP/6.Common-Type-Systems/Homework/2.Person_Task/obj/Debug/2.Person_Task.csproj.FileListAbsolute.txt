@@ -1,0 +1,9 @@
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\2.Person_Task\bin\Debug\2.Person_Task.exe.config
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\2.Person_Task\obj\Debug\2.Person_Task.csprojResolveAssemblyReference.cache
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\2.Person_Task\bin\Debug\2.Person_Task.exe
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\2.Person_Task\bin\Debug\2.Person_Task.pdb
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\2.Person_Task\obj\Debug\2.Person_Task.exe
+c:\users\bocko\documents\visual studio 2012\Projects\CommonTypeSystem_Homework\2.Person_Task\obj\Debug\2.Person_Task.pdb
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\6.Common-Type-Systems\Homework\2.Person_Task\bin\Debug\2.Person_Task.exe.config
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\6.Common-Type-Systems\Homework\2.Person_Task\obj\Debug\2.Person_Task.exe
+C:\Users\Bocko\Documents\GitHub\TelerikAcademy\OOP\6.Common-Type-Systems\Homework\2.Person_Task\obj\Debug\2.Person_Task.pdb

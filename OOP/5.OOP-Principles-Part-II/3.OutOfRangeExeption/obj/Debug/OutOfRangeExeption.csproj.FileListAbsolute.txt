@@ -1,0 +1,1 @@
+C:\Users\Bocko\documents\visual studio 2012\Projects\OOP-Principles_2_Homework\OutOfRangeExeption\bin\Debug\OutOfRangeExeption.exe.config
