@@ -20,11 +20,7 @@ namespace AcademyPopcorn
             return otherCollisionGroupString == "racket" || otherCollisionGroupString == "block";
         }
 
-        public override string GetCollisionGroupString()
-        {
-            return Ball.CollisionGroupString;
-        }
-
+        
         public override void RespondToCollision(CollisionData collisionData)
         {
             if (collisionData.CollisionForceDirection.Row * this.Speed.Row < 0)

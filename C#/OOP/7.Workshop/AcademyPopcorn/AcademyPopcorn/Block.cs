@@ -22,7 +22,7 @@ namespace AcademyPopcorn
 
         public override bool CanCollideWith(string otherCollisionGroupString)
         {
-            return otherCollisionGroupString == "ball";
+            return otherCollisionGroupString == "ball" || otherCollisionGroupString == "trail";
         }
 
         public override void RespondToCollision(CollisionData collisionData)

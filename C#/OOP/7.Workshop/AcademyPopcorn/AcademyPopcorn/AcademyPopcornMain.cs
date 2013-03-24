@@ -25,22 +25,36 @@ namespace AcademyPopcorn
                 engine.AddObject(currBlock);
             }
 
-            ExplodingBlock explodingBlock = new ExplodingBlock(new MatrixCoords(4,7));
-            engine.AddObject(explodingBlock);
+            //ExplodingBlock makes trails 
+            // ExplodingBlock explodingBlock = new ExplodingBlock(new MatrixCoords(4,7));
+            //  engine.AddObject(explodingBlock);
+
+            //Ordinary ball
             //Ball theBall = new Ball(new MatrixCoords(WorldRows / 2, 0),
             //    new MatrixCoords(-1, 1));
-
             //engine.AddObject(theBall);
 
+            //Meteorite Ball makes trails when it moves
             //MeteoriteBall meteroitBall = new MeteoriteBall(new MatrixCoords(WorldRows / 2, 0),
             //    new MatrixCoords(-1, 1));
+            // engine.AddObject(meteroitBall);
 
-           // engine.AddObject(meteroitBall);
-
+            //Unstoppable Ball, can be stopped only by Unpassable Block
             UnstoppableBall unstoppableBall = new UnstoppableBall(new MatrixCoords(WorldRows / 2, 0),
                 new MatrixCoords(-1, 1));
             engine.AddObject(unstoppableBall);
 
+            //Falling gift
+            Gift giftObject = new Gift(new MatrixCoords(5, 15),
+                new MatrixCoords(-1, 0));
+
+            engine.AddObject(giftObject);
+
+            //Gift Block
+            GiftBlock giftBlock = new GiftBlock(new MatrixCoords(10, 10));
+            engine.AddObject(giftBlock);
+            
+            //UnpassableBlock
             UnpassableBlock unpassableBlock = new UnpassableBlock(new MatrixCoords(15, 15));
             engine.AddObject(unpassableBlock);
             UnpassableBlock unpassableBlock1 = new UnpassableBlock(new MatrixCoords(15, 16));
@@ -52,9 +66,11 @@ namespace AcademyPopcorn
 
             engine.AddObject(theRacket);
 
-            //Racket secondRacket = new Racket(new MatrixCoords(WorldRows -10, WorldCols / 2), RacketLength);
-
-           // engine.AddObject(secondRacket);
+           //Creating second Racket
+           //When you add second racket by addObject method, it checks whether the game has already a racket
+           //If it does, we are removing the previous, and adding the new one.
+           //Racket secondRacket = new Racket(new MatrixCoords(WorldRows -10, WorldCols / 2), RacketLength);
+           //engine.AddObject(secondRacket);
 
             TrailObject trailObject = new TrailObject(new MatrixCoords(1, 1), 20);
 
@@ -68,7 +84,8 @@ namespace AcademyPopcorn
                 engine.AddObject(indestructibleBlockRight);
             }
 
-            for (int i = 0; i < WorldCols; i++) {
+            for (int i = 0; i < WorldCols; i++)
+            {
                 IndestructibleBlock indestructibleBlockCeiling = new IndestructibleBlock(new MatrixCoords(0, i));
                 engine.AddObject(indestructibleBlockCeiling);
             }
@@ -94,8 +111,6 @@ namespace AcademyPopcorn
             };
 
             Initialize(gameEngine);
-
-            //
 
             gameEngine.Run();
         }

@@ -9,17 +9,12 @@ namespace AcademyPopcorn
     class UnpassableBlock:Block
     {
         
-
         public UnpassableBlock(MatrixCoords topLeft)
             : base(topLeft)
         {
             this.body = new char[,] { { '@' } };
         }
 
-        public override void Update()
-        {
-            
-        }
 
         public override bool CanCollideWith(string otherCollisionGroupString)
         {
@@ -29,11 +24,6 @@ namespace AcademyPopcorn
         public override void RespondToCollision(CollisionData collisionData)
         {
             this.IsDestroyed = false;
-        }
-
-        public override string GetCollisionGroupString()
-        {
-            return Block.CollisionGroupString;
         }
     }
 }

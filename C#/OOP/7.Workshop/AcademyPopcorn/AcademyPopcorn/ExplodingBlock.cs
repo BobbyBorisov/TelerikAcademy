@@ -16,11 +16,6 @@ namespace AcademyPopcorn
             this.body = new char[,] { { 'e' } };
         }
 
-        public override bool CanCollideWith(string otherCollisionGroupString)
-        {
-            return otherCollisionGroupString == "ball" ;
-        }
-
        
        
         public override IEnumerable<GameObject> ProduceObjects()
