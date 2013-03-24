@@ -1,0 +1,5 @@
+F:\TELERIK\OOP\GameMaking\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Release\AcademyPopcorn.exe.config
+F:\TELERIK\OOP\GameMaking\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Release\AcademyPopcorn.exe
+F:\TELERIK\OOP\GameMaking\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Release\AcademyPopcorn.pdb
+F:\TELERIK\OOP\GameMaking\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Release\AcademyPopcorn.exe
+F:\TELERIK\OOP\GameMaking\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Release\AcademyPopcorn.pdb
