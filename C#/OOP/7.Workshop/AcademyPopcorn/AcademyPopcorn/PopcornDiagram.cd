@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
   <Class Name="AcademyPopcorn.Ball" Collapsed="true">
-    <Position X="11" Y="6" Width="1.5" />
+    <Position X="8" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>BACAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
       <FileName>Ball.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AcademyPopcorn.Block" Collapsed="true">
-    <Position X="8.75" Y="4.5" Width="1.5" />
+    <Position X="2.75" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>BASAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
       <FileName>Block.cs</FileName>
@@ -22,7 +22,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="AcademyPopcorn.CollisionDispatcher" Collapsed="true">
-    <Position X="17.5" Y="3.25" Width="1.5" />
+    <Position X="17.5" Y="3.25" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAIAIAAACAAAAAAAAAACAAAABAAAAAAAAAAAACAAA=</HashCode>
       <FileName>CollisionDispatcher.cs</FileName>
@@ -44,14 +44,14 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="AcademyPopcorn.Engine" Collapsed="true">
-    <Position X="17.5" Y="4.25" Width="1.5" />
+    <Position X="19.75" Y="5.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>CAAAAFAAAAEAAAQAAAAAAAAABggAAAACAAAAAACAwAI=</HashCode>
+      <HashCode>DAAAAFAAAAEAAAQAAAAAAAAABggAAAACAAAAAACAwAI=</HashCode>
       <FileName>Engine.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AcademyPopcorn.GameObject" Collapsed="true">
-    <Position X="11" Y="3.25" Width="1.5" />
+    <Position X="5.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>BASAAAAAAIAAABAQAAAAABAQAQAAAAQAAIAAAAGAEAA=</HashCode>
       <FileName>GameObject.cs</FileName>
@@ -59,14 +59,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AcademyPopcorn.IndestructibleBlock" Collapsed="true">
-    <Position X="8.75" Y="6" Width="1.5" />
+    <Position X="2" Y="8" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
       <FileName>IndestructibleBlock.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AcademyPopcorn.KeyboardInterface" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="19.25" Y="4.25" Width="1.5" />
+    <Position X="23" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
       <FileName>KeyboardInterface.cs</FileName>
@@ -81,17 +81,102 @@
     </TypeIdentifier>
   </Class>
   <Class Name="AcademyPopcorn.MovingObject" Collapsed="true">
-    <Position X="11" Y="4.5" Width="1.5" />
+    <Position X="7.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MovingObject.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AcademyPopcorn.Racket" Collapsed="true">
-    <Position X="13.25" Y="4.5" Width="1.5" />
+    <Position X="11.25" Y="7.5" Width="1.5" />
+    <InheritanceLine Type="AcademyPopcorn.GameObject" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="3.812" />
+        <Point X="6.25" Y="6.199" />
+        <Point X="8.61" Y="6.199" />
+        <Point X="8.61" Y="4.905" />
+        <Point X="8.543" Y="4.905" />
+        <Point X="8.543" Y="7.125" />
+        <Point X="12" Y="7.125" />
+        <Point X="12" Y="7.5" />
+      </Path>
+    </InheritanceLine>
     <TypeIdentifier>
       <HashCode>BASAAAAAAAAAAAAAAAAAAEAAAAAAAIQIQAAAAAAAAAA=</HashCode>
       <FileName>Racket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.AcademyPopcornMain" Collapsed="true">
+    <Position X="34.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAQAAAAAECAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AcademyPopcornMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.ExplodingBlock" Collapsed="true">
+    <Position X="4.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ExplodingBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.Gift" Collapsed="true">
+    <Position X="10.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.GiftBlock" Collapsed="true">
+    <Position X="5.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>GiftBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.MeteoriteBall" Collapsed="true">
+    <Position X="9" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAA=</HashCode>
+      <FileName>MeteoriteBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.TrailObject" Collapsed="true">
+    <Position X="13.25" Y="7.25" Width="1.5" />
+    <InheritanceLine Type="AcademyPopcorn.GameObject" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="3.812" />
+        <Point X="6.25" Y="6.146" />
+        <Point X="8.46" Y="6.146" Type="JumpStart" />
+        <Point X="8.627" Y="6.146" Type="JumpEnd" />
+        <Point X="14" Y="6.146" />
+        <Point X="14" Y="7.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AASAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>TrailObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.UnpassableBlock" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnpassableBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.UnstoppableBall" Collapsed="true">
+    <Position X="6.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnstoppableBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademyPopcorn.UpgradedEngine" Collapsed="true">
+    <Position X="21.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>UpgradedEngine.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="AcademyPopcorn.ICollidable" Collapsed="true">

@@ -20,14 +20,16 @@ namespace AcademyPopcorn
 
             for (int i = startCol; i < endCol; i++)
             {
+                Block currBlock0 = new Block(new MatrixCoords(startRow-1, i));
                 Block currBlock = new Block(new MatrixCoords(startRow, i));
 
                 engine.AddObject(currBlock);
+                engine.AddObject(currBlock0);
             }
 
-            //ExplodingBlock makes trails 
-            // ExplodingBlock explodingBlock = new ExplodingBlock(new MatrixCoords(4,7));
-            //  engine.AddObject(explodingBlock);
+           //ExplodingBlock makes trails 
+             ExplodingBlock explodingBlock = new ExplodingBlock(new MatrixCoords(4,7));
+             engine.AddObject(explodingBlock);
 
             //Ordinary ball
             //Ball theBall = new Ball(new MatrixCoords(WorldRows / 2, 0),

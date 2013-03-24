@@ -9,30 +9,33 @@ namespace AcademyPopcorn
     {
         public void ProcessInput()
         {
-            if (Console.KeyAvailable)
+            for (int i = 0; i < 3; i++) // The racket will move 3 times faster than the ball
             {
-                var keyInfo = Console.ReadKey();
-                if (keyInfo.Key.Equals(ConsoleKey.A))
+                if (Console.KeyAvailable)
                 {
-                    if (this.OnLeftPressed != null)
+                    var keyInfo = Console.ReadKey(true);
+                    if (keyInfo.Key.Equals(ConsoleKey.A))
                     {
-                        this.OnLeftPressed(this, new EventArgs());
+                        if (this.OnLeftPressed != null)
+                        {
+                            this.OnLeftPressed(this, new EventArgs());
+                        }
                     }
-                }
 
-                if (keyInfo.Key.Equals(ConsoleKey.D))
-                {
-                    if (this.OnRightPressed != null)
+                    if (keyInfo.Key.Equals(ConsoleKey.D))
                     {
-                        this.OnRightPressed(this, new EventArgs());
+                        if (this.OnRightPressed != null)
+                        {
+                            this.OnRightPressed(this, new EventArgs());
+                        }
                     }
-                }
 
-                if (keyInfo.Key.Equals(ConsoleKey.Spacebar))
-                {
-                    if (this.OnActionPressed != null)
+                    if (keyInfo.Key.Equals(ConsoleKey.Spacebar))
                     {
-                        this.OnActionPressed(this, new EventArgs());
+                        if (this.OnActionPressed != null)
+                        {
+                            this.OnActionPressed(this, new EventArgs());
+                        }
                     }
                 }
             }
