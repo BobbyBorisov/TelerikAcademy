@@ -49,6 +49,7 @@
     <Compile Include="ConsoleRenderer.cs" />
     <Compile Include="Engine.cs" />
     <Compile Include="ExplodingBlock.cs" />
+    <Compile Include="Explosion.cs" />
     <Compile Include="Gift.cs" />
     <Compile Include="GiftBlock.cs" />
     <Compile Include="ICollidable.cs" />

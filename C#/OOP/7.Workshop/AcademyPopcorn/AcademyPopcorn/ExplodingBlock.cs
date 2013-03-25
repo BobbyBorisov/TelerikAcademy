@@ -23,17 +23,13 @@ namespace AcademyPopcorn
 
             if (this.IsDestroyed == true)
             {
-                var trailsOfExposion = new List<TrailObject>();
-                var xa = new MatrixCoords(1, 1);
-                var xo = new MatrixCoords(-1, -1);
-                var newCoords = this.GetTopLeft() - xa;
-                var newCoords1 = this.GetTopLeft() - xo;
-                var trail = new TrailObject(newCoords, 1);
-                var trail1 = new TrailObject(newCoords1, 1);
-                trailsOfExposion.Add(trail);
-                trailsOfExposion.Add(trail1);
+                var rangeOfExposion = new List<Explosion>();
+                rangeOfExposion.Add(new Explosion(this.TopLeft, new MatrixCoords(1, 0)));
+                rangeOfExposion.Add(new Explosion(this.TopLeft, new MatrixCoords(-1, 0)));
+                rangeOfExposion.Add(new Explosion(this.TopLeft, new MatrixCoords(0, -1)));
+                rangeOfExposion.Add(new Explosion(this.TopLeft, new MatrixCoords(0, 1)));
                 
-                return trailsOfExposion;
+                return rangeOfExposion;
             }
 
             return base.ProduceObjects();

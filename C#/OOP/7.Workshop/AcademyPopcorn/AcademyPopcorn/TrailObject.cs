@@ -8,7 +8,7 @@ namespace AcademyPopcorn
 {
     class TrailObject:GameObject
     {
-        public new const string CollisionGroupString = "trail";
+        
         
         public int LifeTime { get; set; }
         //public static int Count = 0;
@@ -17,11 +17,6 @@ namespace AcademyPopcorn
             : base(coords, new char[,] { { '+' } })
         {
             this.LifeTime = lifetime;
-        }
-
-        public override bool CanCollideWith(string otherCollisionGroupString)
-        {
-            return otherCollisionGroupString == "block";
         }
 
         public override void Update()
