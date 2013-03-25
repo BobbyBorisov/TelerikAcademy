@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OrganizerCore.AnyButtonPressedEventArgs">
+    <Position X="6.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnyButtonPressedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.ConsoleComunicator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEQAAAAIAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleComunicator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrganizerCore.Engine" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACQAEAAEAIQAAAEAIJAAASCAABAAAAJAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.Keyboard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAQAEAAAAAAAQAAAAAAAgAAAgAEAAABAAAA=</HashCode>
+      <FileName>Keyboard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrganizerCore.Menu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAEAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrganizerCore.Organizer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAKAQAAAAAAAACAAAAEgBAAAAAAAAAIAAAAAAgAAAEA=</HashCode>
+      <FileName>Organizer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrganizerCore.OutOfRange">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OutOfRange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.TextFilesIO">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAABAABAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextFilesIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.Entries.Anniversary" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAMAAAAAAAAAAAAAAAAoAAAAAAA=</HashCode>
+      <FileName>Entries\Anniversary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.Entries.Entry" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAIEAAACAAAACAAAAAgAoAAAAIAA=</HashCode>
+      <FileName>Entries\Entry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OrganizerCore.Entries.Meeting" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAEAAAAABAAAAAAAAAAoAAAAAAA=</HashCode>
+      <FileName>Entries\Meeting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.Entries.Memo" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Entries\Memo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizerCore.Entries.ToDo" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEAgAAAAAAAAEAAAAAEAAAAAAAAAAoAAQAAAA=</HashCode>
+      <FileName>Entries\ToDo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OrganizerCore.IComunicator" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEQAAAAIAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IComunicator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrganizerCore.IDisplayable" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDisplayable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrganizerCore.IMenu" Collapsed="true">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAEAAAAA=</HashCode>
+      <FileName>IMenu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrganizerCore.IOrganizer" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAKAAAAAAAAAAAAAAAAABAAAAAAAAAIAAAAAAgAAAAA=</HashCode>
+      <FileName>IOrganizer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrganizerCore.IUIDevive" Collapsed="true">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAQAEAAAAAAAQAAAAAAAgAAAgAEAAABAAAA=</HashCode>
+      <FileName>IUIDevive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrganizerCore.Entries.IEntry" Collapsed="true">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Entries\IEntry.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrganizerCore.Entries.IToDo" Collapsed="true">
+    <Position X="13.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Entries\IToDo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="OrganizerCore.Command">
+    <Position X="12" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEQAAAAAAAAAAAAAAAQAAEAAAQIAAAAAAEEAAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrganizerCore.Entries.EntryType">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAEAAAAAAAACAAAAAQAAAAA=</HashCode>
+      <FileName>Entries\EntryType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
