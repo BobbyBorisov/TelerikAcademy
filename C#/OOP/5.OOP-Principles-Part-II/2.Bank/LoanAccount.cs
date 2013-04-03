@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2.Bank
 {
-    class LoanAccount : Account, IDeposit
+    class LoanAccount : Account
     {
 
         public LoanAccount(Customer customer, decimal balance, decimal interestRate)
@@ -20,21 +20,16 @@ namespace _2.Bank
                 {
                     return default(decimal);
                 }
-                else return months * this.InterestRate;
+                else return months * this.InterestRate * this.Balance;
             }
             else {
                 if (months <= 2)
                 {
                     return default(decimal);
                 }
-                else return months * this.InterestRate;             
+                else return months * this.InterestRate * this.Balance;             
             }
                     
-        }
-
-        public void Deposit(decimal amount)
-        {
-            this.Balance += amount;
         }
     }
 }
