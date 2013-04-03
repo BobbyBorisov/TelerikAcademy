@@ -10,9 +10,9 @@ namespace _2.Task
     {
         public int Grade { get; set; }
 
-        public Student(string firstname, string lastname,int grade) {
-            this.FirstName = firstname;
-            this.LastName = lastname;
+        public Student(string firstname, string lastname,int grade) 
+            :base(firstname,lastname)
+        {
             this.Grade = grade;
         }
 
