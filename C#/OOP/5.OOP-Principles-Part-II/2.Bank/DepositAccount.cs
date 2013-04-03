@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2.Bank
 {
-    class DepositAccount: Account, IDeposit, IWithdraw
+    class DepositAccount: Account, IWithdraw
     {
         public DepositAccount(Customer customer, decimal balance, decimal interestRate)
             : base(customer, balance, interestRate) { }
@@ -22,11 +22,6 @@ namespace _2.Bank
         public void Withdraw(decimal amount)
         {
             this.Balance -= amount;
-        }
-
-        public void Deposit(decimal amount)
-        {
-            this.Balance += amount;
         }
     }
 }
