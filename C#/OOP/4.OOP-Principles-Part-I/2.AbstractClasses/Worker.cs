@@ -11,15 +11,15 @@ namespace _2.Task
         public float WeekSalary { get; set; }
         public float WorkHoursPerDay { get; set; }
 
-        public Worker(string firstName, string lastName,float week_salary, float hours_per_day) {
-            this.FirstName = firstName;
-            this.LastName = lastName;
+        public Worker(string firstName, string lastName,float week_salary, float hours_per_day)
+            :base(firstName,lastName)
+        {
             this.WeekSalary = week_salary;
             this.WorkHoursPerDay = hours_per_day;
         }
 
         public float MoneyPerHour() { 
-            return WeekSalary/WorkHoursPerDay;
+            return WeekSalary/(WorkHoursPerDay*5);
         }
 
         public override string ToString()
