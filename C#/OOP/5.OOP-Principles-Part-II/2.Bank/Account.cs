@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2.Bank
 {
-    abstract class Account
+    abstract class Account: IDeposit
     {
         public Customer Customer { get; set; }
         public decimal Balance { get; set; }
@@ -20,6 +20,11 @@ namespace _2.Bank
 
         public virtual decimal CalculateInterestAmount(int months){
             return months * this.InterestRate;
+        }
+        
+        public void Deposit(decimal amount)
+        {
+            this.Balance += amount;
         }
 
         public virtual void DisplayInfo()
