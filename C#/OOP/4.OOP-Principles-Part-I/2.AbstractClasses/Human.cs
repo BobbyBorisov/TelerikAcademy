@@ -11,4 +11,9 @@ namespace _2.Task
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }
+    
+    public Human(string firstname, string lastname){
+        this.FirstName = firstname;
+        this.LastName = lastname;
+    }
 }
