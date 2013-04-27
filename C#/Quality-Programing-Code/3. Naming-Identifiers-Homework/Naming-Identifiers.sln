@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweapers", "Minesweapers.csproj", "{B20E8DFD-5F12-4358-849D-1F25806E9052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolToStringPrinter", "..\ConsoleApplication1\BoolToStringPrinter.csproj", "{A21E741D-5ECA-47C9-927D-3538EA60F18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonEnumeration", "PersonEnumeration\PersonEnumeration.csproj", "{E38FE266-41C1-4F68-822C-3763673AF51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21E741D-5ECA-47C9-927D-3538EA60F18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21E741D-5ECA-47C9-927D-3538EA60F18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21E741D-5ECA-47C9-927D-3538EA60F18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21E741D-5ECA-47C9-927D-3538EA60F18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38FE266-41C1-4F68-822C-3763673AF51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38FE266-41C1-4F68-822C-3763673AF51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38FE266-41C1-4F68-822C-3763673AF51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38FE266-41C1-4F68-822C-3763673AF51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
