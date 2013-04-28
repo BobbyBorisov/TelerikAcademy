@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>DOM Manipulation - Creating HTML elements</title>
+	<style>
+		
+	</style>
+</head>
+<body>
+<div id="content">
+	<p>Create a text area and two inputs with type="color" <br/>
+#Make the font color of the text area as the value of the first color input <br/>
+#Make the background color of the text area as the value of the second input <br/>
+</p>
+	<input type="color" id="input-color1" />
+	<label>Font Color</label><br/>
+	<input type="color" id="input-color2" />
+	<label>Background Color</label><br/>
+	<textarea id="mytextArea"></textarea><br/>
+	<button id="mybutton">Change colors</button>
+</div>	
+	<script>
+	function changeColor(){
+		var mycolor = document.getElementById("input-color1").value;
+		var mycolor1 = document.getElementById("input-color2").value;
+		var area = document.getElementById("mytextArea");
+		area.style.color=mycolor;
+		area.style.background=mycolor1;
+
+
+	}
+		var mybutton = document.getElementById("mybutton");
+		mybutton.addEventListener("click",function(){
+			changeColor();
+		},false)
+	</script>
+</body>
+</html>

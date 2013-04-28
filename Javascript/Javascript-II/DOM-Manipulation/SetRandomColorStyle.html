@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>simple style example</title>
+ 
+<script type="text/javascript">
+
+function get_random_color() {
+    var letters = '0123456789ABCDEF'.split('');
+    var color = '#';
+    for (var i = 0; i < 6; i++ ) {
+        color += letters[Math.round(Math.random() * 15)];
+    }
+    return color;
+}
+
+function get_random_border_radius(startBorder,endBorder){
+	var border_radius=Math.round((Math.random()*endBorder)+startBorder);
+
+	return border_radius+'px';
+}
+
+function get_random_number(startBorder,endBorder){
+	var number = Math.round((Math.random()*endBorder)+startBorder);
+
+	return number+'px';
+}
+
+function resetStyle(elemId) {
+  div = document.getElementById(elemId);
+  div.style.background = 'white';
+}
+
+
+function onGenerateBoxesButtonClick() {
+			
+
+			var contentDiv = document.getElementById("wrapper");
+			while (contentDiv.firstChild) contentDiv.removeChild(contentDiv.firstChild);
+
+			var count = (document.getElementById("tb-box-count").value | 0) || 5;
+
+			for (var i = 0; i < count; i++) {
+				var div = document.createElement("div");
+				div.innerHTML="div";
+				div.className="p1";
+				div.style.borderColor=get_random_color();
+				div.style.borderColor=get_random_color();
+				div.style.background = get_random_color();
+				div.style.width=get_random_number(20,100);
+				div.style.height=get_random_number(20,100);
+				div.style['border-radius']=get_random_border_radius(4,23);
+				div.style.border.width=get_random_number(1,20);
+				div.style.top= get_random_number(0,550);
+				div.style.left=get_random_number(0,1351-9);
+				div.style.color=get_random_color();
+				contentDiv.appendChild(div);
+			}		
+			return false;
+		}
+
+</script>
+ 
+<style type="text/css">
+.p1 {
+  border: solid blue 2px;
+  position:absolute;
+}
+
+#wrapper{
+	
+	width:1342px;
+	height:550px;
+	border: solid lightblue 2px;
+}
+</style>
+</head>
+ 
+<body>
+ <input type="text" id="tb-box-count" />
+	<a href="#" id="generate-boxes-btn" onclick="onGenerateBoxesButtonClick()">Generate boxes</a>
+ <div id='wrapper'>
+
+ </div>
+
+ 
+</body>
+</html>

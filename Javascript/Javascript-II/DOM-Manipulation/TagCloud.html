@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>DOM Manipulation - Creating HTML elements</title>
+	<style>
+		#content{
+			
+			border:1px solid black;
+			overflow: hidden;
+		}
+
+		#cloud { padding: 10px; line-height: 4em; text-align: center;border:1px solid black;height:auto;}
+ 		#cloud a { padding: 2px; }
+
+ 		#cloud { margin: 10; }
+	    #cloud li { display: inline; padding: 5px; }
+
+
+	</style>
+</head>
+<body>
+	
+<ul id="cloud">
+</ul>
+	<script>
+	var hashArray = [];
+	var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"]
+
+
+	if(hashArray.length==0){
+			var item = {};
+				item.name = tags[0];
+				item.data = 1;
+				hashArray.push(item);			
+		}
+
+	for(i=1;i<tags.length;i++){
+		var found = false;
+		var j=0;
+		while(hashArray[j]!=null){
+			if(tags[i]===hashArray[j].name){
+				hashArray[j].data++;
+				found = true;
+			} 
+			j++;
+		}
+		if(found==false){
+				var item = {};
+				item.name = tags[i];
+				item.data = 1;
+				hashArray.push(item);
+			}	
+	}
+
+	
+
+    hashArray.sort(function(a,b){
+    	return a.data - b.data;
+    });
+
+	var ElemList = document.getElementById("cloud");
+    
+    for(i=0;i<hashArray.length;i++){
+		var elemItem= document.createElement("li");
+		elemItem.style.fontSize=i*5+15+"px";
+		elemItem.innerHTML = hashArray[i].name;
+		ElemList.appendChild(elemItem);
+}
+	</script>
+	
+</body>
+</html>

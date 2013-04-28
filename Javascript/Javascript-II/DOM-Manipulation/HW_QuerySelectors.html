@@ -1,0 +1,41 @@
+<!doctype html>
+<meta charset="utf-8" />
+<title>QuerySelector Shim - Telerik JavaScript Part 2 Course (2013) homework</title>
+<body>
+  <h1>Write a script that shims querySelector and querySelectorAll<br/>
+  =>output is in the console</h1>
+  <div id=main class=container >
+    <div id=navigation class=inner ></div>
+    <div id=content class=inner ></div>
+  </div>
+  <script>
+  if (!document.querySelector || !document.querySelectorAll) {
+            document.querySelectorAll = function (selector) {
+                switch (selector.charAt(0)) {
+                    case "#": return document.getElementById(selector.substring(1, selector.length));
+                    case ".": return document.getElementsByClassName(selector.substring(1, selector.length));
+                    default: return document.getElementsByTagName(selector);
+                }
+            }
+ 
+            document.querySelector = function (selector) {
+                switch (selector.charAt(0)) {
+                    case "#": return document.getElementById(selector.substring(1, selector.length))[0];
+                    case ".": return document.getElementsByClassName(selector.substring(1, selector.length))[0];
+                    default: return document.getElementsByTagName(selector)[0];
+                }
+            }
+        }
+  
+	var selectors = ['div', '#content', '.inner', '.something'];
+
+  selectors.forEach(function (selector) {
+    console.group('Elements matching selector:', selector);
+    console.log('querySelectorAll:', document.querySelectorAll(selector));
+    console.log('querySelector:', document.querySelector(selector));
+    console.groupEnd();
+  });
+  
+  
+  </script>
+</body>

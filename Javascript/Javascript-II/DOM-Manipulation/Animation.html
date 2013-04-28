@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+
+  
+</head>
+<body>
+  <button id="start">Start</button>
+  <button id="stop">Stop</button>
+  <script type="text/javascript">
+ 
+ var interval = '';
+
+function get_random_color() {
+    var letters = '0123456789ABCDEF'.split('');
+    var color = '#';
+    for (var i = 0; i < 6; i++ ) {
+        color += letters[Math.round(Math.random() * 15)];
+    }
+    return color;
+}
+
+function generateDiv(leftPos,topPos,i) {
+  var width = 50;
+  var height = 50;
+
+  //var leftPos = 50;
+  //var topPos = 50;
+
+  var borderRadius = 25;
+  var borderWidth = 2;
+
+  var div = document.createElement('div');
+  var strong = document.createElement('strong'); 
+  var strongContent = document.createTextNode('DIV'+i);
+
+  strong.appendChild(strongContent);
+  strong.style.padding=10+"px";
+  div.appendChild(strong);
+
+  div.style.position = 'absolute';
+  div.style.left = leftPos + 'px';
+  div.style.top = topPos + 'px';
+  div.style.margin = 250 + 'px';
+  div.style.width = width + 'px';
+  div.style.height = height + 'px';
+  div.style.backgroundColor = get_random_color();
+  div.style.border = borderWidth + 'px solid ' + get_random_color();
+  div.style.borderRadius = borderRadius + 'px';
+
+  //document.body.appendChild(div);
+  return div;
+}
+
+var i = 0;
+
+var circle = {}
+circle.x=100;
+circle.y=100;
+circle.radius=100;
+var anglestep = 360/5;
+var currentangle = 0;
+var divX,divY,currentDiv;
+
+for(i = 0; i < 5; i++) {
+  divX = circle.radius*Math.cos((anglestep *i)* Math.PI /180);
+  divY = circle.radius*Math.sin((anglestep *i)* Math.PI /180);
+  currentDiv = generateDiv(divX,divY,i);
+
+  document.body.appendChild(currentDiv);
+}
+
+
+var angle = 0;
+var maxAngle = false;
+var allDivs = document.querySelectorAll('div');
+
+function animateDiv() {
+  for(i = 0; i < 5; i++) {
+    allDivs[i].style.left = Math.cos(angle + 2 * Math.PI / allDivs.length * i)/circle.radius * 10000 + 'px';
+    allDivs[i].style.top = Math.sin(angle + 2 * Math.PI / allDivs.length* i)/circle.radius * 10000 + 'px';
+  }
+    angle = angle + 0.01;   
+}
+
+var startButton= document.getElementById("start");
+var stopButton= document.getElementById("stop");
+stopButton.disabled=true;
+startButton.addEventListener("click",function(){
+  startButton.disabled=true;
+  stopButton.disabled=false;
+  interval=setInterval("animateDiv()",10)
+},false);
+
+
+stopButton.addEventListener("click",function(){
+  startButton.disabled=false;
+  stopButton.disabled=true;
+  clearInterval(interval);
+},true);
+
+</script>
+</body>
+</html>
