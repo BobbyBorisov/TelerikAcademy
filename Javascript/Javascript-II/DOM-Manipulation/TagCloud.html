@@ -9,23 +9,44 @@
 			overflow: hidden;
 		}
 
-		#cloud { padding: 10px; line-height: 4em; text-align: center;border:1px solid black;height:auto;}
+		#cloud { padding: 10px; line-height: 4em; text-align: center;border:1px solid black;height:auto; width: 300px;}
  		#cloud a { padding: 2px; }
 
  		#cloud { margin: 10; }
-	    #cloud li { display: inline; padding: 5px; }
+	    #cloud span { display: inline-block; padding: 5px; }
 
 
 	</style>
 </head>
 <body>
-	
+	<input type"text" id="tb-text"/>
+	<button id="tb-submit">Push into TagCloud</button>
 <ul id="cloud">
 </ul>
 	<script>
-	var hashArray = [];
-	var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"]
+	var button = document.getElementById("tb-submit");
+	button.addEventListener("click",function(){
+		var inputValue=document.getElementById("tb-text").value;
+		tags.push(inputValue);
+		console.log("pushed "+inputValue);
+		ComputeHashArray(tags);
+		otherstuff();
+	})
 
+	function get_random_color() {
+    var letters = '0123456789ABCDEF'.split('');
+    var color = '#';
+	    for (var i = 0; i < 6; i+=1 ) {
+	        color += letters[Math.round(Math.random() * 15)];
+	    }
+
+    return color;
+	}
+
+	var hashArray = [];
+	var tags = ["cms", "javascript", "js", "ASP.NET", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"]
+
+	function ComputeHashArray(){
 
 	if(hashArray.length==0){
 			var item = {};
@@ -34,16 +55,18 @@
 				hashArray.push(item);			
 		}
 
-	for(i=1;i<tags.length;i++){
+	for(i=1;i<tags.length;i+=1){
 		var found = false;
 		var j=0;
+
 		while(hashArray[j]!=null){
 			if(tags[i]===hashArray[j].name){
-				hashArray[j].data++;
+				hashArray[j].data+=1;
 				found = true;
 			} 
-			j++;
+			j+=1;
 		}
+
 		if(found==false){
 				var item = {};
 				item.name = tags[i];
@@ -52,19 +75,42 @@
 			}	
 	}
 
-	
-
-    hashArray.sort(function(a,b){
+	hashArray.sort(function(a,b){
     	return a.data - b.data;
     });
+}
 
+	ComputeHashArray(hashArray);
+	otherstuff();
+    
+	function otherstuff(){
 	var ElemList = document.getElementById("cloud");
+
+	while (ElemList.firstChild) ElemList.removeChild(ElemList.firstChild);
     
     for(i=0;i<hashArray.length;i++){
-		var elemItem= document.createElement("li");
-		elemItem.style.fontSize=i*5+15+"px";
+		hashArray[i].font = i*3+1+"px";
+	}
+
+
+	hashArray.sort(function(a, b){
+ 		var nameA=a.name.toLowerCase(), nameB=b.name.toLowerCase()
+ 	if (nameA < nameB) //sort string ascending
+  		return -1 
+ 	if (nameA > nameB)
+  		return 1
+ 	return 0 //default return value (no sorting)
+	});
+
+	for(i=0;i<hashArray.length;i+=1){
+		var elemItem= document.createElement("span");
+		elemItem.style.fontSize=hashArray[i].font;
 		elemItem.innerHTML = hashArray[i].name;
+		elemItem.style.color = get_random_color();
 		ElemList.appendChild(elemItem);
+	}
+
+	console.log(hashArray);
 }
 	</script>
 	
