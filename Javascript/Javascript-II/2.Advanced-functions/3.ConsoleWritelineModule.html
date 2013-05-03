@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    var specialConsole = (function(){
+
+        function writeOnConsole(args){
+
+            var args = Array.prototype.slice.call(arguments);
+            var text = args[0];
+            var values = [];
+            j=1;
+
+            while(args[j]){
+                values[j-1]=args[j];
+                j++;
+            }
+
+            var indexStart=0;
+            for(var i=0;i<values.length;i++){
+                indexStart=text.indexOf("{"+i+"}");
+                var subText = text.substring(indexStart,indexStart+3);
+                var temp = subText.replace("{"+i+"}",values[i]);
+                text=text.replace(subText,temp);
+            }
+
+            console.log(text);
+        }
+
+        return{
+            writeError: writeOnConsole,
+            writeLine: writeOnConsole,
+            writeWarning: writeOnConsole
+        }
+    })();
+    
+    specialConsole.writeLine("Message: {0}", "hello");
+    specialConsole.writeError("Error: {0}", "Something happened");
+    specialConsole.writeWarning("Warning: {0}", "A warning");
+</script>
+</body>
+</html>
