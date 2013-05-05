@@ -122,21 +122,22 @@
     <div class="container" id="cont3" ondrop="drop(event)" ondragover="allowDrop(event)" data-container="0">
     </div>
     <div id="timer"></div>
-  <button id="start">Start</button>
-  <button id="stop">Stop</button>
+  <button id="start">Resume</button>
+  <button id="stop">Pause</button>
   <button id="clear">Clear Timer</button><br>
   
   Name:<input id="tb-name" type="text"/><br>
-  <button id="save" onclick="save()">Save Time</button>
+  <button id="save">Save Time</button>
   <button onclick="clearStorage()">Clear SStorage</button>
   
-  <button type="button" onclick="initialize()">New Game</button>
+  <button id="newGame">New Game</button>
   <div id="scoreDiv"></div>
 
   <table id="scorelist"></table>
  <script>
         function initialize(){
             sessionStorage.clear();
+            maxScore=0;
             var divContainer = document.querySelectorAll("div.container");
             var supportedColors = ["rgb(173, 216, 230)","rgb(65, 163, 23)","rgb(128, 0, 128)"];
 
@@ -153,6 +154,7 @@
                 }
             document.getElementById("scoreDiv").innerHTML=0;
             Generator.generateItems();
+            stopButton.disabled=false;
          }
 
         function clearStorage(){
@@ -176,7 +178,10 @@
             }
 
             if(scoreCount===maxScore){
-                stopButton.click();
+                saveButton.disabled=false;
+                stopButton.disabled=true;
+                clearInterval(interval);
+                //Timer.cleartimer();
             }
             document.getElementById("scoreDiv").innerHTML=scoreCount;
         }
@@ -309,30 +314,66 @@
         var startButton= document.getElementById("start");
         var stopButton= document.getElementById("stop");
         var clearButton= document.getElementById("clear");
+        var saveButton = document.getElementById("save");
+        var newGameButton = document.getElementById("newGame");
 
+        //Initialize buttons
+        startButton.disabled=true;
         stopButton.disabled=true;
+        clearButton.disabled=true;
+        saveButton.disabled = true;
+
         startButton.addEventListener("click",function(){
           startButton.disabled=true;
           stopButton.disabled=false;
           clearButton.disabled=true;
-          start = setInterval("Timer.startwatch()", 100);
+          interval=setInterval("Timer.startwatch()",100);
+          var pieces = document.querySelectorAll(".generated");
+          for(var i=0;i<pieces.length;i++){
+            pieces[i].style.display = "block";
+          }
         },false);
 
         stopButton.addEventListener("click",function(){
           startButton.disabled=false;
           stopButton.disabled=true;
           clearButton.disabled=true;
-          clearInterval(start);
+          clearInterval(interval);
+          var pieces = document.querySelectorAll(".generated");
+          for(var i=0;i<pieces.length;i++){
+            pieces[i].style.display = "none";
+          }
         },true);
-
+        var interval="";
         clearButton.addEventListener("click",function(){
           startButton.disabled=true;
           stopButton.disabled=false;
           clearButton.disabled=true;
-          clearInterval(start);
-          Timer.cleartimer();
+          
         },true);
 
+        saveButton.addEventListener("click",function(){
+            save();
+            saveButton.disabled = true;
+        },false);
+
+        newGameButton.addEventListener("click",function(){
+            clearInterval(interval);
+            Timer.cleartimer();
+            var contentDiv = document.querySelectorAll(".generated");
+            
+            if(contentDiv.length>0){
+            var parent = contentDiv[0].parentNode;
+            var i=0;
+            while (contentDiv[i]) {
+                parent.removeChild(contentDiv[i]);
+                i++;
+            }
+        }
+
+            interval = setInterval("Timer.startwatch()", 100);
+            initialize();
+        },false)
 </script>
 </body>
 </html>
