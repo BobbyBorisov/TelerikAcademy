@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JavaScript APIs - Drag and Drop</title>
+    <style>
+        table,td,th{
+            border:thin solid black;
+        }
+
+        .generated {
+            height:60px;
+            width: 60px;
+            position:absolute;
+            color:white;
+            font-size:25px;
+            line-height: 60px;
+            text-align: center;
+            border-radius: 5px;
+        }
+
+        .container {
+            border-radius: 5px;
+            width: 180px;
+            height: 180px;
+            float: left;
+            padding:auto;
+            margin:5px;
+            font-size:40px;
+            text-align: center;
+            line-height: 180px;
+            color:white;
+        }
+
+        #cont1{
+            background-color:lightblue;
+        }
+
+        #cont2{
+            background-color:lightgreen;
+        }
+
+        #cont3{
+            background-color:purple;
+        }
+
+            #first {
+                background-color: lightblue;
+                font-size:25px;
+            }
+
+            #second {
+                background-color: lightgreen;
+                font-size:25px;
+
+            }
+
+            #third {
+                background-color: purple;
+                font-size:25px;
+
+            }
+
+            #first, #second, #third {
+                float: left;
+                height: 60px;
+                width: 60px;
+                border-radius:5px;
+                user-select:none;
+                text-align:center;
+                vertical-align:central;
+                color:white;
+                font-weight:bold; 
+                text-align:center;
+                line-height:60px;
+                margin:2px;
+            }
+
+            #timer{
+            padding-bottom: 5px;
+            font-size:23px;
+            height:20px;
+
+
+        }
+        #scoreDiv{
+                height:50px;
+                width:100px;
+                text-align: center;
+                font-size:23px;
+                line-height:50px;
+                border:1px solid black;
+                position: absolute;
+                top:20px;
+                left:800px;
+                color:white;
+                background-color:lightgrey;
+            }
+         #scorelist{
+                
+                width:240px;
+                text-align: center;
+                font-size:14px;
+                line-height: 20px;
+                border:1px solid black;
+                position: absolute;
+                top:50px;
+                left:1100px;
+                color:white;
+                background-color:lightgrey;
+            }
+        
+    </style>
+    <script type="text/javascript" src="scripts/web-storage-objects.js"></script>
+    <script type="text/javascript" src="scripts/timer-script.js"></script>
+</head>
+<body >
+    <div class="container" id="cont1" ondrop="drop(event)" ondragover="allowDrop(event)" data-container="0">
+        
+    </div>
+    <div class="container" id="cont2" ondrop="drop(event)" ondragover="allowDrop(event)" data-container="0">
+    </div>
+    <div class="container" id="cont3" ondrop="drop(event)" ondragover="allowDrop(event)" data-container="0">
+    </div>
+    <div id="timer"></div>
+  <button id="start">Start</button>
+  <button id="stop">Stop</button>
+  <button id="clear">Clear Timer</button><br>
+  
+  Name:<input id="tb-name" type="text"/><br>
+  <button id="save" onclick="save()">Save Time</button>
+  <button onclick="clearStorage()">Clear SStorage</button>
+  
+  <button type="button" onclick="initialize()">New Game</button>
+  <div id="scoreDiv"></div>
+
+  <table id="scorelist"></table>
+ <script>
+        function initialize(){
+            sessionStorage.clear();
+            var divContainer = document.querySelectorAll("div.container");
+            var supportedColors = ["rgb(173, 216, 230)","rgb(65, 163, 23)","rgb(128, 0, 128)"];
+
+                for(var i=0;i<divContainer.length;i++){
+                    if(!sessionStorage.getObject(divContainer[i].id)){
+                        var obj = {
+                            dropType:supportedColors[i],
+                            counter: 0
+                        };
+
+                        sessionStorage.setObject(divContainer[i].id, obj);
+                        divContainer[i].innerHTML = sessionStorage.getObject(divContainer[i].id).counter;
+                    }
+                }
+            document.getElementById("scoreDiv").innerHTML=0;
+            Generator.generateItems();
+         }
+
+        function clearStorage(){
+            sessionStorage.clear();
+            localStorage.clear();
+        }
+
+        function allowDrop(ev) {
+            ev.preventDefault();
+        }
+
+        function drag(ev) {
+            ev.dataTransfer.setData("dragged-id", ev.target.id);
+        }
+
+        function updateScore(){
+            var divContainer = document.querySelectorAll("div.container");
+            var scoreCount=0;
+            for(var i = 0; i<divContainer.length;i++){
+                 scoreCount += sessionStorage.getObject(divContainer[i].id).counter;
+            }
+
+            if(scoreCount===maxScore){
+                stopButton.click();
+            }
+            document.getElementById("scoreDiv").innerHTML=scoreCount;
+        }
+
+        function drop(ev) {
+            ev.preventDefault();
+            var data = ev.dataTransfer.getData("dragged-id");
+
+            var myelement = document.getElementById(data);
+
+            var myobject = sessionStorage.getObject(ev.target.id);
+            if(myobject.dropType === myelement.style.background){
+                ev.target.appendChild(myelement);
+            } else {
+                return;
+            }
+
+            myelement.style.display="none";
+            var newPoints = myelement.getAttribute("points") | 0;
+            sessionStorage.setValue(ev.target.id,"counter",newPoints);
+            ev.target.innerHTML = sessionStorage.getObject(ev.target.id).counter;
+            updateScore();
+        }
+
+        var scoreArray = [];
+        
+        function save(ev){
+            var name = document.getElementById("tb-name").value;
+            var playerscore = document.getElementById("scoreDiv").innerHTML | 0;
+            
+            var obj = {
+                 name: name,
+                 score: playerscore,
+                 time: Timer.getTime()
+            };
+
+
+            var scoreArray = localStorage.getObject("topScore");
+
+            if(scoreArray){
+                scoreArray.push(obj);
+                scoreArray.sort(function(a,b){
+                return a.score - b.score;
+            });
+            } else {
+                var scoreArray = [];
+                scoreArray.push(obj);
+            }
+            //scoreArray.push(obj);
+
+            localStorage.setObject("topScore",scoreArray);
+
+            showTopPlayers();
+        }
+    
+        function item(startTop, startLeft) {
+            this.currentTop = startTop;
+            this.currentLeft = startLeft;
+            this.div = document.createElement('div');
+            this.div.style.top = startTop + 'px';
+            this.div.className="generated";
+            this.div.id=Generator.generateNumber(0,100);
+            this.div.style.left = startLeft + 'px';
+            this.div.style.background=Generator.generateColor();
+            this.div.innerHTML=Generator.generateNumber(1,20);
+            this.div.setAttribute("points",this.div.innerHTML | 0);
+            this.div.addEventListener("dragstart",function(ev){
+                ev.dataTransfer.setData("dragged-id", ev.target.id);
+            });
+            this.div.setAttribute("draggable","true");
+            document.body.appendChild(this.div);
+         }
+
+        var Generator = (function(){
+           
+            function generateNumber(startBorder,endBorder){
+                var number = Math.round((Math.random()*endBorder)+startBorder);
+
+                return number;
+            }
+
+            function generateColor() {
+                var colors = ['#ADD8E6','#41A317','#800080'];
+                var rand = colors[Math.floor(Math.random() * colors.length)];
+            
+                return rand;
+            }
+
+            function generateItems() {
+                
+                startButton.click();
+                for(var i=0;i<10;i++){
+                var shape = new item(generateNumber(180,390),generateNumber(0,1270));
+                maxScore+=shape.div.innerHTML | 0;
+                }
+            }
+
+            return {
+                generateNumber: generateNumber,
+                generateColor: generateColor,
+                generateItems: generateItems
+            }
+        })();
+    
+        var maxScore = 0;
+
+        function showTopPlayers(){
+            var contentDiv = document.getElementById("scorelist");
+            //contentDiv.innerHTML = "";
+            
+            var tableContent= "<table id='scorelist' cellspacing='0'>"+"<caption>Score table</caption>"+"<thead><tr>"+"<th>N</th>"+"<th>Name</th>"+"<th>Points</th>"+"<th>Time</th>"+"</tr>"+"</thead><tbody>";
+
+            var arr = localStorage.getObject("topScore");
+            if(arr){
+                var place = 1;
+                var i=arr.length-1;
+                while(arr[i]!=null && i>arr.length-6){
+                    tableContent+="<tr><td>"+place+"</td>"+"<td>"+arr[i].name+"</td>"+"<td>"+arr[i].score+"</td>"+"<td>"+arr[i].time+"</td>";
+                    i--;
+                    place++;
+                }
+            }
+            tableContent+="</tbody></table>";
+            //document.getElementById("scorelist").outerHTML=tableContent;
+            contentDiv.outerHTML=tableContent;
+        }
+
+        showTopPlayers();
+
+        var startButton= document.getElementById("start");
+        var stopButton= document.getElementById("stop");
+        var clearButton= document.getElementById("clear");
+
+        stopButton.disabled=true;
+        startButton.addEventListener("click",function(){
+          startButton.disabled=true;
+          stopButton.disabled=false;
+          clearButton.disabled=true;
+          start = setInterval("Timer.startwatch()", 100);
+        },false);
+
+        stopButton.addEventListener("click",function(){
+          startButton.disabled=false;
+          stopButton.disabled=true;
+          clearButton.disabled=true;
+          clearInterval(start);
+        },true);
+
+        clearButton.addEventListener("click",function(){
+          startButton.disabled=true;
+          stopButton.disabled=false;
+          clearButton.disabled=true;
+          clearInterval(start);
+          Timer.cleartimer();
+        },true);
+
+</script>
+</body>
+</html>
