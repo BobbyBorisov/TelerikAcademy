@@ -327,6 +327,7 @@
           startButton.disabled=true;
           stopButton.disabled=false;
           clearButton.disabled=true;
+          interval=clearInterval(interval);
           interval=setInterval("Timer.startwatch()",100);
           var pieces = document.querySelectorAll(".generated");
           for(var i=0;i<pieces.length;i++){
@@ -338,13 +339,15 @@
           startButton.disabled=false;
           stopButton.disabled=true;
           clearButton.disabled=true;
-          clearInterval(interval);
+          interval = clearInterval(interval);
           var pieces = document.querySelectorAll(".generated");
           for(var i=0;i<pieces.length;i++){
             pieces[i].style.display = "none";
           }
         },true);
+        
         var interval="";
+
         clearButton.addEventListener("click",function(){
           startButton.disabled=true;
           stopButton.disabled=false;
@@ -358,8 +361,11 @@
         },false);
 
         newGameButton.addEventListener("click",function(){
-            clearInterval(interval);
-            Timer.cleartimer();
+            if(interval>0){
+               interval = clearInterval(interval);
+               Timer.cleartimer();
+            } 
+            
             var contentDiv = document.querySelectorAll(".generated");
             
             if(contentDiv.length>0){
