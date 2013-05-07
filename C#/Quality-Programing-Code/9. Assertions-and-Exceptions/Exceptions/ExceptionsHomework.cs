@@ -58,16 +58,29 @@ public class ExceptionsHomework
 
     public static void Main()
     {
-        try
-        {
             var substr = Subsequence("Hello!".ToCharArray(), 2, 3);
             Console.WriteLine(substr);
 
             var subarr = Subsequence(new int[] { -1, 3, 2, 1 }, 0, 2);
             Console.WriteLine(string.Join(" ", subarr));
 
-            var allarr = Subsequence(new int[] { -1, 3, 2, 1 }, 0, 4);
-            Console.WriteLine(string.Join(" ", allarr));
+            try
+            {
+                var allarr = Subsequence(new int[] { -1, 3, 2, 1 }, 0, 4);
+                Console.WriteLine(string.Join(" ", allarr));
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (NullReferenceException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
 
             var emptyarr = Subsequence(new int[] { -1, 3, 2, 1 }, 0, 0);
             Console.WriteLine(string.Join(" ", emptyarr));
@@ -75,7 +88,23 @@ public class ExceptionsHomework
             Console.WriteLine(ExtractEnding("I love C#", 2));
             Console.WriteLine(ExtractEnding("Nakov", 4));
             Console.WriteLine(ExtractEnding("beer", 4));
-            Console.WriteLine(ExtractEnding("Hi", 100));
+
+            try
+            {
+                Console.WriteLine(ExtractEnding("Hi", 100));
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (NullReferenceException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
 
             if (CheckPrime(23))
             {
@@ -106,18 +135,5 @@ public class ExceptionsHomework
             Student peter = new Student("Peter", "Petrov", peterExams);
             double peterAverageResult = peter.CalcAverageExamResultInPercents();
             Console.WriteLine("Average results = {0:p0}", peterAverageResult);
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-        catch (NullReferenceException ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-        catch (IndexOutOfRangeException ex) 
-        {
-            Console.WriteLine(ex.Message);
-        }
     }
 }

@@ -29,6 +29,8 @@ public class AssertionsHomework
             int minElementIndex = FindMinElementIndex(arr, index, arr.Length - 1);
             Swap(ref arr[index], ref arr[minElementIndex]);
         }
+
+        Debug.Assert(arr != arr.OrderBy(x => x).ToArray(), "The array is not sorted.");
     }
 
     public static int BinarySearch<T>(T[] arr, T value) where T : IComparable<T>
