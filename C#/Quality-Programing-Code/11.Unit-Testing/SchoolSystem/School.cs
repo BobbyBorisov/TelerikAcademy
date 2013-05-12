@@ -57,7 +57,7 @@
                 throw new ArgumentException("Cannot remove non-existent course");
             }
 
-            this.Courses.Add(course);
+            this.Courses.Remove(course);
         }
 
         /*
