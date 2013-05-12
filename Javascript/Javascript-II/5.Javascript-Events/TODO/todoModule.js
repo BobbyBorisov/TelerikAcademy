@@ -3,11 +3,11 @@
   var TodoModule = function(param){
   	this.Container = document.getElementById(param.Container);
   	this.CheckBoxesName = document.getElementsByClassName(param.CheckBoxesName);
-  	this.txtData = document.getElementById(param.Data);
-  	this.HiddenCheckBoxes = document.getElementById(param.HiddenCheckBoxes);
+  	this.txtData = document.getElementById(param.txtData);
+  	this.HiddenCheckBoxes = document.getElementsByClassName(param.HiddenCheckBoxes);
   	this.btnAddItem = document.getElementById(param.btnAddItem);
   	this.btnHideItem = document.getElementById(param.btnHideItem);
-  	this.btnShowItem = document.getElementById(param.btnHideItem);
+  	this.btnShowItem = document.getElementById(param.btnShowItem);
   	this.btnRemoveItem = document.getElementById(param.btnRemoveItem);
   	this.ItemsCount = 0;
 	}
@@ -27,8 +27,9 @@
   					var parent = checkBoxes[i].parentNode;
   					parent.style.display = "none";
   					parent.className = "hidden";
+  				}
         }, 
-        Remove: function(){        
+        Remove: function(checkedBoxes){        
             for(var i=0;i<checkedBoxes.length;i++){    
 				var parent = checkedBoxes[i].parentNode;
 				this.Container.removeChild(parent);
@@ -36,8 +37,8 @@
   		},
   		ShowAll: function(){
   			var checkedBoxes = this.HiddenCheckBoxes;
-  			for(var i=0;checkedBoxes.length;i+=1){
-  					var parent = this.checkedBoxes[i].style.display = "";
+  			for(var i=0;i<checkedBoxes.length;i+=1){
+  					var parent = checkedBoxes[i].style.display = "";
   				}
   		},
   		GetCheckedBoxes: function(){
@@ -54,36 +55,37 @@
 			
   		},
   		initEvents: function(){
+  			var that = this;
   			//Add button logic 
   			this.btnAddItem.addEventListener("click",function(ev){
   				ev.preventDefault();
-  				var itemData = this.txtData.value;
-  				this.Add(itemData);
+  				var itemData = that.txtData.value;
+  				that.Add(itemData);
   			},false);
 
   			//Hide button logic 
   			this.btnHideItem.addEventListener("click",function(ev){
   				ev.preventDefault();
   				
-  				this.Hide();
+  				that.Hide();
   				
   			},false);
 
   			//Show button logic 
   			this.btnShowItem.addEventListener("click",function(ev){
-  				this.ShowAll();
+  				that.ShowAll();
   			},false);
 
   			//Remove button logic 
-  			this.btnRemove.addEventListener("click",function(ev){
-  				var checkBoxesToRemove = this.GetCheckedBoxes();
-  				this.Remove(checkBoxesToRemove);
+  			this.btnRemoveItem.addEventListener("click",function(ev){
+  				var checkBoxesToRemove = that.GetCheckedBoxes();
+  				that.Remove(checkBoxesToRemove);
   			},false);
   		},
   	};
   
   	window.addEventListener('load', function () {
-        var TodoModule = new TodoModule({
+        var todoModule = new TodoModule({
             Container: "todo-container",
             CheckBoxesName: "mycheckboxes",
             txtData: "txtData",
@@ -93,6 +95,6 @@
             btnShowItem: "btnShowItem",
             btnRemoveItem: "btnRemoveItem"
         });
-        TodoModule.init();
+        todoModule.init();
     }, false);
 })();
