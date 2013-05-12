@@ -1,0 +1,83 @@
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="web-storage-script.js"></script>
+	<style type="text/css">
+		li{
+			list-style-type: none;
+		}
+
+		.hidden{
+
+		}
+	</style>
+</head>
+<body>
+<input type="text" id="todo">
+<button id="addButton" onclick="add()">Add</button>
+<button id="deleteButton" onclick="removeIt()">Delete</button>
+<button id="showAndHideButton" onclick="Hide()">Hide</button>
+<button id="showAndHideButton" onclick="ShowAll()">ShowAll</button>
+<ul id="todo-container">
+</ul>
+<script type="text/javascript">
+	var addButton = document.getElementById("addButton");
+	var itemId = 0;
+
+	function add(){
+		var ulContainer = document.getElementById("todo-container");
+		var data = document.getElementById("todo").value;
+		ulContainer.innerHTML+='<li><input id="'+itemId+'" type="checkbox" value="Bike" class="mycheckboxes">'+data+'</li>';
+		itemId++;
+	}
+
+	// Pass the checkbox name to the function
+	function getCheckedBoxes(chkboxName) {
+	  var checkboxes = document.getElementsByClassName(chkboxName);
+	  var checkboxesChecked = [];
+	  // loop over them all
+	  for (var i=0; i<checkboxes.length; i++) {
+	     // And stick the checked ones onto an array...
+	     if (checkboxes[i].checked) {
+	        checkboxesChecked.push(checkboxes[i]);
+	     }
+	  }
+	  // Return the array if it is non-empty, or null
+	  return checkboxesChecked.length > 0 ? checkboxesChecked : null;
+	}
+
+	function removeIt(){
+		// Call as
+		var checkedBoxes = getCheckedBoxes("mycheckboxes");
+		var ulContainer = document.getElementById("todo-container");
+
+		for(var i=0;i<checkedBoxes.length;i++){
+			var parent = checkedBoxes[i].parentNode;
+			ulContainer.removeChild(parent);
+		}
+	}
+
+	function Hide(){
+
+		var checkedBoxes = getCheckedBoxes("mycheckboxes");
+		
+		for(var i=0;i<checkedBoxes.length;i++){
+			var parent = checkedBoxes[i].parentNode;
+			parent.style.display="none";
+			parent.className='hidden';
+			
+		}
+	}
+
+	function ShowAll(){
+
+		var checkedBoxes = document.getElementsByClassName("hidden");
+		
+		for(var i=0;i<checkedBoxes.length;i++){
+			var parent = checkedBoxes[i].style.display="";
+			
+		}
+	}
+</script>
+</body>
+</html>
