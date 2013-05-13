@@ -1,0 +1,72 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#secondContainer{
+			position:absolute;
+			border:1px solid black;
+			top:0px;
+			left:300px;
+			height:300px;
+			width:300px;
+		}
+		#thirdContainer{
+			position:absolute;
+			border:1px solid black;
+			top:0px;
+			left:600px;
+			height:auto;
+			width:300px;
+		}
+		ul li ul{
+			display:none;
+		}
+	</style>
+</head>
+<body><button id="btn1" onclick="localStorage.clear()">ClearStorage</button>
+	<div id="container">
+	</div>
+	<div id="secondContainer">
+	</div>
+	
+	<script type="text/javascript" src="scripts/accordionModule.js"></script>
+	<script type="text/javascript" src="scripts/ItemsModule.js"></script>
+	<script type="text/javascript" src="scripts/sitecontroller.js"></script>
+	<script type="text/javascript" src="scripts/web-storage-script.js"></script>
+	<script type="text/javascript">
+	var siteController = new SiteController();
+	var accordion = siteController.getAccordion("#container");
+	var javascriptSection = accordion.add("Javascript");
+		javascriptSection.add("JQuery");
+		javascriptSection.add("Regular javascript");
+	var csharp = accordion.add("Csharp");
+		csharp.add("C# Part I");
+		csharp.add("C# Part II");
+		csharp.add("OOP");
+		csharp.add("Quality Program Code");
+	var cms = accordion.add("CMS");
+		var wordpress = cms.add("WordPress");
+			wordpress.add("wordpressthemes");
+			wordpress.add("otherstuff");
+		var joomla = cms.add("Joomla");
+			joomla.add("joomlathemes");
+			joomla.add("otherstuff");
+		cms.add("Drupal");
+	accordion.render();
+	var anotherItem = accordion.add("testItem");
+		anotherItem.add("subItem1");
+		anotherItem.add("subItem2");
+		anotherItem.add("subItem3");
+	accordion.render();
+
+	var serializedaccordion = accordion.serialize();
+	localStorage.setObject("MyItems",serializedaccordion);
+	var deserializedData = localStorage.getObject("MyItems");
+
+	var newAccordion = siteController.buildAccordion("#secondContainer",deserializedData);
+	
+	newAccordion.render();
+
+	</script>
+</body>
+</html>
