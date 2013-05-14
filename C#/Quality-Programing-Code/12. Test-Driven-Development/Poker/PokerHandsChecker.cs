@@ -12,7 +12,7 @@ namespace Poker
 
             bool result = false;
 
-            if (hand.Cards.Count == cardsCollection.Count())
+            if (cardsCollection.Distinct().Count()==5)
             {
                 result = true;
             }

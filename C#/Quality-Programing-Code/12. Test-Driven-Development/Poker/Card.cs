@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Poker
 {
-    public class Card : ICard
+    public class Card : ICard, IEquatable<Card>
     {
         public CardFace Face { get; private set; }
         public CardSuit Suit { get; private set; }
@@ -12,6 +12,35 @@ namespace Poker
         {
             this.Face = face;
             this.Suit = suit;
+        }
+
+        public bool Equals(Card other)
+        {
+
+            //Check whether the compared object is null. 
+            if (Object.ReferenceEquals(other, null)) return false;
+
+            //Check whether the compared object references the same data. 
+            if (Object.ReferenceEquals(this, other)) return true;
+
+            //Check whether the cards' properties are equal. 
+            return Face.Equals(other.Face) && Suit.Equals(other.Suit);
+        }
+
+        // If Equals() returns true for a pair of objects  
+        // then GetHashCode() must return the same value for these objects. 
+
+        public override int GetHashCode()
+        {
+
+            //Get hash code for the Suit field if it is not null. 
+            int hashCardSuit = Suit == null ? 0 : Suit.GetHashCode();
+
+            //Get hash code for the Face field. 
+            int hashCardFace = Face.GetHashCode();
+
+            //Calculate the hash code for the product. 
+            return hashCardSuit ^ hashCardFace;
         }
 
         public override string ToString()

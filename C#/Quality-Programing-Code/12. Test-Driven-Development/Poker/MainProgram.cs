@@ -15,13 +15,15 @@ namespace Poker
                 new Card(CardFace.Ten,CardSuit.Diamonds),
                 new Card(CardFace.Jack,CardSuit.Diamonds),
                 new Card(CardFace.Queen,CardSuit.Diamonds),
-                new Card(CardFace.King,CardSuit.Diamonds),
                 new Card(CardFace.Ace,CardSuit.Diamonds),
+                new Card(CardFace.Ace,CardSuit.Diamonds)
+                
+
             });
 
             var pokerChecker = new PokerHandsChecker();
 
-            bool result = pokerChecker.IsStraight(hand);
+            bool result = pokerChecker.IsValidHand(hand);
 
 
             
