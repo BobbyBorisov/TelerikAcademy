@@ -45,6 +45,7 @@
     <Compile Include="CardFace.cs" />
     <Compile Include="CardSuit.cs" />
     <Compile Include="MainProgram.cs" />
+    <Compile Include="PokerExtensions.cs" />
     <Compile Include="PokerHandsChecker.cs" />
     <Compile Include="Hand.cs" />
     <Compile Include="ICard.cs" />

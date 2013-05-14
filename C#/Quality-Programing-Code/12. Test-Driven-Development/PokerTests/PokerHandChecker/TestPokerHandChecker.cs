@@ -27,6 +27,7 @@ namespace Poker.Test
         }
 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
         public void IsValidHand_OneRepeatingCard()
         {
             var hand = new Hand(new List<ICard>()

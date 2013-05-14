@@ -1,45 +1,49 @@
-﻿using System;
-using System.Text;
-
-namespace Poker
+﻿namespace Poker
 {
+    using System;
+    using System.Text;
+
     public class Card : ICard, IEquatable<Card>
     {
-        public CardFace Face { get; private set; }
-        public CardSuit Suit { get; private set; }
-
         public Card(CardFace face, CardSuit suit)
         {
             this.Face = face;
             this.Suit = suit;
         }
 
+        public CardFace Face { get; private set; }
+
+        public CardSuit Suit { get; private set; }
+
         public bool Equals(Card other)
         {
+            // Check whether the compared object is null. 
+            if (object.ReferenceEquals(other, null))
+            {
+                return false;
+            }
 
-            //Check whether the compared object is null. 
-            if (Object.ReferenceEquals(other, null)) return false;
+            // Check whether the compared object references the same data. 
+            if (object.ReferenceEquals(this, other))
+            {
+                return true;
+            }
 
-            //Check whether the compared object references the same data. 
-            if (Object.ReferenceEquals(this, other)) return true;
-
-            //Check whether the cards' properties are equal. 
-            return Face.Equals(other.Face) && Suit.Equals(other.Suit);
+            // Check whether the cards' properties are equal. 
+            return this.Face.Equals(other.Face) && this.Suit.Equals(other.Suit);
         }
 
         // If Equals() returns true for a pair of objects  
         // then GetHashCode() must return the same value for these objects. 
-
         public override int GetHashCode()
         {
+            // Get hash code for the Suit field if it is not null. 
+            int hashCardSuit = this.Suit == null ? 0 : this.Suit.GetHashCode();
 
-            //Get hash code for the Suit field if it is not null. 
-            int hashCardSuit = Suit == null ? 0 : Suit.GetHashCode();
+            // Get hash code for the Face field. 
+            int hashCardFace = this.Face.GetHashCode();
 
-            //Get hash code for the Face field. 
-            int hashCardFace = Face.GetHashCode();
-
-            //Calculate the hash code for the product. 
+            // Calculate the hash code for the product. 
             return hashCardSuit ^ hashCardFace;
         }
 
@@ -47,7 +51,7 @@ namespace Poker
         {
             var sb = new StringBuilder();
 
-            switch (Face)
+            switch (this.Face)
             {
                 case CardFace.Two:
                     sb.Append("2");
@@ -92,7 +96,7 @@ namespace Poker
                     break;
             }
 
-            switch (Suit)
+            switch (this.Suit)
             {
                 case CardSuit.Clubs:
                     sb.Append("♣");
@@ -109,7 +113,6 @@ namespace Poker
                 default:
                     break;
             }
-
 
             return sb.ToString();
         }

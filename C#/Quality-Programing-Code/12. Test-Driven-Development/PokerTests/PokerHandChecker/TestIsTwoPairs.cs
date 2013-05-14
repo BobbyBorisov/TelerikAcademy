@@ -54,7 +54,7 @@ namespace Poker.Test
                 new Card(CardFace.Two,CardSuit.Spades),
                 new Card(CardFace.Five,CardSuit.Hearts),
                 new Card(CardFace.Five,CardSuit.Clubs),
-                new Card(CardFace.Five,CardSuit.Hearts)
+                new Card(CardFace.Five,CardSuit.Spades)
             });
 
             var pokerChecker = new PokerHandsChecker();

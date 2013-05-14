@@ -1,32 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Poker
+﻿namespace Poker
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class MainProgram
     {
-        static void Main() 
+        public static void Main() 
         {
             var hand = new Hand(new List<ICard>()
             {
-                new Card(CardFace.Ten,CardSuit.Diamonds),
-                new Card(CardFace.Jack,CardSuit.Diamonds),
-                new Card(CardFace.Queen,CardSuit.Diamonds),
-                new Card(CardFace.Ace,CardSuit.Diamonds),
-                new Card(CardFace.Ace,CardSuit.Diamonds)
-                
-
+                new Card(CardFace.Seven, CardSuit.Diamonds),
+                new Card(CardFace.Three, CardSuit.Diamonds),
+                new Card(CardFace.Queen, CardSuit.Diamonds),
+                new Card(CardFace.Queen, CardSuit.Spades),
+                new Card(CardFace.Queen, CardSuit.Clubs),
             });
 
             var pokerChecker = new PokerHandsChecker();
 
-            bool result = pokerChecker.IsValidHand(hand);
-
-
-            
+            bool result = pokerChecker.IsFullHouse(hand);
         }
     }
 }

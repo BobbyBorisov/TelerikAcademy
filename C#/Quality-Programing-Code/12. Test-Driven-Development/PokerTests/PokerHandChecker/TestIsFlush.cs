@@ -46,6 +46,7 @@ namespace Poker.Test
         }
 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
         public void IsFlush_WithInvalidHand()
         {
             var hand = new Hand(new List<ICard>()
