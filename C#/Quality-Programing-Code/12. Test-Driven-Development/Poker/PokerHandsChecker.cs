@@ -175,7 +175,14 @@ namespace Poker
 
         public bool IsHighCard(IHand hand)
         {
-            throw new NotImplementedException();
+            bool result = false;
+            if(!IsStraightFlush(hand) && !IsFourOfAKind(hand) && !IsFullHouse(hand) && !IsFlush(hand)
+                && !IsStraight(hand) && !IsThreeOfAKind(hand) && !IsTwoPair(hand) && !IsOnePair(hand)
+                && IsValidHand(hand))
+            {
+                result = true;
+            }
+            return result;
         }
 
         public int CompareHands(IHand firstHand, IHand secondHand)
