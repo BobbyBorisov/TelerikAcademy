@@ -1,0 +1,99 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#secondContainer{
+			position:absolute;
+			border:1px solid black;
+			top:300px;
+			left:400px;
+			height:300px;
+			width:500px;
+		}
+		
+
+		body
+{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+    table tr
+    {
+    }
+
+        table tr th
+        {
+            padding: 5px 15px;
+            border: 1px solid #000;
+            background-color: #ccc;
+        }
+
+        table tr td
+        {
+            padding: 5px 15px;
+            border: 1px solid #000;
+        }
+
+.nested table
+{
+    -webkit-column-span: all;
+    column-span: all;
+}
+	</style>
+</head>
+<body>
+	<div id="container">
+	</div>
+	<div id="secondContainer">
+	</div>
+	
+	<script type="text/javascript" src="scripts/Controller.js"></script>
+	<script type="text/javascript" src="scripts/GridViewHeader.js"></script>
+	<script type="text/javascript" src="scripts/GridView.js"></script>
+	<script type="text/javascript" src="scripts/GridViewRow.js"></script>
+	<script type="text/javascript" src="scripts/web-storage-script.js"></script>
+	<script type="text/javascript">
+	
+
+	var schoolsGrid = controller.getGridView("#container");
+    schoolsGrid.addHeader("Name", "Location", "Total Students", "Specialty");
+    schoolsGrid.addRow("PMG", "Burgas", "<br />", "Math");
+    schoolsGrid.addRow("TUES", "Sofia", "500", "IT");
+    schoolsGrid.render();
+
+	var academyRow = schoolsGrid.addRow("Telerik Academy", "Sofia", "5000", "IT");
+    var academyGrid = academyRow.getNestedGridView();
+        academyGrid.addHeader("Title", "Start Date", "Total Students");
+        var js = academyGrid.addRow("JS 2", "11-april-2013", "400");
+            var jsGridView = js.getNestedGridView();
+                jsGridView.addHeader("test", "test");
+                jsGridView.addRow("text","text")
+        academyGrid.addRow("SEO", "15-may-2013", "1300");
+        academyGrid.addRow("Slice and Dice", "05-april-2013", "500");
+    schoolsGrid.addHeader("Name", "Location", "Total Students", "Specialty");
+    schoolsGrid.addRow("PMG", "Burgas", "<br />", "Math");
+    schoolsGrid.addRow("TUES", "Sofia", "500", "IT");
+    var academyRow = schoolsGrid.addRow("Telerik Academy", "Sofia", "5000", "IT");
+    var academyGrid = academyRow.getNestedGridView();
+        academyGrid.addHeader("Title", "Start Date", "Total Students");
+        academyGrid.addRow("JS 2", "11-april-2013", "400");
+        academyGrid.addRow("SEO", "15-may-2013", "1300");
+        academyGrid.addRow("Slice and Dice", "05-april-2013", "500");
+    schoolsGrid.render();
+	var serializedGridView = schoolsGrid.serialize();
+	localStorage.setObject("MyGridView",serializedGridView);
+	/*var deserializedData = localStorage.getObject("MyGridView");
+
+	 var newGridView = controller.buildGridView("#secondContainer",deserializedData);
+	
+	newGridView.render();
+*/
+	</script>
+</body>
+</html>
