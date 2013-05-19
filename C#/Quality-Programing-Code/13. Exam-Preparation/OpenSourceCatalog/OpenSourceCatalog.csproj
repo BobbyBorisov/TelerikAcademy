@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3B9BE953-7049-4872-9556-DA8E6F8B421E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KPK_Practical_Exam</RootNamespace>
-    <AssemblyName>KPK-Practical-Exam</AssemblyName>
+    <RootNamespace>OpenSourceCatalog</RootNamespace>
+    <AssemblyName>OpenSourceCatalog</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Catalog.cs" />
+    <Compile Include="Command.cs" />
+    <Compile Include="CommandExecutor.cs" />
+    <Compile Include="ContentItem.cs" />
     <Compile Include="enums.cs" />
     <Compile Include="ICommandExecutor.cs" />
     <Compile Include="ICatalog.cs" />

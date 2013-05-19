@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem04_Free_Content
+namespace OpenSourceCatalog
 {
-    public enum comt
+    public enum CommandType
     {
         AddBook,
         AddMovie, AddSong,
         AddApplication,
         Update, Find,
     }
-    public enum ct
+    public enum ContentItemType
     {
-        Kniga,
-        Film,
-        Muzika,
-        Prilozenie,
+        Book,
+        Movie,
+        Song,
+        Application,
     }
 
     public enum acpi

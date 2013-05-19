@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem04_Free_Content
+namespace OpenSourceCatalog
 {
     public interface ICommandExecutor
     {

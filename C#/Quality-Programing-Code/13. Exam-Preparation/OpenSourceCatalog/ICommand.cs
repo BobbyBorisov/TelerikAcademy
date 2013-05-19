@@ -2,11 +2,11 @@ using System;
 using System.Linq;
 using System.Text;
 
-namespace Problem04_Free_Content
+namespace OpenSourceCatalog
 {
     public interface ICommand
     {
-        comt Type { get; set; }
+        CommandType Type { get; set; }
 
         string OriginalForm { get; set; }
 
@@ -14,7 +14,7 @@ namespace Problem04_Free_Content
 
         string[] Parameters { get; set; }
 
-        comt ParseCommandType(string commandName);
+        CommandType ParseCommandType(string commandName);
 
         string ParseName();
 

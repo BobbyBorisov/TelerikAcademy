@@ -1,6 +1,6 @@
 using System;
 
-namespace Problem04_Free_Content
+namespace OpenSourceCatalog
 {
     public interface IContent : IComparable
     {
@@ -12,7 +12,7 @@ namespace Problem04_Free_Content
 
         string URL { get; set; }
 
-        ct Type { get; set; }
+        ContentItemType Type { get; set; }
 
         string TextRepresentation { get; set; }
     }
