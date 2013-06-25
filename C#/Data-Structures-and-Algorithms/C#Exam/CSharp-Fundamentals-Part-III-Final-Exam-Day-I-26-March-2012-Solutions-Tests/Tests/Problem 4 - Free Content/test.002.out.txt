@@ -1,0 +1,29 @@
+Application added
+Book added
+Song added
+Song added
+Movie added
+1 items updated
+1 items updated
+1 items updated
+0 items updated
+Song: One; Metallica; 8771120; http://ccc.metallica.com
+Movie added
+Movie added
+2 items updated
+1 items updated
+0 items updated
+Movie: One; James Wong (2001); 969763002; http://aaa.imdb.com/
+Movie: One; James Wong (2001); 969763002; http://aaa.imdb.com/
+Song: One; Metallica; 8771120; http://aaa.goo.gl/dIkth7gs
+Song: One; Metallica; 8771120; http://ccc.metallica.com
+Application added
+Book added
+Song added
+Song added
+Movie added
+2 items updated
+0 items updated
+Application: Firefox v.11.0; Mozilla; 16148072; http://aaa.mozilla.org/firefox
+Application: Firefox v.11.0; Mozilla; 16148072; http://aaa.mozilla.org/firefox
+No items found

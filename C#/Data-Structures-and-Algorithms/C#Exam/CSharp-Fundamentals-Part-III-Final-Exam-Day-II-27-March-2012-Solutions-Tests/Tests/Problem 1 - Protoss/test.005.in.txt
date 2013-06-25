@@ -1,0 +1,935 @@
+120
+30
+rdUi PFSN
+xcE TU
+KgIS rKH
+ehvV bRtF
+ORj jiy
+eS Oud
+z YnR
+Y reN
+RS u
+NGM hVrX
+Op fCD
+XgHL qeRs
+s KCI
+Q b
+O CyhrNEY
+OBbs eOB
+LFs PbW
+qn d
+rCzJ hN
+ny g
+OopO e
+oSz uVeO
+BWR Vo
+TRh Ye
+uoq rfbe
+ODlr W
+ge TQPo
+e Ya
+nqUo f
+oEf BxO
+100 100
+bRtF qeRs KCI bRtF-qeRs Oud fCD PbW u BxO rfbe Oud-b W TQPo TQPo-g reN uVeO d Ye g KCI-reN u-f TU u-hN W-CyhrNEY TQPo-hVrX rKH Oud-Ye hN fCD-PbW reN-b g-Vo d-hVrX W-Vo Ye-hVrX BxO-PbW reN-Ya hN-Ya CyhrNEY BxO-jiy rfbe-KCI jiy TU-Ya b CyhrNEY-Ya TQPo-qeRs e bRtF-u u-e CyhrNEY-jiy jiy-TQPo rfbe-f b-YnR reN-BxO hN-u YnR BxO-e jiy-e rfbe-CyhrNEY eOB jiy-rKH qeRs-uVeO hVrX rKH-qeRs BxO-fCD bRtF-YnR uVeO-u d-b CyhrNEY-Ye d-jiy Oud-qeRs YnR-TQPo rKH-hVrX jiy-u f Oud-YnR BxO-u Ye-Vo PbW-qeRs Vo KCI-d uVeO-PbW b-TQPo jiy-Ye TQPo-PFSN g-PbW YnR-qeRs bRtF-g u-jiy Ya YnR-u KCI-jiy rfbe-b rfbe-bRtF bRtF-Ya Ya-eOB PFSN TU-uVeO qeRs-PFSN KCI-g f-fCD 
+Vo-hVrX KCI-jiy-g KCI-BxO W-TQPo g-eOB hN-hN Oud-b-BxO KCI-Ya bRtF-hN Vo-PFSN W-f CyhrNEY-hN CyhrNEY-CyhrNEY BxO-rKH reN-g Oud-d b-BxO BxO-BxO Oud-TU W-reN reN-u KCI-Ya-KCI TQPo-reN qeRs-d eOB-PbW hVrX-d uVeO-b b-e PFSN-Ya CyhrNEY-TQPo Ye-qeRs TQPo-KCI PFSN-uVeO CyhrNEY-PFSN KCI-Vo TU-Ye eOB-Vo d-PbW PbW-YnR d-YnR hN-eOB uVeO-rKH W-PFSN Vo-eOB PbW-hVrX jiy-bRtF fCD-qeRs CyhrNEY-TQPo-PbW CyhrNEY-qeRs Oud-Vo qeRs-jiy Vo-CyhrNEY PbW-TU f-TQPo Ya-bRtF Ye-fCD u-reN reN-e Ye-PbW PFSN-BxO BxO-CyhrNEY bRtF-d f-b bRtF-u-uVeO BxO-rKH-W KCI-b reN-fCD f-hN hVrX-f Ye-hN hN-YnR qeRs-Ye TU-bRtF YnR-YnR Ye-Ya qeRs-Oud Ye-Ya-TU Oud-PbW rKH-f e-Oud Ya-TU f-Ya rfbe-PFSN TQPo-uVeO jiy-reN TU-Oud qeRs-W Ya-YnR jiy-qeRs BxO-rKH-eOB YnR-jiy CyhrNEY-YnR e-fCD hVrX-Ye rKH-YnR PFSN-bRtF b-e-jiy b-W reN-bRtF hVrX-CyhrNEY 
+hN-e hVrX-BxO qeRs-TU bRtF-BxO qeRs-uVeO-f d-e uVeO-TQPo CyhrNEY-uVeO jiy-g d-f rKH-PFSN TU-rKH f-Oud Vo-Ye u-jiy-W Vo-PFSN-hN b-jiy YnR-u-hVrX Oud-Ye-e eOB-rKH eOB-Vo-BxO u-f-jiy rKH-CyhrNEY Vo-PbW eOB-e u-Ya b-TQPo-qeRs YnR-rKH d-rKH W-e bRtF-b hVrX-CyhrNEY-TQPo fCD-qeRs-jiy KCI-CyhrNEY BxO-d Oud-Oud CyhrNEY-rfbe jiy-TU qeRs-PFSN-CyhrNEY rKH-Ye TQPo-hVrX-rfbe KCI-rfbe d-d f-BxO e-rKH TQPo-W g-e YnR-bRtF fCD-qeRs-bRtF Oud-u hVrX-u e-Ya KCI-f eOB-e-rfbe YnR-TU g-KCI jiy-TU-f d-d-W PbW-BxO Ya-rKH hVrX-g jiy-b W-u g-rKH f-hN-d PFSN-PbW uVeO-TQPo-jiy hN-b u-W TQPo-rfbe Oud-YnR-eOB jiy-Oud Ye-rfbe u-g hVrX-qeRs Oud-qeRs-u reN-CyhrNEY g-KCI-jiy bRtF-rKH TU-W jiy-eOB YnR-e KCI-YnR bRtF-e TU-YnR CyhrNEY-b f-Ya-e rKH-TQPo reN-e-f u-hN-fCD fCD-hN Ya-bRtF-Ye TQPo-e Vo-Vo jiy-qeRs-qeRs g-BxO rKH-qeRs-rKH eOB-hN fCD-BxO TQPo-rfbe-hVrX 
+d-BxO hVrX-u-W KCI-rKH PbW-PbW Oud-W rKH-eOB rKH-hVrX-rfbe fCD-b Vo-hVrX-d PbW-TU-bRtF Ye-TQPo hN-b-g u-qeRs CyhrNEY-Ye-hN PbW-rfbe PbW-KCI TQPo-fCD TU-rfbe W-CyhrNEY-jiy PFSN-TQPo BxO-Oud rfbe-BxO PbW-jiy eOB-uVeO PFSN-Ya-YnR eOB-BxO Ye-g TQPo-u rfbe-fCD u-Ya-eOB eOB-reN f-PbW qeRs-reN Vo-e d-f-Vo BxO-hN reN-W u-W-fCD u-TQPo PbW-TQPo fCD-TQPo TQPo-PbW KCI-Ya-d e-Ye uVeO-BxO b-e-PbW PFSN-BxO-Vo reN-BxO-hVrX hVrX-reN Vo-PFSN-Oud KCI-TU BxO-BxO-BxO PFSN-PFSN BxO-hN-Ya TU-g W-W rfbe-bRtF-Ya jiy-PFSN PFSN-jiy PbW-u reN-W-hN PFSN-TQPo-YnR PbW-rKH bRtF-TQPo qeRs-BxO TQPo-hN e-rfbe uVeO-f CyhrNEY-TU g-BxO-hVrX Ya-KCI jiy-YnR KCI-rKH-Vo BxO-PFSN W-Ye uVeO-bRtF qeRs-PFSN-bRtF Ye-rKH rfbe-Ya Vo-b W-f-eOB YnR-fCD hVrX-TU e-eOB hN-u-eOB uVeO-hN Vo-BxO jiy-BxO qeRs-TQPo qeRs-jiy-bRtF TQPo-d KCI-uVeO rfbe-e BxO-rfbe TU-d b-PbW Oud-uVeO Oud-Vo-KCI f-hVrX hVrX-jiy 
+KCI-d-e qeRs-qeRs Ye-Ya-W eOB-TQPo TU-e W-hN g-f hN-YnR-PFSN PbW-rfbe-YnR f-reN TU-PbW u-f-reN BxO-f rKH-rfbe BxO-b BxO-Vo hVrX-b TQPo-TU BxO-eOB uVeO-qeRs W-fCD rKH-PbW rfbe-Ye uVeO-hVrX Ye-hVrX-Oud g-b fCD-rfbe eOB-BxO-d PbW-Ya BxO-TQPo TQPo-jiy g-Oud hVrX-Ye-bRtF eOB-W e-reN W-Oud YnR-Oud qeRs-b YnR-YnR-Vo TU-g-u fCD-u f-hN-qeRs TU-qeRs BxO-Ye KCI-BxO-CyhrNEY Ya-Ya hN-b-f YnR-reN CyhrNEY-CyhrNEY-KCI hN-Oud hN-hVrX hN-jiy hVrX-e reN-rfbe YnR-TQPo-hVrX TQPo-fCD-jiy Vo-b-b uVeO-b-b Oud-Vo-reN CyhrNEY-W Vo-u PbW-rfbe-Oud Ye-Ya-e Ye-PFSN TU-b reN-g-rKH jiy-Oud-reN TU-d-uVeO bRtF-Ye b-Ye PFSN-Ye f-jiy BxO-TQPo-TU bRtF-u-d qeRs-e BxO-TU bRtF-qeRs-YnR d-bRtF e-BxO YnR-TU-qeRs u-BxO CyhrNEY-YnR-TQPo bRtF-g-eOB rKH-PFSN-jiy BxO-BxO-PbW rfbe-jiy BxO-hVrX f-rKH uVeO-CyhrNEY Oud-Oud-Ya Oud-eOB eOB-g Ye-rfbe-Ye Vo-d TQPo-BxO qeRs-rfbe reN-jiy f-TQPo-d BxO-Ya jiy-qeRs-g 
+Vo-BxO-e g-u f-e Ye-Ye hVrX-hVrX e-hN bRtF-W hVrX-YnR fCD-YnR KCI-g-rfbe Vo-Oud rKH-Ye-jiy rfbe-TQPo YnR-u-Ye rfbe-W Ye-e rKH-jiy eOB-Ye Ya-bRtF-Oud rKH-eOB-PbW PbW-W TU-u Ye-PbW-Ya BxO-PFSN-f YnR-eOB d-CyhrNEY rfbe-W-TQPo d-TU eOB-TQPo-Ye fCD-Oud YnR-TU-rfbe KCI-eOB PbW-hN e-g eOB-reN-hVrX Vo-hN KCI-uVeO-W rfbe-rfbe rfbe-b-d PbW-TU-f TU-YnR-hN TU-PFSN e-Vo CyhrNEY-TQPo-TU uVeO-uVeO CyhrNEY-b-CyhrNEY hVrX-eOB TQPo-TU-reN eOB-rKH-reN jiy-hVrX g-TU f-eOB uVeO-g CyhrNEY-Ye-CyhrNEY CyhrNEY-hVrX PFSN-g g-W CyhrNEY-rfbe-TQPo d-uVeO BxO-qeRs fCD-fCD eOB-Ya uVeO-eOB Ye-KCI f-f b-uVeO fCD-hN-rfbe BxO-jiy-qeRs YnR-f PFSN-BxO-jiy hVrX-TQPo YnR-Oud-Ye uVeO-YnR e-b hVrX-u-e hN-BxO rfbe-f-BxO BxO-TU-eOB qeRs-PbW f-hVrX-reN e-rfbe-Vo Oud-CyhrNEY TU-fCD qeRs-Oud-Oud TU-CyhrNEY fCD-PFSN uVeO-Vo u-BxO-KCI TU-Ya-Oud BxO-hVrX-b reN-f BxO-CyhrNEY-Ye Vo-Ya Ya-f rKH-Ya CyhrNEY-CyhrNEY-BxO u-f-hVrX KCI-rfbe-Ye b-hN BxO-fCD-Ye 
+bRtF-d-PbW reN-hVrX CyhrNEY-rfbe-KCI uVeO-reN bRtF-qeRs-Ya KCI-b-bRtF PbW-KCI-Ya Ye-u Ye-PFSN-bRtF bRtF-hN-Vo Oud-PbW-PFSN hN-BxO-hN e-e Oud-qeRs-g hN-hN-rKH rKH-Vo Vo-Oud-PbW KCI-PFSN fCD-e TQPo-YnR TU-PbW-eOB hVrX-PbW KCI-jiy-uVeO uVeO-g-W uVeO-hN-bRtF Vo-YnR Vo-u-uVeO TQPo-Ye hVrX-e-Oud TU-u-f PbW-YnR-Vo rfbe-TQPo-bRtF qeRs-Ya rKH-Oud fCD-hN-BxO CyhrNEY-TQPo-TQPo b-YnR-PFSN bRtF-TU rfbe-Oud reN-rKH f-BxO-b uVeO-W hVrX-u-u b-hN-eOB f-rfbe BxO-hN-YnR YnR-e-TU qeRs-g uVeO-qeRs-TQPo b-reN BxO-PFSN-Oud Ya-Vo PFSN-eOB uVeO-Ya bRtF-f YnR-YnR-W rKH-fCD PbW-TQPo-qeRs Ya-g reN-KCI TQPo-W-jiy bRtF-W-b reN-d PbW-reN hN-hVrX-reN bRtF-eOB TQPo-CyhrNEY b-rKH TU-eOB u-BxO-b Oud-hVrX hVrX-Oud eOB-eOB eOB-d Vo-d-u rKH-d TQPo-g-u e-eOB-KCI f-hN-PbW rfbe-YnR PFSN-BxO-TQPo CyhrNEY-PbW Oud-Ya hN-W e-f PbW-bRtF TU-rKH-PFSN Vo-PFSN-d e-rfbe-b u-d Ye-rfbe-qeRs BxO-W TU-W-g CyhrNEY-rKH jiy-eOB-hN TU-TU PbW-e e-YnR TQPo-f rKH-jiy-hN 
+KCI-KCI YnR-d f-jiy-KCI d-uVeO-hVrX e-uVeO rfbe-Ya-Vo rfbe-W-hVrX rKH-PFSN-Ya PbW-qeRs-e BxO-TU-BxO bRtF-YnR-KCI g-e-g Vo-d-b rfbe-reN uVeO-hVrX-e PbW-rfbe-hVrX qeRs-hVrX uVeO-Ye f-KCI PFSN-g-PFSN bRtF-e-TQPo PFSN-PbW-hN TQPo-Oud u-qeRs-hVrX g-BxO-rKH rKH-fCD-u BxO-d-d Vo-fCD fCD-Vo rKH-u g-hVrX Oud-Oud-Ye qeRs-PFSN-e eOB-TU e-b-u g-rfbe jiy-KCI Oud-eOB-g KCI-reN-g b-g KCI-b-TU u-Ye fCD-bRtF Ya-reN BxO-PbW-PFSN rKH-d-f g-hVrX-PbW PFSN-g-W uVeO-f-Ye hN-Ya-Oud reN-b-TQPo qeRs-e-uVeO eOB-qeRs f-f-KCI uVeO-uVeO-d PbW-TU-e reN-bRtF-hVrX d-d-BxO rKH-uVeO hN-rfbe rfbe-uVeO CyhrNEY-reN e-W jiy-TQPo-CyhrNEY fCD-d TQPo-u-d YnR-PFSN e-Ya-rfbe hVrX-TU-hVrX e-reN-eOB CyhrNEY-hN-hN g-b-Ye g-TU-TQPo uVeO-g-b uVeO-uVeO-W PbW-e-TU e-rKH-qeRs W-Vo-fCD d-u Oud-Ya-hVrX Ye-eOB PFSN-YnR Vo-Oud-reN PbW-YnR-PFSN PbW-Ya-rfbe KCI-W PbW-PbW-BxO Oud-f Vo-qeRs reN-BxO-Oud jiy-g-TQPo reN-rKH-Oud hN-Vo uVeO-bRtF-Oud hN-YnR-BxO eOB-hN-PFSN b-TU jiy-jiy d-KCI TQPo-Ye-PFSN 
+u-PFSN f-d qeRs-u TU-TU-hN PbW-qeRs-u jiy-W f-Oud-rKH u-e-Ya fCD-PFSN-g hVrX-uVeO Ya-Oud rfbe-PFSN-d YnR-BxO b-TU-TQPo d-Ye jiy-uVeO Ya-d jiy-qeRs-BxO reN-uVeO hVrX-YnR-YnR BxO-CyhrNEY-bRtF YnR-W e-u qeRs-g-TQPo CyhrNEY-rKH-YnR TU-PFSN-fCD qeRs-W-rKH f-fCD-KCI f-d-Ye fCD-Oud-g e-rKH-BxO d-BxO-hN TU-rKH-rKH Ye-hN-qeRs hN-Oud-jiy reN-YnR rfbe-fCD-bRtF fCD-hN-W TQPo-YnR-reN W-d eOB-PbW-b eOB-CyhrNEY hN-uVeO PbW-TQPo-TQPo bRtF-hN-PFSN f-reN-d YnR-uVeO fCD-jiy reN-uVeO-fCD f-PFSN TU-hVrX TU-YnR-bRtF qeRs-Vo Vo-CyhrNEY-d PbW-fCD bRtF-TQPo-PFSN CyhrNEY-d qeRs-fCD uVeO-uVeO-bRtF qeRs-fCD-reN g-eOB-TQPo e-hVrX rfbe-Oud-CyhrNEY CyhrNEY-b-u g-hVrX-Ye eOB-fCD TQPo-PbW-fCD uVeO-reN-bRtF rfbe-fCD-e g-fCD PFSN-reN u-f-Ya e-BxO-b W-W-TU jiy-Vo fCD-W hN-b-uVeO rfbe-u d-rfbe fCD-W-d PFSN-g-PFSN-PbW e-PbW PFSN-g-CyhrNEY jiy-reN-Oud CyhrNEY-fCD f-fCD-fCD g-eOB-rfbe qeRs-hN fCD-qeRs-eOB qeRs-hN-W qeRs-Vo-YnR TQPo-b fCD-Ya TU-f Ya-jiy hVrX-TU-eOB u-Oud hN-KCI f-fCD-TQPo Ya-reN-jiy 
+W-PFSN-Oud KCI-u hN-PFSN hVrX-Ya jiy-reN-uVeO f-qeRs Vo-bRtF b-Ya qeRs-b-eOB YnR-Ye TQPo-fCD-jiy-Ye rKH-KCI u-BxO-CyhrNEY eOB-TU-PFSN b-jiy-CyhrNEY Ye-fCD-TQPo W-qeRs TQPo-reN-PbW YnR-reN-e rfbe-Ya-BxO eOB-Ye-g g-reN hVrX-rKH bRtF-W-f TQPo-g-Oud Ye-YnR Ya-fCD u-f-BxO bRtF-TU-PbW g-rfbe-TQPo g-Ye f-PbW-qeRs hN-qeRs PFSN-f uVeO-qeRs-qeRs Oud-W-qeRs g-CyhrNEY f-f-Vo e-CyhrNEY fCD-hVrX TQPo-qeRs-W Ya-W b-reN-BxO W-fCD-e hVrX-Oud-hVrX PbW-u-u Oud-rfbe CyhrNEY-eOB f-bRtF bRtF-d-CyhrNEY d-hN e-TU YnR-jiy-b hN-g PFSN-Vo b-Oud CyhrNEY-CyhrNEY-qeRs PbW-W-jiy rKH-CyhrNEY-Oud KCI-e CyhrNEY-eOB-g W-Ye-Ya u-Vo fCD-qeRs-TQPo hN-hVrX-Ye jiy-eOB-W PbW-g eOB-eOB-W PFSN-hVrX PFSN-jiy-KCI reN-f-CyhrNEY BxO-qeRs-YnR PFSN-d e-eOB-d W-uVeO uVeO-PFSN rKH-Ye-hN W-rKH Ye-uVeO g-reN-Ya eOB-TQPo-jiy g-eOB-hVrX W-hN-eOB TU-Ye-W qeRs-CyhrNEY KCI-u-Oud b-PFSN reN-e-f-rfbe eOB-Vo-YnR uVeO-Oud TU-hN PbW-hVrX-reN rKH-TQPo-hVrX W-f-jiy Oud-Vo-YnR Oud-e YnR-reN-KCI bRtF-KCI rfbe-hN reN-g-BxO 
+YnR-PbW rKH-g TQPo-hVrX-hN e-d TQPo-eOB CyhrNEY-hN-hVrX hN-bRtF KCI-YnR-u rfbe-eOB CyhrNEY-Vo bRtF-hVrX eOB-rfbe d-Vo reN-PFSN u-g-u W-hVrX reN-YnR-TU W-PbW rKH-g-hVrX Oud-uVeO-hN rKH-eOB-hVrX qeRs-qeRs-f rfbe-b-Vo rfbe-f-hVrX qeRs-CyhrNEY-PFSN Ya-fCD-W YnR-rfbe hVrX-CyhrNEY-u W-YnR jiy-b-reN KCI-rfbe-b f-d-TQPo uVeO-rKH-b TQPo-g-hVrX W-rfbe rKH-eOB-hVrX-TQPo g-qeRs PbW-Oud hVrX-b-f TQPo-hVrX-hN-YnR b-jiy-YnR eOB-PbW-TU f-fCD-PFSN Vo-eOB-Vo f-CyhrNEY CyhrNEY-YnR-Ya BxO-eOB-KCI Ye-PbW-hVrX CyhrNEY-TU-uVeO reN-eOB PFSN-BxO-e PbW-bRtF-W BxO-uVeO KCI-Ye u-Ye-jiy jiy-u-jiy jiy-hN hN-e-rfbe YnR-TU-Ya Ye-YnR-b Ya-W-uVeO b-W-Ye KCI-fCD PFSN-TU f-g rKH-eOB-Vo Ye-bRtF uVeO-uVeO-reN hN-reN jiy-fCD b-bRtF PbW-e-Ye f-Ye Ye-Ya-qeRs TU-W-uVeO hVrX-b-BxO Vo-rfbe u-bRtF Oud-f-eOB Oud-rKH b-Ya-Oud TU-f-W g-e-qeRs PFSN-uVeO-YnR uVeO-PbW-TU reN-Oud uVeO-uVeO-b Ya-rKH-Ye reN-Vo eOB-Ye-BxO TU-Oud-CyhrNEY d-qeRs hN-fCD PFSN-d-uVeO BxO-PbW-qeRs jiy-hVrX-hVrX uVeO-Ye-PFSN u-YnR W-BxO YnR-rfbe-Vo 
+jiy-fCD-jiy Ya-hVrX KCI-TU-e g-Oud-eOB jiy-W-rKH YnR-TU-g CyhrNEY-Vo-jiy TU-Vo Vo-b-PbW f-eOB-eOB Vo-Oud-YnR u-Ye-hN b-BxO-TQPo g-qeRs-d CyhrNEY-uVeO-eOB jiy-rfbe d-Ya Ya-rKH-Oud YnR-CyhrNEY CyhrNEY-g e-KCI hN-e-qeRs qeRs-TQPo-PbW Ya-b BxO-reN fCD-YnR-hN YnR-jiy-BxO bRtF-Oud e-fCD-YnR hN-g-BxO TU-d-KCI d-BxO-uVeO Ye-bRtF-f TU-qeRs-YnR u-PFSN-e Ya-Ye rKH-Oud-d YnR-e-hVrX W-TU YnR-fCD-u BxO-fCD-Oud PFSN-PFSN-qeRs hVrX-hVrX-bRtF fCD-b-reN b-YnR-u d-W Ya-uVeO bRtF-eOB-Vo d-jiy-KCI rKH-Vo-fCD u-d-PbW Ye-fCD-eOB jiy-hN-W fCD-YnR-TQPo e-fCD-Ye KCI-hN Ya-jiy-PFSN KCI-uVeO-BxO bRtF-CyhrNEY reN-Ye YnR-Ye-TU d-f-hN BxO-TU-PbW rfbe-e-TQPo Ya-TU-e uVeO-CyhrNEY-uVeO rfbe-b-jiy f-jiy-PbW eOB-f Vo-f PbW-d KCI-u-bRtF uVeO-Ya-W rfbe-Ye-reN u-uVeO hVrX-reN-hN f-TU YnR-f-Vo BxO-eOB-qeRs e-Ye-hN u-hN-eOB rKH-PFSN-W PFSN-CyhrNEY f-qeRs-qeRs Ye-Oud jiy-rfbe-Ya uVeO-b-eOB uVeO-W-uVeO eOB-d-b uVeO-rfbe Oud-d-rKH TU-d-hVrX bRtF-g-YnR hVrX-uVeO-reN KCI-e-rfbe u-reN-PbW u-PFSN-Ye Ya-TU-rfbe Ya-jiy-rKH Ye-d 
+bRtF-Ya-hN u-TU W-Ya TQPo-fCD-Ye b-rKH-CyhrNEY hN-hN-BxO YnR-bRtF-TU PFSN-KCI u-TU-Oud uVeO-PFSN-u eOB-reN-bRtF b-reN-hVrX rKH-rKH KCI-rKH-BxO fCD-W-TQPo qeRs-Ya-Vo rfbe-Ya-hVrX u-b rfbe-uVeO-TU PFSN-Vo-jiy W-W-KCI PbW-PFSN PbW-KCI-g YnR-fCD-Oud Ye-KCI-eOB YnR-Ya YnR-Vo Oud-bRtF PFSN-qeRs u-qeRs-Ye uVeO-BxO-TU b-qeRs qeRs-YnR PbW-Ya-reN PbW-e-KCI fCD-u-CyhrNEY Vo-e-qeRs hN-jiy-Ya Ye-YnR-Ya eOB-u rfbe-hN-jiy CyhrNEY-PbW-TU Vo-hVrX-d-fCD Oud-W-f BxO-YnR CyhrNEY-u e-reN-Ye KCI-Ya-g reN-e-Ya Vo-g Ye-YnR-rfbe PbW-TQPo-bRtF KCI-f-Ye Vo-BxO-hN e-PFSN uVeO-bRtF-d rfbe-KCI-g f-b-CyhrNEY PbW-e-uVeO TQPo-Ya BxO-TQPo-Ye g-hVrX-bRtF eOB-fCD-PbW g-f-W d-u-e eOB-e-hN bRtF-qeRs-Oud PbW-e-TQPo CyhrNEY-rKH-uVeO fCD-uVeO u-TQPo-jiy reN-CyhrNEY-BxO TQPo-BxO-fCD hVrX-PbW-CyhrNEY fCD-d-Ya TQPo-d-rKH g-Vo-BxO TQPo-TU-hN CyhrNEY-uVeO-KCI YnR-Ya-Oud YnR-KCI Oud-g reN-Ye-rfbe hN-rKH hVrX-rfbe eOB-fCD-hVrX PbW-Ya-rfbe-BxO Vo-PFSN-TQPo BxO-TU-hN Vo-qeRs-rfbe eOB-Vo-Vo PbW-e-rKH jiy-rKH-jiy hVrX-uVeO-hVrX jiy-TU-f-PFSN fCD-Ya-b eOB-Vo-TU PbW-Ya-b b-Ya-u YnR-qeRs-PbW 
+TQPo-TQPo f-u W-hVrX-Vo jiy-b-Oud YnR-KCI-d bRtF-g-hN f-f-BxO e-e-hVrX TQPo-rKH b-YnR-W rKH-YnR-Oud TQPo-W-Ye Vo-W b-Oud-Vo bRtF-e-d Ye-BxO hVrX-eOB-g f-Ye-Ye rfbe-f-fCD reN-e-TQPo d-PFSN TQPo-rfbe-g CyhrNEY-e Ya-u hVrX-fCD g-W-reN YnR-b Oud-rfbe-hVrX rKH-TQPo-hVrX-PbW PbW-rfbe-reN TU-hVrX-KCI YnR-eOB-hN rKH-TQPo-reN b-u f-CyhrNEY-Oud Ya-TQPo uVeO-PFSN-jiy PFSN-bRtF-PbW PbW-fCD-Vo eOB-Ya-d BxO-reN-b hVrX-PFSN KCI-KCI-fCD eOB-TU-Ye Vo-PbW-f BxO-Ye-Oud reN-fCD-bRtF jiy-BxO-hN eOB-qeRs-rfbe bRtF-eOB-Vo-TU b-PFSN-uVeO CyhrNEY-TQPo-PFSN BxO-f-f TU-Vo-PbW qeRs-g-YnR KCI-b-jiy PbW-Vo Oud-eOB-Oud Ye-b BxO-g f-f-Oud u-Ya-hN b-d Ye-TU TU-rKH-BxO rfbe-YnR-u u-qeRs-d hN-f u-BxO-fCD BxO-BxO-BxO-W Ya-rfbe Ya-TU-Ya fCD-PFSN-PFSN Vo-Ye-W f-Ya-TU b-qeRs-KCI rKH-PbW-f f-YnR TQPo-KCI-W qeRs-uVeO-g f-W hVrX-Ya-hN d-e-f bRtF-BxO-Oud g-Ye-YnR PbW-eOB eOB-g-e TQPo-W-d f-TQPo-b TU-TQPo uVeO-f-eOB YnR-eOB-hN-qeRs TU-Ya-b Ya-hVrX-hVrX qeRs-CyhrNEY-reN KCI-Ya-TQPo jiy-Vo-e fCD-TQPo-Oud e-W-Ye qeRs-TQPo-KCI 
+CyhrNEY-d-uVeO f-PFSN-hN Ye-g-PFSN KCI-jiy-hN rKH-d-hVrX fCD-CyhrNEY qeRs-hVrX-eOB BxO-PbW-TQPo jiy-PFSN-d hN-PFSN-W Ye-d-e PFSN-PFSN-b uVeO-hN-KCI b-g-g reN-W-Vo hN-TU u-hVrX W-hVrX-fCD KCI-TU-fCD b-f e-PbW-f b-PFSN-Vo rfbe-reN-rfbe CyhrNEY-hN-TU jiy-d Vo-TU f-e-TQPo Vo-e-jiy PbW-BxO-u hVrX-jiy-eOB KCI-Oud g-g d-eOB PFSN-TU-CyhrNEY BxO-g-Ya b-hN-Ya bRtF-b-reN jiy-reN-d hVrX-b-qeRs CyhrNEY-uVeO-reN PbW-PFSN-f Oud-e-d hVrX-W g-W-f b-g-d e-PbW-f-PFSN BxO-hVrX-rKH reN-KCI-eOB PFSN-jiy-Ya f-bRtF-uVeO u-Oud-TQPo u-CyhrNEY TU-eOB-rfbe f-hVrX-jiy Vo-u-u eOB-Ye-eOB e-TQPo Vo-eOB-fCD CyhrNEY-qeRs-jiy hVrX-hN b-jiy-PbW e-fCD-Vo Ya-d-Vo d-qeRs-rKH g-TU-jiy rKH-g-Oud fCD-BxO-bRtF PFSN-reN-g YnR-TU-fCD YnR-Ya-e CyhrNEY-bRtF Oud-KCI rKH-e KCI-g-Ye PFSN-qeRs-uVeO Vo-YnR-bRtF hN-reN-uVeO qeRs-reN-rfbe YnR-rfbe-hVrX eOB-KCI Ya-TQPo-CyhrNEY hVrX-qeRs-e g-TU-rKH reN-TQPo YnR-f-b e-PFSN-KCI hVrX-hN-qeRs u-TU-eOB d-Ye-g W-e-W reN-hVrX-W Ya-e Vo-eOB-Oud b-g-e rKH-e-bRtF TQPo-uVeO-PFSN Ye-Ya-d rfbe-rfbe-CyhrNEY uVeO-bRtF-bRtF TQPo-qeRs-TQPo 
+PbW-Vo-W BxO-Oud-W Ya-TU-hVrX reN-uVeO-jiy W-f-g Ya-hVrX-d Ya-g-TQPo Vo-TQPo f-rKH-TU b-rfbe bRtF-Ye-PbW TQPo-bRtF u-Ya-Ya W-bRtF CyhrNEY-u-f e-uVeO-eOB YnR-KCI-f W-W-rfbe rfbe-eOB-f Vo-PFSN-Ye TQPo-TQPo-TQPo jiy-KCI-rKH Ya-eOB-uVeO rfbe-TU d-TU-Vo rKH-YnR-bRtF g-e-Oud TU-qeRs-Vo g-rKH-d BxO-hVrX-BxO PFSN-f-qeRs u-jiy-TU f-YnR-fCD W-W-Vo Oud-Ye-qeRs qeRs-qeRs-rfbe rKH-Vo-hN KCI-u-TU rfbe-uVeO-CyhrNEY jiy-YnR-TU W-bRtF-hN PbW-e-TQPo-g u-Ya-uVeO bRtF-BxO-Vo Ye-rfbe-b TQPo-d-fCD u-uVeO-Vo Ya-PbW qeRs-d-g hVrX-b-KCI PbW-Ye PFSN-hVrX-PFSN Vo-jiy g-bRtF eOB-Vo-rKH TQPo-fCD-hN hN-e-eOB reN-qeRs rfbe-Ya-rfbe f-fCD-rKH Oud-TU-jiy rKH-YnR-hVrX W-CyhrNEY-Oud hVrX-BxO-b Vo-TU-u reN-b-rfbe PbW-hN-TQPo d-f-Vo-Ya jiy-rKH-TU hN-hN-BxO-rKH BxO-f-d rKH-CyhrNEY-TU u-KCI reN-qeRs-jiy hVrX-g-YnR Vo-Oud-rKH PbW-CyhrNEY BxO-qeRs-uVeO YnR-hN bRtF-qeRs-jiy rKH-YnR-Ye TQPo-d-hVrX TQPo-b-rfbe CyhrNEY-YnR-Ye KCI-PbW jiy-qeRs-CyhrNEY KCI-hN-bRtF e-KCI-Ya f-TU-bRtF PFSN-e reN-Vo-BxO BxO-rKH-TQPo Oud-Oud-b eOB-d-BxO Vo-Vo-Ya e-TQPo-Ye rKH-KCI-reN fCD-Vo-YnR CyhrNEY-u-b e-hVrX-rfbe 
+W-b hVrX-YnR-YnR-rKH eOB-YnR e-eOB-fCD f-Ya-f rfbe-g fCD-Ya-CyhrNEY YnR-rKH-reN TU-d-KCI-TQPo BxO-Ye-CyhrNEY rfbe-KCI-eOB TQPo-hN-e jiy-g-PbW PbW-W-Oud e-bRtF PbW-rKH-hVrX b-Ye-qeRs W-f-eOB-Oud bRtF-Vo d-qeRs-Vo Ye-hVrX-rKH Vo-Vo-W rKH-rfbe-rKH u-u e-BxO-Ye qeRs-g-PFSN KCI-jiy-eOB eOB-bRtF b-YnR-qeRs g-W-TQPo fCD-Vo-TQPo bRtF-Vo-Ya Ye-reN Vo-b-Ya reN-b-reN YnR-jiy-eOB uVeO-W-jiy jiy-eOB-rKH fCD-b-TQPo YnR-g W-TQPo-fCD rKH-PFSN-YnR CyhrNEY-hVrX-KCI Oud-f-rKH PFSN-jiy-Ya-d CyhrNEY-TQPo-TU-reN Ya-u-e e-rfbe-uVeO Vo-rfbe-e PbW-e-W e-bRtF-qeRs TQPo-rKH-W reN-reN Vo-TQPo-Vo fCD-Ye Ye-jiy PFSN-hN eOB-W-PbW rfbe-f-uVeO PbW-Oud-e u-u-b e-g-W eOB-rKH-qeRs TQPo-Vo PFSN-CyhrNEY-g g-rfbe-eOB PFSN-PbW-fCD Ya-TU-PbW uVeO-Oud-Oud e-bRtF-TU uVeO-KCI rfbe-e-KCI PbW-f Ye-TU-reN TQPo-W-uVeO qeRs-u-reN hN-PFSN-YnR Ya-BxO b-uVeO-PFSN W-Ye-reN Vo-Vo-eOB b-Oud-qeRs PFSN-g-CyhrNEY-f fCD-rKH rKH-e-TU b-Ye-g CyhrNEY-YnR-g u-b-d jiy-b-YnR TU-u-uVeO Ye-rfbe-g hVrX-YnR-TU PbW-Ye-e b-e-uVeO Ye-hVrX-reN f-jiy-reN f-BxO-f qeRs-fCD-PbW d-b-u f-hVrX-Vo 
+Oud-f-qeRs Ye-jiy-eOB KCI-Ye-b PFSN-Ya-BxO f-PFSN-eOB Ya-CyhrNEY bRtF-hVrX-YnR u-BxO-bRtF u-Vo-KCI CyhrNEY-rKH-uVeO-Ye Vo-hN-CyhrNEY f-u-uVeO fCD-PFSN-Oud Vo-eOB-qeRs Ye-f TU-f-KCI hVrX-TU-g f-jiy-hN rKH-CyhrNEY-YnR W-rKH-PFSN uVeO-TU fCD-TU e-reN-hVrX CyhrNEY-PFSN-Vo Ye-d-CyhrNEY f-d-e Ya-Oud-jiy YnR-Ye-PFSN jiy-TU-TU rfbe-d BxO-qeRs-CyhrNEY rKH-TQPo-reN-PFSN CyhrNEY-e-Oud hVrX-rKH-e Vo-CyhrNEY-qeRs d-reN rKH-CyhrNEY-YnR-TU KCI-PbW-PFSN uVeO-W-YnR e-TQPo-u PFSN-TQPo-e hVrX-rKH-PbW e-Ya-fCD b-CyhrNEY TQPo-CyhrNEY-d bRtF-b-CyhrNEY hVrX-hN-d rfbe-BxO-hVrX fCD-f BxO-Ya-TU Oud-KCI-rfbe Ye-Ye-Ya hVrX-YnR-PFSN KCI-qeRs W-TQPo-hVrX uVeO-PFSN-Vo jiy-Ya BxO-Ya-reN qeRs-TQPo-TU hVrX-CyhrNEY-TU PbW-hVrX-qeRs bRtF-g-g Vo-f-g e-rKH-d u-Ya-KCI TU-Ya-Ye e-CyhrNEY-reN u-d-Ye TU-f-jiy Ya-PFSN Ya-uVeO-CyhrNEY KCI-reN-g-uVeO TU-u-YnR reN-d-Ye qeRs-rKH TU-hVrX-e BxO-rfbe-hVrX BxO-u-g BxO-rfbe-reN uVeO-d TU-e-CyhrNEY rfbe-Ya-Vo-BxO hN-Oud-TU reN-uVeO-PFSN g-d KCI-TQPo b-Ya-eOB Vo-Vo-reN jiy-bRtF-uVeO Ya-b-rfbe KCI-b-KCI BxO-b-YnR eOB-Ye-Ye TQPo-hN-bRtF b-jiy-g Vo-rKH hVrX-hVrX-e reN-rKH-fCD hVrX-Oud-W hVrX-KCI 
+fCD-e-YnR rfbe-eOB-rfbe Vo-d-W Vo-PbW-KCI rKH-g-bRtF d-hVrX-KCI hVrX-d-hN qeRs-PFSN-qeRs hN-Vo-d hVrX-rKH-rKH Ye-hN-Ya rKH-KCI-rKH e-Ye-d hN-KCI-TU TQPo-fCD-Vo TQPo-hN-hN BxO-Ye-PFSN Ye-PbW-Vo rfbe-f-e rfbe-YnR-Ye YnR-KCI-CyhrNEY Ye-f-f eOB-BxO-YnR TU-Ya-eOB W-e-Oud PbW-eOB-e hN-uVeO-bRtF BxO-fCD-hVrX TU-PFSN-rKH Oud-reN b-qeRs-W d-Ye-KCI BxO-d-bRtF qeRs-rfbe-qeRs g-qeRs-Ya TQPo-eOB-Ya W-PbW-u b-BxO-Oud CyhrNEY-g-reN TU-Oud-uVeO f-TQPo-fCD uVeO-Ye-g TU-Ya-TU u-Oud-BxO KCI-hVrX rfbe-fCD-CyhrNEY hN-b-KCI PbW-rKH-YnR hN-BxO-BxO KCI-g-rKH jiy-jiy-f qeRs-qeRs-KCI f-PFSN-Ya d-u-rfbe d-TQPo d-qeRs-u TU-e-qeRs jiy-jiy-g hN-Vo-Oud TQPo-e-Vo uVeO-Ye-reN KCI-rfbe-Ya bRtF-YnR-d TU-TQPo-W fCD-d-PFSN Oud-d-f YnR-hN-YnR uVeO-f-uVeO reN-f-BxO CyhrNEY-fCD-g Oud-eOB-u reN-Oud-Ye PFSN-KCI-Ye f-CyhrNEY-jiy e-PFSN-Ye eOB-rfbe-d g-b-jiy reN-e-TU eOB-PFSN W-eOB jiy-TQPo-f hN-TQPo f-W-fCD d-rKH-qeRs YnR-jiy-Oud Oud-reN-bRtF rKH-PFSN-f Ya-uVeO-jiy qeRs-W-TQPo CyhrNEY-Ya-W YnR-Vo-jiy f-CyhrNEY-u TQPo-PFSN-W reN-Vo-jiy KCI-f-Vo Oud-KCI-hVrX BxO-rKH-KCI Ya-b-PFSN Ya-hN KCI-Vo-PbW 
+Vo-PFSN-CyhrNEY Ya-eOB-fCD hVrX-YnR-u g-TQPo u-YnR-reN rfbe-u-Ye CyhrNEY-Ye-KCI YnR-b-d CyhrNEY-W-KCI u-u-jiy TU-TQPo-W-jiy CyhrNEY-bRtF-reN reN-YnR-Ya d-KCI-f bRtF-g-rKH Ye-YnR-e hN-uVeO-bRtF-bRtF g-fCD-fCD hVrX-KCI-BxO rKH-rKH-rKH TU-rKH-reN Vo-TU-jiy Vo-jiy-PbW PFSN-d-d Oud-BxO reN-fCD-f qeRs-rKH-YnR hN-g-KCI f-Ye-YnR Ye-jiy-Ye W-reN-jiy rfbe-eOB-qeRs TQPo-TQPo-Ya TU-g-b eOB-rKH-uVeO PbW-PbW-b fCD-rKH-f CyhrNEY-hN-BxO TQPo-b-qeRs g-hVrX-BxO rfbe-fCD-d fCD-uVeO-Ye KCI-Vo-e hN-fCD-CyhrNEY TU-hVrX-KCI-Vo bRtF-d-uVeO KCI-reN-Vo b-TU-W qeRs-g-jiy f-TU-BxO reN-PbW Ya-reN-u W-jiy qeRs-Ya-bRtF Ye-Vo-uVeO Vo-CyhrNEY-b u-d-bRtF fCD-Ye-Ya Ya-Vo-rKH Ya-PbW-eOB hVrX-bRtF reN-rfbe-g g-rKH-Ya bRtF-rKH-jiy TQPo-BxO-YnR rfbe-u-b BxO-Vo-hVrX fCD-f-fCD d-rfbe-e YnR-fCD-g Oud-Oud-qeRs hVrX-hN-TU Ye-W BxO-bRtF rKH-g-d hVrX-YnR-KCI YnR-qeRs-d bRtF-hN-u rKH-jiy-YnR Oud-qeRs-Ye e-BxO-BxO KCI-Vo-reN Ya-Ya-Vo d-fCD jiy-PFSN-KCI b-TQPo-g e-Vo-hN jiy-jiy-hN u-hN-reN PFSN-TQPo-rKH YnR-bRtF-KCI g-PFSN Oud-PFSN jiy-g-TQPo-hVrX KCI-u-e g-PFSN-KCI rKH-YnR-W Oud-eOB-PbW b-Ye-g-eOB fCD-e-Ye 
+eOB-reN-PFSN rfbe-eOB-b Ya-CyhrNEY-BxO YnR-KCI-Vo PFSN-Ye-b Oud-W-CyhrNEY BxO-reN-YnR jiy-rfbe-TU TQPo-uVeO-PbW BxO-TQPo-qeRs e-e-b W-qeRs-rKH qeRs-CyhrNEY-jiy Oud-bRtF-f bRtF-BxO-KCI b-CyhrNEY-Ye BxO-d-Ye PFSN-qeRs-KCI d-fCD-b f-Ya-rfbe Ya-f-hN hN-PbW Vo-u-jiy qeRs-qeRs-rfbe-qeRs fCD-Ye-jiy reN-TU rfbe-g-b YnR-Ye-BxO u-d-e u-TU-u TU-hN-KCI PbW-hVrX-u jiy-hVrX-CyhrNEY b-g-jiy fCD-KCI hN-Ye KCI-g-d reN-hVrX-hVrX hN-u-CyhrNEY d-bRtF-f hVrX-PFSN-TQPo CyhrNEY-reN-W hVrX-Vo qeRs-W-PFSN eOB-PFSN-Ya PbW-qeRs-PFSN hVrX-W-qeRs qeRs-eOB Oud-PFSN-e rfbe-f-Vo PFSN-bRtF-rKH Vo-jiy-YnR BxO-CyhrNEY-PbW jiy-Ya-CyhrNEY rKH-TQPo-qeRs d-hN-rKH reN-KCI-Ye YnR-u-Oud uVeO-Vo-d rfbe-W-W Ye-b-Ya d-uVeO-reN Vo-u-fCD Ye-f-TU W-W-qeRs qeRs-u-CyhrNEY bRtF-hN-qeRs d-PbW-PbW BxO-rfbe-W Ya-PFSN-qeRs hN-Oud-g e-qeRs CyhrNEY-d-CyhrNEY Oud-jiy rfbe-fCD-Vo b-b uVeO-fCD KCI-Ye-fCD b-rKH-uVeO reN-CyhrNEY-Oud TQPo-qeRs-hN TQPo-qeRs-W-reN f-jiy-Vo KCI-jiy-CyhrNEY Ya-Ye-rfbe hVrX-f-Ye PFSN-W bRtF-rKH-reN b-b-bRtF e-f-PbW b-qeRs-YnR Oud-hN Oud-TQPo u-Vo-f bRtF-Ye-u uVeO-u-YnR Ya-TQPo-PbW g-Ye-Vo b-b-hVrX Ye-hVrX-fCD 
+b-Ya-uVeO PbW-PFSN-hN u-PFSN-f u-u-hN f-TU-YnR rfbe-Ya-rKH rfbe-fCD-BxO reN-eOB-reN jiy-u-Vo uVeO-f-Vo TQPo-W-TQPo eOB-W-rfbe reN-PbW-Vo g-KCI-reN u-g-d f-uVeO uVeO-PbW-hN PbW-YnR-f f-fCD-YnR KCI-CyhrNEY-KCI uVeO-W-d rKH-Oud-KCI b-uVeO-KCI YnR-qeRs-d-qeRs fCD-jiy-f Vo-f-TQPo g-Oud-d TU-Oud-hVrX YnR-g-TQPo f-jiy-hN-KCI Vo-bRtF-PFSN rfbe-W-Oud rKH-reN bRtF-YnR-u eOB-Oud TU-Oud-TQPo Ye-BxO-hN reN-eOB-rfbe YnR-bRtF-rfbe KCI-Ye-BxO Vo-PbW-Ye u-d-f rfbe-reN-hVrX fCD-bRtF-d TQPo-hN-eOB BxO-hVrX-eOB PFSN-u PFSN-Vo-rKH f-eOB-qeRs TQPo-f-TQPo Ya-BxO-b KCI-rKH-CyhrNEY PbW-KCI-PFSN f-YnR-YnR Ya-d-b TQPo-TU-qeRs TQPo-u-reN rfbe-hVrX qeRs-CyhrNEY-f BxO-CyhrNEY-W Vo-YnR-TU TQPo-qeRs-KCI fCD-e-jiy Ye-bRtF-BxO d-u-d Ye-TU-bRtF Oud-g-rKH b-BxO-PFSN g-g-rKH e-TU-Ya bRtF-eOB-rKH d-u-Vo Oud-fCD eOB-Oud-rKH YnR-TQPo-hN Ye-hVrX-e eOB-Vo-hN b-rfbe-rfbe rfbe-Ye-u YnR-TU-YnR Vo-hVrX-e hN-reN-g hN-TQPo-BxO PFSN-W-hN uVeO-hN-BxO PbW-W-d qeRs-YnR-fCD f-PbW-Ya KCI-b-hVrX uVeO-u-rfbe PFSN-eOB-bRtF bRtF-Vo-W KCI-d-g f-jiy-b e-eOB-Ya PFSN-Vo-YnR rfbe-u-Ya uVeO-rfbe-rfbe TQPo-Ye-Ye Vo-YnR-Ye 
+fCD-Ya-d Oud-PFSN-hVrX CyhrNEY-d-W jiy-jiy-u f-KCI-rKH Ya-u-PFSN PFSN-KCI-uVeO rKH-TQPo-PFSN TQPo-u-e hVrX-reN-BxO rKH-g-qeRs W-hN-reN W-CyhrNEY-eOB d-PbW-jiy fCD-e-bRtF g-Vo-KCI Vo-BxO-eOB Vo-Vo-rfbe rKH-reN-PFSN d-u-uVeO g-jiy hVrX-TQPo-rKH eOB-Ya-bRtF rfbe-W-TU Ye-eOB-KCI W-d-Vo YnR-TQPo-reN PbW-u-d u-CyhrNEY-hVrX Ya-PbW-Vo qeRs-YnR-reN Oud-Ye-f qeRs-rfbe-CyhrNEY d-hN-uVeO g-hN TQPo-Ya-uVeO YnR-hVrX f-eOB-eOB-Ye uVeO-TU-Oud fCD-d-TU KCI-Vo-hN fCD-fCD-b hN-rfbe-d Vo-CyhrNEY-CyhrNEY Vo-u-hN u-eOB TQPo-e-e qeRs-Vo-rKH d-hN-reN W-b-PbW jiy-hN-d rfbe-Ye-TU W-BxO-qeRs hVrX-Oud-u bRtF-bRtF CyhrNEY-rfbe-b Vo-reN jiy-KCI-eOB hVrX-e-TQPo e-g-g PFSN-uVeO-rKH d-jiy-u b-jiy-TQPo e-f-YnR Ye-u-jiy PbW-eOB-qeRs u-hN-hN Ye-Oud-CyhrNEY hN-u-bRtF hN-u-Ya Ya-bRtF-qeRs Oud-BxO-e YnR-d-bRtF W-e-fCD f-Ye-rfbe PFSN-fCD jiy-qeRs-Vo Oud-eOB-KCI TU-TU-reN PbW-d-f W-jiy-rfbe W-BxO-Ye rfbe-rfbe-hN hVrX-b-fCD Ya-reN-KCI f-u-rfbe KCI-e-d f-BxO-YnR PbW-uVeO qeRs-uVeO-fCD bRtF-Vo-bRtF hN-g-u e-W-CyhrNEY f-BxO-BxO Oud-Vo-rfbe Ya-KCI-u reN-BxO-bRtF Ye-KCI-jiy Ya-fCD-Ya Oud-hN-u 
+u-qeRs-bRtF CyhrNEY-CyhrNEY-PbW fCD-uVeO-u BxO-Vo-rKH Ye-W-KCI e-qeRs-Oud jiy-u-jiy-b jiy-Vo-reN fCD-hVrX-BxO e-u-fCD eOB-reN-YnR e-d-TQPo uVeO-u-reN d-e-BxO reN-YnR-PFSN PFSN-PbW-uVeO reN-f-Vo PFSN-hVrX-bRtF rfbe-reN-qeRs reN-jiy-reN fCD-PFSN-PFSN-g YnR-W-d Oud-rfbe-rfbe e-Ya-TQPo e-CyhrNEY-b TQPo-eOB-YnR hVrX-Ye-u b-hVrX d-eOB-Ya rKH-W fCD-CyhrNEY-CyhrNEY bRtF-PFSN reN-e-BxO hN-BxO-Oud b-qeRs-TQPo KCI-u-W bRtF-hN-g qeRs-fCD-W PFSN-rfbe b-TU-PbW e-TU-uVeO Ya-CyhrNEY-hVrX CyhrNEY-hVrX-Oud Ye-W-b Ye-b-u eOB-PFSN-TQPo qeRs-qeRs-TU TU-Vo-qeRs hVrX-KCI-CyhrNEY PFSN-g-b u-PbW Oud-bRtF-hVrX PbW-u-u-f rKH-KCI-rKH-rKH TU-reN Oud-W-f-rKH hVrX-PFSN-f TU-e-CyhrNEY-g hVrX-fCD-d rKH-W-b e-Vo-CyhrNEY hVrX-reN-e bRtF-Vo-reN uVeO-Ya-hVrX f-f-f e-bRtF-bRtF PbW-eOB-Ya hVrX-b-fCD-CyhrNEY eOB-hN-e YnR-f-e TQPo-reN-f KCI-fCD-d f-f-Oud-W fCD-rKH-u PFSN-Vo-uVeO PbW-e-g YnR-CyhrNEY-eOB hVrX-PbW-fCD hVrX-jiy-rfbe uVeO-TU-b eOB-hVrX TU-TU-rKH BxO-PbW-hN bRtF-Oud-Oud fCD-e-d reN-jiy-hVrX Vo-rfbe-rKH BxO-d-uVeO YnR-fCD-Ya KCI-TU-PFSN KCI-jiy-YnR jiy-qeRs-rfbe Vo-reN-f g-uVeO BxO-rKH-eOB-TU u-Oud-hN f-bRtF-jiy rfbe-TU-Ya f-b-Ya d-rfbe-uVeO 
+Oud-d-CyhrNEY d-e-PFSN f-YnR-u Vo-CyhrNEY-TQPo qeRs-bRtF rKH-bRtF Ya-rKH-e Ya-jiy-u CyhrNEY-f TQPo-hN-rKH hVrX-Oud-f Ya-Oud-b YnR-b-jiy CyhrNEY-CyhrNEY-W PFSN-fCD-f fCD-Oud-hN u-b-Ya rfbe-W-eOB W-Ya-Ya PbW-TQPo-rKH eOB-uVeO-rKH f-g-PFSN fCD-W-hVrX b-jiy-g-f hN-b-YnR g-d-Oud f-hVrX-fCD hN-jiy-Oud CyhrNEY-fCD-KCI TU-reN-eOB e-PbW-TU f-Ye-Vo rKH-e-f BxO-hVrX-hVrX rfbe-hVrX-reN W-YnR-rKH hN-u-hVrX fCD-f-Ye Oud-bRtF-Ya Ye-jiy-e Ya-Ye-rKH Ya-CyhrNEY-bRtF Ya-g-e CyhrNEY-d-Ya reN-f-BxO-PFSN Ye-W-Ya hN-bRtF-fCD b-f-YnR hVrX-hN-reN Ye-g-rfbe hVrX-eOB-u rKH-PbW-YnR TQPo-W-jiy-f d-KCI-jiy uVeO-KCI-bRtF PFSN-rfbe-jiy hVrX-rKH-W eOB-PbW-d fCD-bRtF-uVeO jiy-CyhrNEY e-TQPo-PFSN g-reN-qeRs f-TQPo-b-Ye TQPo-BxO-Vo e-PbW-f-u reN-rfbe-Oud d-KCI-hN fCD-uVeO-b BxO-uVeO-CyhrNEY Oud-bRtF-Oud e-g-reN e-KCI-CyhrNEY b-PFSN-jiy bRtF-qeRs-qeRs b-bRtF-bRtF W-BxO-hN TU-TQPo-Ya BxO-Ya-reN-u e-Ya-rfbe-KCI reN-qeRs-reN e-uVeO-hVrX rKH-b TQPo-PbW-rfbe Ye-Ye-PFSN CyhrNEY-TU-reN Ya-hN-fCD jiy-uVeO-W jiy-YnR-u e-Vo-PFSN qeRs-uVeO-PbW g-hN-Ya Vo-jiy-e uVeO-Ye-PFSN-qeRs bRtF-rKH-reN-rKH bRtF-f-KCI YnR-TU-Ye hVrX-CyhrNEY-reN eOB-eOB-bRtF b-KCI hN-fCD-KCI 
+CyhrNEY-rfbe-reN jiy-jiy-bRtF uVeO-TQPo-PbW Oud-W-hVrX Vo-hN-Ye Ya-jiy-jiy Vo-hVrX-Ye fCD-f-reN jiy-fCD-KCI YnR-PFSN-YnR hVrX-jiy-e f-g-u BxO-f-f-W uVeO-hVrX-CyhrNEY d-b-jiy eOB-TQPo-Vo YnR-hVrX-u TQPo-PFSN-g bRtF-W-BxO BxO-rfbe-e CyhrNEY-TQPo-hVrX TQPo-e-g Ye-f-CyhrNEY Ya-Oud-Oud Ya-hN-b W-fCD-Ye PFSN-W-eOB CyhrNEY-rfbe-Ya PFSN-u-g hVrX-eOB-KCI BxO-f-jiy jiy-YnR-b Oud-uVeO-Ye eOB-uVeO-f reN-u-bRtF rKH-BxO KCI-Oud-u CyhrNEY-Oud BxO-f-Oud PFSN-TU-KCI W-qeRs-BxO CyhrNEY-KCI TU-Ya-reN PFSN-Vo-qeRs PFSN-e-hN PFSN-CyhrNEY-bRtF d-YnR-PbW Ye-f-hVrX reN-bRtF-reN f-rfbe-f Oud-f-YnR KCI-Vo-TQPo KCI-PbW-reN eOB-YnR-qeRs TQPo-TU-YnR PFSN-Oud d-W-Oud eOB-W-hN Ye-eOB-g TQPo-rKH-uVeO fCD-Oud-bRtF bRtF-u-W rfbe-Oud-hN f-uVeO-d f-W-TU PFSN-jiy-TQPo Ya-bRtF-reN Ya-g-rKH hN-b-fCD fCD-KCI-TQPo rKH-PFSN-hVrX rfbe-Ya-fCD rKH-reN-d YnR-qeRs-rfbe d-g jiy-d-d BxO-PbW-Ye fCD-Vo-BxO f-CyhrNEY-KCI eOB-TU-eOB W-CyhrNEY-b Ye-uVeO-W uVeO-reN-bRtF-f uVeO-Ya-Ya hVrX-e-uVeO KCI-fCD-BxO f-PFSN-TQPo qeRs-Ye-g eOB-hVrX-TU fCD-fCD-CyhrNEY rfbe-TU-Vo Vo-uVeO f-TU-W rfbe-KCI-hVrX b-TU-W-W b-b-u reN-TU-rKH PbW-rKH-CyhrNEY f-bRtF-e jiy-Oud-eOB 
+e-TQPo-Vo CyhrNEY-TQPo-TQPo-jiy PbW-f-Ye qeRs-CyhrNEY-jiy-eOB e-KCI-hVrX Ya-Ye-rKH-TQPo Vo-bRtF-hVrX KCI-u-f reN-rfbe-hN reN-TQPo-e hVrX-Vo-KCI uVeO-d-f f-u-Ya hVrX-CyhrNEY-g d-qeRs-d rfbe-PbW Ye-Vo-fCD bRtF-g-f Ye-b-TU hN-Ya-Ya Vo-fCD-eOB CyhrNEY-rfbe-W Ye-reN-uVeO Vo-BxO-rfbe Ye-f-KCI hN-g-rfbe TQPo-qeRs-KCI-reN rfbe-eOB-PbW PbW-g-rfbe g-reN-eOB fCD-TU-qeRs Oud-f-BxO jiy-Ye-eOB rfbe-PbW-W PFSN-Ye-eOB hVrX-e-eOB Oud-rfbe-reN uVeO-PbW-CyhrNEY CyhrNEY-PbW-PFSN f-reN-Oud f-hN-b reN-hN Ye-KCI-Ye b-g-CyhrNEY PFSN-fCD-PbW TQPo-KCI-Ye Vo-PFSN-reN f-u-b b-reN-hN CyhrNEY-TQPo-uVeO KCI-f-YnR eOB-fCD-W f-qeRs-Vo jiy-uVeO-TQPo Ya-TU-eOB hVrX-YnR-qeRs BxO-hN-TU Vo-u-Ya PFSN-YnR-e jiy-PFSN-PFSN PFSN-hVrX-eOB TU-TU-e reN-CyhrNEY-PFSN uVeO-Ya-TU TU-d-u fCD-TU-reN f-bRtF-PFSN reN-CyhrNEY-u g-e-e hVrX-eOB-bRtF Oud-rfbe-qeRs Vo-bRtF-KCI fCD-W-PFSN rfbe-rKH Vo-fCD-reN e-PFSN-e e-hN-g Oud-KCI-YnR TQPo-BxO-Ye rfbe-reN-KCI fCD-PFSN-f BxO-Ya-PbW bRtF-g-u b-TQPo-PFSN Oud-YnR-bRtF TU-u-Ya YnR-d-g BxO-BxO-e TQPo-Ya-Vo d-CyhrNEY-Vo fCD-hN-bRtF b-g-rfbe bRtF-Vo-KCI uVeO-d-fCD KCI-YnR-Vo g-PFSN-Oud rKH-rfbe-uVeO TQPo-d-g Vo-fCD-PFSN u-rKH 
+BxO-rfbe-eOB Oud-PbW-bRtF u-Ya-uVeO-d hVrX-f-eOB CyhrNEY-eOB-PFSN hVrX-d-Ye f-reN-TQPo PbW-eOB-e-PFSN CyhrNEY-PFSN-b uVeO-hVrX-Ye W-e-KCI TQPo-TU-jiy W-bRtF-b Vo-hVrX-hN Ye-TQPo-YnR KCI-rKH-g KCI-Ye-reN hVrX-W-rKH reN-PFSN-CyhrNEY eOB-g-reN b-BxO-u eOB-rKH-W TU-hN-f jiy-uVeO-g CyhrNEY-eOB-d f-Vo Ye-rfbe-rKH f-Ye-u eOB-eOB-eOB rfbe-fCD-g TU-e-fCD CyhrNEY-Oud-u hVrX-fCD-reN Ye-fCD-fCD b-e-u TU-d-W fCD-eOB hVrX-reN-uVeO e-d-hVrX e-uVeO-Vo PFSN-d-TU uVeO-BxO-TQPo CyhrNEY-qeRs-Oud u-YnR-u d-eOB-BxO b-uVeO-CyhrNEY rKH-PFSN-b f-e-b rfbe-fCD-rfbe f-g-Ya TQPo-hN-hN-hN reN-YnR-hVrX g-b-rfbe Ye-e-qeRs PbW-bRtF-reN uVeO-Vo-uVeO YnR-W-rfbe d-e-u TU-TQPo-d TQPo-g-rKH PbW-Vo-u KCI-hN-g BxO-u-Ye jiy-TU-PFSN u-reN-Ye PbW-bRtF-hVrX d-hN-TU YnR-KCI-TU TU-PFSN-f hVrX-Oud-hVrX-uVeO Ye-rfbe-uVeO reN-Ya-bRtF jiy-CyhrNEY-d Vo-CyhrNEY-f rKH-rfbe-rfbe u-KCI-eOB eOB-Vo-reN hVrX-PFSN-PFSN hVrX-fCD-reN-qeRs hN-uVeO-g rKH-b-KCI reN-YnR-d PFSN-W-b BxO-rfbe-BxO TQPo-d-u hVrX-YnR-reN uVeO-eOB-rfbe g-PbW-CyhrNEY CyhrNEY-rfbe-e f-d-W Ye-TQPo-TQPo rKH-qeRs-eOB e-PbW-d uVeO-KCI-g rKH-Ye-KCI hVrX-jiy-b PFSN-PFSN-TU jiy-TQPo-YnR W-b-TQPo f-Ye-qeRs 
+TQPo-rKH-reN d-Oud f-bRtF-rfbe YnR-Ye-g g-g-PFSN rKH-Oud-d-Vo TU-jiy e-YnR-Ya d-rfbe-g PFSN-g-YnR f-hN-uVeO Ye-Oud-rfbe fCD-qeRs-CyhrNEY hN-CyhrNEY Oud-fCD-reN reN-fCD-qeRs CyhrNEY-W-jiy e-W-bRtF Ya-hN-uVeO e-jiy e-Ye-PbW Ya-b-d reN-jiy-f TQPo-b-YnR uVeO-Ye-rKH jiy-PbW f-fCD-BxO g-reN-b jiy-jiy-eOB eOB-rKH-eOB rfbe-jiy-b jiy-YnR-e e-rKH-PbW Vo-Vo-BxO rKH-KCI-CyhrNEY TU-g-KCI TQPo-Ye-f fCD-g qeRs-e-eOB b-fCD qeRs-Ye-Ya TU-Oud-g bRtF-uVeO BxO-TU-eOB-rKH qeRs-rKH-BxO YnR-d-BxO PbW-rfbe-f bRtF-CyhrNEY-bRtF hN-u-PbW CyhrNEY-eOB-rKH b-e-reN fCD-uVeO-Ye-rfbe e-Ye-b u-Vo-rKH d-Ya-rfbe qeRs-TQPo-fCD KCI-rfbe-e f-hN-qeRs-u u-rfbe KCI-TQPo-rKH g-YnR Ya-hN-rfbe W-TU-qeRs YnR-KCI-TQPo Oud-rKH-PbW YnR-TU-TQPo Oud-rfbe-Ya g-bRtF-rKH reN-Vo-Vo g-BxO-b CyhrNEY-BxO reN-Ya-fCD g-eOB-jiy BxO-rKH-BxO fCD-eOB-jiy PFSN-Ya-eOB W-rKH-Oud YnR-qeRs-hN d-BxO-b PbW-jiy-g W-rKH-Oud-rKH f-uVeO-KCI g-u-uVeO TQPo-e-TQPo TQPo-rKH-W-PbW bRtF-BxO-TU fCD-reN Ya-d-Ye YnR-rKH-qeRs g-f-Ya bRtF-qeRs-eOB jiy-PFSN-Ye u-d-KCI hN-u-YnR bRtF-Oud-eOB fCD-CyhrNEY-eOB Vo-KCI hVrX-PbW-rKH hVrX-hN-Oud hN-u-uVeO 
+g-TU-BxO fCD-rfbe-Ye u-qeRs-Vo rKH-TU u-PbW-PbW KCI-rKH-PFSN Ye-qeRs-u W-d-W Ya-eOB-hN PbW-u-Oud PbW-W-Oud-BxO W-Ye-d hVrX-TQPo-hVrX KCI-YnR-f Vo-b-e bRtF-Vo-BxO e-reN-d qeRs-YnR-BxO TQPo-TU-YnR-TU rfbe-Oud-YnR PFSN-Oud-YnR YnR-TQPo-u e-Ye-W Vo-jiy-CyhrNEY BxO-rKH-TQPo-W qeRs-reN-KCI W-PbW-hN f-BxO-CyhrNEY BxO-PFSN-BxO uVeO-qeRs-reN TU-bRtF-Oud Oud-Ye-PbW reN-Ye-W rKH-YnR-W-CyhrNEY KCI-Ya-YnR Ya-BxO-YnR rfbe-rfbe-KCI hVrX-e-qeRs YnR-reN-Vo TQPo-u-e-rKH b-eOB rKH-fCD-rfbe TQPo-bRtF-u jiy-b-d Ye-fCD-Ye CyhrNEY-PbW-d Ye-bRtF-PFSN eOB-PbW-b-g rfbe-eOB-Ye PbW-hVrX-eOB Ya-PbW-qeRs bRtF-qeRs-f fCD-PbW-qeRs PFSN-TQPo-Ya e-fCD-W PbW-hVrX-hN Vo-uVeO-Oud bRtF-Oud-e PbW-TQPo-TU b-eOB-hVrX rKH-PbW-BxO hN-PbW-PFSN qeRs-YnR-qeRs eOB-Oud-PFSN qeRs-rKH-jiy hN-TQPo-bRtF Ye-u-Oud Oud-rfbe-hN fCD-Ye-qeRs uVeO-PbW-CyhrNEY-Ya Ya-PFSN-rKH Ya-hVrX-Ya TU-rfbe-rfbe jiy-bRtF-YnR YnR-eOB-jiy Vo-rKH-PbW f-PFSN-f g-reN-bRtF Ya-Vo-qeRs u-Vo-g e-g-Ya hN-u-BxO u-Oud-W e-rfbe-u BxO-bRtF-rKH f-d-rKH Oud-TU-u jiy-d-CyhrNEY f-reN-Ye BxO-BxO-PbW-eOB Vo-TU-Oud CyhrNEY-b-hVrX hN-reN-Oud CyhrNEY-Ya-uVeO u-Oud-g e-jiy-PFSN f-jiy-u bRtF-uVeO-fCD eOB-TU-KCI g-PFSN-YnR 
+u-Oud-u jiy-rKH-reN Ye-g-hN g-BxO-W PFSN-d-qeRs b-hVrX-hVrX hVrX-d-g f-PFSN-KCI YnR-g-hVrX W-f-qeRs Ya-BxO-YnR-BxO Oud-Vo-KCI-bRtF bRtF-qeRs-Ya-CyhrNEY qeRs-hVrX-Oud b-bRtF-jiy BxO-TU-Vo rKH-hVrX-KCI PbW-fCD-jiy TQPo-f-KCI f-Ya-e-reN uVeO-PFSN-hN PFSN-qeRs-hN PFSN-YnR-YnR Ya-e-jiy PbW-uVeO-YnR Ye-eOB-jiy TQPo-Ya-g rfbe-g-rfbe KCI-W-hN PbW-Oud-e-b BxO-Ye-jiy hN-Oud-rfbe rKH-Vo-fCD-PFSN eOB-TQPo-qeRs Vo-KCI-Ye b-g-jiy-Ya rfbe-TU-Ye d-Ya-fCD rfbe-hN-PbW PFSN-b PFSN-PbW-CyhrNEY e-qeRs-qeRs bRtF-TU-f b-qeRs-eOB TQPo-bRtF-f reN-rKH-PFSN TU-Oud-Ya PFSN-Vo-g f-BxO-d uVeO-rfbe-BxO CyhrNEY-YnR-fCD PbW-CyhrNEY-hVrX Ya-TU-PFSN qeRs-fCD-d Oud-b-KCI eOB-Ya-b f-bRtF-Vo hN-eOB-rfbe PbW-PFSN-Ye W-Vo-qeRs rfbe-qeRs reN-BxO-BxO Oud-jiy-hVrX hN-g-fCD PFSN-BxO-g W-fCD-W hVrX-YnR-KCI-rKH bRtF-Vo-uVeO reN-W-e eOB-PFSN-CyhrNEY eOB-TU-u g-PbW-f fCD-YnR-CyhrNEY reN-fCD-hN rfbe-hVrX-Ye uVeO-hN-W BxO-Oud-Oud CyhrNEY-hN-hVrX-hVrX e-g-PbW Vo-bRtF-CyhrNEY g-hVrX-jiy bRtF-u-Vo fCD-rKH-Ya PFSN-hN-rfbe BxO-TU-b hVrX-b-Ya eOB-YnR-W eOB-rfbe-hVrX TU-b-f hVrX-W-u Ye-CyhrNEY qeRs-Vo-uVeO u-e-Oud eOB-BxO-u Vo-rKH-Oud PbW-e-g-u W-qeRs-Oud hN-YnR-TQPo g-bRtF-CyhrNEY rfbe-rKH-rfbe 
+Ye-PFSN-YnR hN-YnR-jiy KCI-reN-fCD Oud-hN-u-KCI PbW-Ya-rKH b-hN-Ye qeRs-Ye-e b-CyhrNEY-bRtF Oud-reN-CyhrNEY bRtF-hN-rfbe W-bRtF-e Oud-u-eOB CyhrNEY-BxO-qeRs reN-KCI-Ya e-Vo-Ya Oud-e-f PbW-g-W TU-uVeO-TU bRtF-PbW Vo-CyhrNEY-PFSN Ya-Ya-jiy Vo-fCD-Ye jiy-Vo-fCD g-d-BxO g-qeRs-bRtF qeRs-Vo-Ye uVeO-YnR-PFSN PbW-PbW-PbW f-BxO-rfbe KCI-hN-rKH uVeO-Vo-BxO f-CyhrNEY-hVrX u-Oud-fCD BxO-Vo-KCI hVrX-hVrX-BxO e-YnR-g d-g-fCD Ye-TU-u PFSN-fCD-qeRs d-Ye-qeRs f-Vo-bRtF u-Ya-rfbe BxO-e-Ya rfbe-bRtF-PbW b-uVeO-b d-YnR-reN d-reN-Ye jiy-W-BxO uVeO-f-uVeO-uVeO f-bRtF-f e-KCI-f TU-PFSN-u TU-qeRs-jiy e-eOB-Vo Ye-PbW-Ye fCD-hVrX-rfbe KCI-bRtF bRtF-PFSN-eOB hN-Ye-Ya jiy-d-BxO bRtF-u-uVeO-Ye TQPo-KCI-jiy CyhrNEY-e-b hVrX-Oud-TQPo KCI-d-reN KCI-TU-b Ya-hN-qeRs TQPo-PbW-BxO rfbe-e-TQPo-fCD reN-bRtF-jiy b-KCI-TU qeRs-Ye-BxO Ya-bRtF-g W-g qeRs-bRtF-f reN-d-f fCD-qeRs-W uVeO-e fCD-uVeO-KCI jiy-Ye-TU Vo-u-jiy-KCI hVrX-jiy-uVeO CyhrNEY-qeRs-Oud-b KCI-jiy-hVrX u-Vo-uVeO CyhrNEY-b-TU PbW-rKH-Ya BxO-W-u b-Ye-TU hVrX-BxO-g YnR-W-fCD qeRs-e-YnR rKH-f-YnR Ye-YnR-Vo Ya-BxO-e qeRs-qeRs-d PFSN-Ya-uVeO uVeO-eOB-g fCD-Oud-PbW TU-uVeO-f 
+KCI-TU-YnR rfbe-YnR-hVrX f-TQPo-rKH CyhrNEY-KCI-eOB W-Vo-TQPo Oud-TU-TQPo d-rKH-qeRs-b hVrX-TU-Ya CyhrNEY-hVrX-uVeO PFSN-eOB-g PFSN-reN-reN qeRs-jiy-PbW rKH-Vo-qeRs KCI-eOB-eOB eOB-eOB-Oud W-Ye-Vo Oud-bRtF-e CyhrNEY-g-PbW f-Vo-jiy TQPo-uVeO-BxO reN-TQPo-PbW rfbe-KCI-reN d-qeRs-Vo-hN f-jiy-Oud g-TQPo-Ya rfbe-PbW-Vo hN-PbW-f W-qeRs-BxO-eOB hN-uVeO-KCI KCI-qeRs-YnR PFSN-KCI-jiy hN-BxO-e bRtF-Ya-u KCI-PFSN-PbW jiy-PbW-hVrX BxO-g-TU f-hN-jiy rKH-b-hVrX PFSN-jiy-W TQPo-g-TQPo f-fCD-YnR-Vo bRtF-Ye-eOB reN-f-bRtF b-rfbe-fCD jiy-Ya-hVrX YnR-b-YnR hN-TU-qeRs b-Ye-TU-Ya f-W-hN rfbe-rfbe-YnR u-qeRs-b e-hVrX-KCI KCI-PbW-b KCI-rKH-rfbe Oud-fCD-Vo hVrX-qeRs-uVeO f-qeRs-g PFSN-rfbe-d TQPo-b-e Oud-rfbe-g g-jiy-u YnR-eOB-f e-YnR-BxO rfbe-PFSN-e Oud-g-u g-d-uVeO Oud-g-CyhrNEY Ya-TQPo-b PbW-reN-d W-rfbe-TQPo Vo-reN-uVeO rfbe-Vo Ya-eOB-f rfbe-Ye-hN jiy-uVeO-bRtF fCD-BxO-W Oud-u-reN W-f-BxO Oud-Oud-uVeO u-W-g u-qeRs-W KCI-rKH-rKH Ye-f-fCD TQPo-fCD-bRtF g-Ya KCI-PFSN-hVrX Oud-Vo-rKH PbW-qeRs-qeRs PbW-d-PFSN Ye-reN-PbW hN-TU-g g-u-eOB qeRs-Ye-Vo hN-TU-d TU-eOB-u Ya-bRtF-YnR TU-PbW-jiy TQPo-eOB-eOB Ye-bRtF-Ya PFSN-u-W 
+rKH-hVrX-eOB qeRs-Vo-W uVeO-b-fCD qeRs-TU-reN d-PbW-uVeO CyhrNEY-CyhrNEY-TQPo rKH-hN b-rfbe-uVeO e-KCI-Vo eOB-jiy TQPo-Oud-hN qeRs-CyhrNEY-TQPo PbW-Vo-rKH e-Vo-b YnR-g-TQPo-e eOB-Ya-hVrX BxO-rfbe-u hN-TU-Ya e-qeRs-reN d-rfbe-f BxO-hVrX-d d-jiy-Ye g-Ye-e PFSN-BxO-KCI rfbe-bRtF-g qeRs-rfbe-f TU-jiy-eOB b-PbW-hVrX d-d-d b-Ye-eOB u-jiy-reN uVeO-Ye-bRtF g-TU-uVeO Ya-TQPo-bRtF hN-BxO-W TQPo-Ye-Ya u-u-d hVrX-PbW-g b-PbW-Ye reN-PFSN-d Oud-Oud-BxO Oud-uVeO-rfbe Oud-rKH-fCD eOB-Vo-Vo-YnR jiy-u-qeRs rfbe-d-CyhrNEY uVeO-Ye-g-Oud eOB-Ya-f d-d-u YnR-fCD-KCI TU-bRtF-uVeO e-jiy-b reN-PFSN-e uVeO-d-Vo eOB-W-bRtF KCI-fCD-rKH Vo-Oud-Vo u-rfbe-PbW PFSN-b-reN Vo-YnR-d rfbe-bRtF-jiy fCD-e-rKH KCI-hN-YnR fCD-hVrX-CyhrNEY PFSN-rKH TU-KCI BxO-rKH-W-Oud reN-YnR-CyhrNEY jiy-g-Vo hVrX-jiy-g uVeO-YnR-eOB Ye-bRtF-TQPo CyhrNEY-hN-Oud jiy-PFSN-BxO uVeO-W-qeRs TQPo-u-u Vo-CyhrNEY-d-b Oud-TQPo-TU fCD-hN-hN BxO-uVeO-Ya Ye-reN-f eOB-jiy-rfbe e-TQPo-Oud d-rfbe-rfbe Ya-rfbe-Oud eOB-fCD-bRtF u-fCD CyhrNEY-d-e rKH-reN-TU hN-Vo-Ye u-W-hN CyhrNEY-reN-reN uVeO-Ye-fCD reN-rKH-d qeRs-d-TQPo Vo-g-reN TU-W-rfbe reN-eOB-e fCD-b-Oud d-TQPo-u 
+bRtF-Oud-f bRtF-TQPo-Vo Oud-hVrX-e d-b-Vo PFSN-TQPo-YnR-Vo rKH-PFSN-Ye hVrX-d-Ye-PbW TQPo-f-TU hVrX-Ya-jiy Ye-TU-jiy Ya-rKH-bRtF TQPo-g-u-e jiy-d-fCD d-CyhrNEY-qeRs rKH-reN-g CyhrNEY-d-qeRs Oud-Ye-PbW-e hVrX-hN-TU-jiy W-KCI reN-Oud-TQPo eOB-hVrX-W f-Vo-hVrX bRtF-Ye-hVrX g-Vo-reN YnR-rKH-CyhrNEY TQPo-Ye-e b-PbW-KCI TQPo-fCD-fCD qeRs-rfbe-u d-jiy-W Vo-hVrX-jiy uVeO-BxO-rKH reN-hVrX-TQPo jiy-b-d-W jiy-Ye-b bRtF-eOB-d reN-TU-uVeO rfbe-hN-b hN-f-CyhrNEY PbW-Ya-PFSN eOB-g-CyhrNEY Ya-b-rKH CyhrNEY-bRtF-KCI hN-CyhrNEY-Ye u-rKH-W PFSN-YnR-d f-uVeO-Vo PFSN-TQPo-Ye PFSN-eOB-eOB u-fCD-bRtF Ye-Vo-BxO jiy-Ya-f qeRs-YnR-fCD-fCD hN-KCI-Oud g-PbW-Ya eOB-eOB-d d-uVeO-TQPo hN-YnR-u eOB-Vo-e TQPo-Ya-PbW YnR-Ye-u W-uVeO-rfbe jiy-jiy-Ya g-PFSN-YnR-d rKH-fCD-W reN-reN-rKH PFSN-PFSN-e Vo-KCI-TQPo jiy-Vo-TQPo KCI-Oud-uVeO hVrX-b-Ye KCI-g-TQPo Ye-rfbe-rKH-qeRs fCD-e-f uVeO-g-PFSN jiy-Ya-e eOB-b Ye-Ya-PbW PbW-PFSN-TQPo f-d-rKH-u Vo-uVeO-f e-Ye-Ye g-uVeO-f b-KCI-PFSN hN-g-PFSN rfbe-e-YnR jiy-hN-f uVeO-e-u eOB-eOB-reN TQPo-hN-PFSN rfbe-reN-PFSN rKH-hN-f BxO-PFSN-TQPo YnR-CyhrNEY-YnR uVeO-TU-PFSN Ye-u-Ya eOB-YnR-Oud Vo-b-b-hVrX PFSN-TU-e jiy-u-PbW 
+Ye-bRtF-f-hN jiy-BxO-eOB TU-TU-rfbe e-fCD-Ya bRtF-Vo-PFSN g-reN-uVeO YnR-hVrX-fCD qeRs-rfbe-rKH rfbe-PbW-Ye d-Ya-hVrX W-d-e uVeO-rKH-Ye KCI-W-rfbe Vo-TQPo-CyhrNEY KCI-eOB-qeRs eOB-fCD-PbW-PFSN KCI-KCI-b TU-YnR-b uVeO-bRtF-eOB fCD-KCI-Vo b-jiy-CyhrNEY-rfbe Ye-YnR-KCI g-YnR-YnR qeRs-Ya-CyhrNEY b-W-f hVrX-uVeO-u YnR-YnR-PbW eOB-TQPo-KCI PbW-CyhrNEY-reN fCD-g-TQPo eOB-qeRs-PFSN KCI-fCD-Ya e-hN-u Ya-Ya-rfbe Oud-TU-eOB d-Vo-d Vo-rfbe-rfbe TU-YnR-PbW Ya-hN-hN qeRs-YnR-Vo jiy-hVrX-PbW hVrX-W-eOB CyhrNEY-TU-eOB TU-hN-bRtF PFSN-hVrX-hVrX Vo-hVrX-W Ya-BxO-uVeO e-d-W rKH-CyhrNEY-Oud-b eOB-uVeO-hVrX u-qeRs-PbW Vo-hN-reN TQPo-YnR-BxO bRtF-uVeO-TU uVeO-Oud-e PFSN-Ya-YnR-jiy hVrX-Ye-CyhrNEY reN-TU-b uVeO-uVeO-YnR fCD-fCD-PFSN eOB-Ye-uVeO hVrX-uVeO-b PbW-uVeO-eOB KCI-g-Ya TQPo-BxO-hN TQPo-e-KCI b-u-reN fCD-qeRs-PbW rfbe-bRtF-eOB u-TQPo-eOB e-W-g rKH-YnR-u PFSN-W-f PbW-fCD-eOB g-Ya-jiy d-qeRs-TU rfbe-W-TU-rfbe Ya-TU-Ye jiy-qeRs-jiy eOB-d-f reN-rfbe-BxO Vo-Ye-u Ye-Ye-fCD W-rfbe-b TQPo-Ya-uVeO-uVeO CyhrNEY-KCI-reN Vo-CyhrNEY-b-TU CyhrNEY-W-f d-hVrX-TU TQPo-W-fCD fCD-hN-bRtF-uVeO g-jiy-fCD hVrX-hN-reN-CyhrNEY BxO-YnR-fCD PFSN-jiy-TU b-Ya-Vo u-W-CyhrNEY Ye-Vo-eOB TQPo-W-e b-Vo 
+CyhrNEY-PFSN-CyhrNEY rKH-u-rfbe PFSN-TU-fCD rKH-Ya-jiy YnR-BxO-rKH reN-CyhrNEY-Ya KCI-reN-hN f-bRtF-TU eOB-bRtF-fCD f-jiy-reN-CyhrNEY hN-jiy-eOB BxO-f-uVeO u-uVeO-fCD TU-qeRs-d g-fCD-uVeO u-Ye-g reN-qeRs-Ya reN-YnR-bRtF eOB-Ya-KCI d-Oud-CyhrNEY TU-Ya-rKH d-hVrX-BxO uVeO-PFSN-jiy-eOB YnR-YnR-rKH YnR-reN-qeRs b-uVeO-Ye W-PbW-u-Ya W-PbW-fCD f-qeRs-b TU-hVrX-e-PbW TQPo-BxO-CyhrNEY eOB-rKH-PFSN uVeO-PbW-Ye eOB-uVeO-Oud uVeO-Oud-BxO TQPo-jiy-CyhrNEY uVeO-rfbe-fCD Ya-Ye-BxO YnR-TU-f TU-hVrX-PbW rKH-YnR-eOB g-YnR-reN Ye-TQPo-fCD e-TU-u Ye-Vo-YnR e-W-Oud f-eOB-hVrX PbW-d-TQPo YnR-f-Oud CyhrNEY-u-PFSN rKH-g-reN YnR-b-CyhrNEY g-TU-f Vo-rKH-reN bRtF-TU-Vo TU-jiy-PFSN Ye-eOB-YnR Ye-bRtF-rfbe reN-eOB-g g-b-reN TU-u-d hVrX-hN-qeRs-TU PbW-hVrX-Vo TU-Ye-YnR Oud-KCI-TU b-eOB-jiy jiy-rfbe-Oud uVeO-Vo-rfbe u-PbW-KCI BxO-Ya-rfbe BxO-hN-uVeO uVeO-rfbe-g Ye-b-fCD PFSN-d-e TU-CyhrNEY-KCI PbW-f-qeRs Oud-rKH-bRtF eOB-u-b W-d-rfbe eOB-hVrX-W-hN d-KCI-Ya TU-Oud-eOB b-hN-qeRs g-rKH-Ye jiy-YnR-CyhrNEY e-u-qeRs Vo-d-TU Ye-rfbe-e CyhrNEY-hVrX-reN TQPo-reN-W u-jiy-eOB qeRs-PFSN-reN bRtF-b-reN-PFSN eOB-Ye-Ye-b TU-uVeO-jiy reN-fCD-TQPo PbW-bRtF-PbW reN-PbW-Ye hN-YnR-PbW W-u-d 
+qeRs-PbW-qeRs f-u-Vo Oud-YnR-PbW W-jiy-uVeO rKH-u-BxO qeRs-g-Ye jiy-BxO-eOB-fCD u-Oud-d reN-W-YnR g-Ya-TQPo qeRs-Vo-f KCI-YnR-TU bRtF-KCI-qeRs TU-bRtF-fCD uVeO-f-rfbe Oud-u-Ye reN-d-Ye-e u-TU-PFSN u-YnR-fCD TU-Ya-f d-g-f Vo-BxO-jiy TQPo-Ye-hVrX PbW-fCD-Vo-Ya qeRs-PFSN-d YnR-Vo-rKH PbW-b KCI-fCD-bRtF e-CyhrNEY-TQPo qeRs-f W-Vo-qeRs-CyhrNEY bRtF-PbW-e Ye-YnR-W PFSN-KCI-PFSN Ya-PFSN-KCI Ya-fCD-g PFSN-uVeO-BxO d-BxO-fCD eOB-jiy-u rfbe-TU-eOB reN-CyhrNEY-rfbe b-Ye-BxO u-rfbe-W hVrX-Ye-BxO Ya-TU-jiy KCI-eOB-hVrX uVeO-Ye-bRtF-YnR qeRs-reN-TQPo jiy-qeRs-bRtF d-qeRs-qeRs f-Oud-fCD Vo-Ya-YnR b-YnR-KCI g-eOB-rfbe-uVeO Ya-BxO-e-f YnR-rKH-g BxO-rKH-u qeRs-TU-bRtF PbW-d-g d-jiy-YnR b-Ya-rfbe rfbe-d-u YnR-YnR-TU rKH-u-bRtF hN-KCI-e fCD-TQPo-CyhrNEY b-TQPo-CyhrNEY uVeO-KCI-TQPo TQPo-f-uVeO rfbe-g-W d-rfbe-CyhrNEY u-qeRs-Ye-rKH jiy-rKH-g PFSN-TQPo-hN TQPo-Ye-jiy Ye-hN-KCI YnR-uVeO-jiy jiy-u-Vo-uVeO CyhrNEY-f-f hN-d qeRs-PbW-Oud eOB-CyhrNEY-g hVrX-TU-TQPo reN-uVeO-qeRs rfbe-TQPo-hN bRtF-PbW-rKH uVeO-Oud-rKH qeRs-KCI jiy-b-e YnR-PbW-g hVrX-bRtF-YnR CyhrNEY-rKH-hN hVrX-KCI-qeRs hVrX-eOB-CyhrNEY d-PbW-f BxO-Vo-fCD qeRs-bRtF-hN f-TQPo-YnR KCI-CyhrNEY-PFSN jiy-TU-rKH 
+Ye-KCI-Vo KCI-d-jiy eOB-TQPo-uVeO u-u-e Oud-Vo-Oud uVeO-CyhrNEY-W CyhrNEY-jiy-e fCD-rfbe-KCI PFSN-fCD-YnR BxO-TU-d hN-Oud-qeRs u-PbW-bRtF uVeO-Oud-f Ye-CyhrNEY-TQPo hN-bRtF-W Ya-Ye-jiy PFSN-uVeO-BxO-jiy e-TQPo-KCI b-d-hVrX qeRs-reN-f eOB-rfbe-jiy g-bRtF-hVrX TQPo-YnR-rKH BxO-hVrX-TQPo e-e-rfbe Vo-uVeO-d bRtF-d-TU f-fCD-hN b-eOB-CyhrNEY TQPo-rKH-eOB KCI-rfbe-uVeO W-f-TU CyhrNEY-b-Vo hN-Ya-f Ya-uVeO-e u-PFSN-YnR hN-uVeO-TQPo uVeO-u-g TQPo-PbW-b PbW-YnR-d rfbe-BxO-bRtF d-d-CyhrNEY jiy-rfbe-uVeO Ye-u-reN W-CyhrNEY-g bRtF-TU-g Ya-jiy-CyhrNEY u-u-qeRs hN-e-PbW TU-BxO KCI-d-f reN-jiy-rfbe Ya-W-hVrX bRtF-Oud-bRtF Oud-CyhrNEY-rfbe b-g-TQPo Ye-BxO-Vo eOB-rfbe-hN TU-bRtF-eOB e-uVeO-BxO Ya-f-rKH rfbe-u-Oud fCD-PFSN-uVeO e-Vo-u uVeO-PbW-uVeO TU-u-Ye b-f-BxO rfbe-Ye-TU-YnR Ya-Vo-hVrX Oud-TU-u-reN bRtF-fCD YnR-reN-PFSN qeRs-YnR-hN bRtF-hN-Oud rKH-reN-CyhrNEY rfbe-reN-TQPo PFSN-rfbe-uVeO YnR-Ye-PFSN-bRtF jiy-PFSN-d-qeRs b-PFSN-rfbe g-qeRs-CyhrNEY jiy-fCD-fCD CyhrNEY-PFSN-Ya d-rfbe-W fCD-hN-e rfbe-Vo-rKH eOB-b-Oud reN-PbW-PFSN fCD-hVrX-bRtF rKH-PFSN-Ye-rfbe Oud-rKH-Ye eOB-e-Ye hVrX-b-Ya-KCI PFSN-TQPo-jiy KCI-Ya-e CyhrNEY-CyhrNEY-YnR W-hVrX-Ya d-g-KCI W-CyhrNEY-rfbe PFSN-reN-qeRs 
+PFSN-jiy-Ye hN-Vo-PbW bRtF-BxO-TU-KCI hN-hN-PFSN jiy-fCD-KCI-hN KCI-g-hN hN-Ye-Ya-eOB u-eOB-jiy rKH-W-u eOB-KCI-g TU-BxO-uVeO qeRs-Ye-Oud bRtF-qeRs-CyhrNEY Oud-b-e hVrX-PbW-CyhrNEY-TU KCI-TQPo-qeRs qeRs-hN-Vo YnR-YnR-reN fCD-reN-KCI PFSN-jiy-Vo TQPo-YnR-f BxO-Oud-g TU-rfbe-reN eOB-reN-jiy d-CyhrNEY-W BxO-f-g TU-b-KCI bRtF-TU-TU u-Vo-eOB bRtF-KCI-Ya uVeO-fCD-fCD b-PbW-b fCD-d-hVrX KCI-qeRs-TU jiy-W-qeRs hN-g-Vo KCI-qeRs-u Vo-BxO-uVeO fCD-Ye-jiy-Ya e-KCI-bRtF f-qeRs-hVrX rfbe-Ya-Ye jiy-Ya-qeRs hN-fCD-hVrX hN-rKH-fCD BxO-YnR-e e-bRtF-Vo e-TU-hN f-qeRs-g-rKH Ye-hVrX-b Ya-Ya-u KCI-g-rfbe-TU b-rfbe-CyhrNEY rfbe-TU-Ye-Ya b-qeRs-g BxO-Ye-f reN-BxO-u qeRs-u-fCD e-W-eOB jiy-TU-jiy TU-jiy-b KCI-hVrX-g uVeO-Oud-jiy YnR-W-hN Ya-hN-u uVeO-eOB-PFSN PFSN-bRtF-PFSN fCD-YnR-f g-Ya-jiy-hVrX bRtF-Oud-f-e b-e-BxO hN-CyhrNEY-TU TU-BxO-reN d-Ye-PFSN jiy-g-b g-TU-BxO-fCD eOB-bRtF-Ya jiy-uVeO-Ya eOB-Vo-KCI CyhrNEY-KCI-rKH BxO-u-jiy Oud-YnR-hN g-YnR-CyhrNEY f-PFSN-W KCI-PbW-Oud rfbe-BxO-b CyhrNEY-reN-bRtF W-KCI-d eOB-PbW-u e-BxO-u g-CyhrNEY-W eOB-rfbe-Vo BxO-b-YnR-PFSN KCI-Ye-TQPo d-rKH-rKH uVeO-jiy uVeO-e-Ye BxO-BxO-Oud f-bRtF-W d-e-e 
+hVrX-f-YnR Oud-hVrX-eOB PFSN-TQPo-Vo b-rfbe-PbW YnR-CyhrNEY-rfbe fCD-BxO-rfbe CyhrNEY-b-rfbe jiy-BxO-u eOB-e-eOB e-d-uVeO TQPo-qeRs-Ye PbW-e-b PbW-e-reN d-rKH-W KCI-u-TQPo YnR-Vo-eOB fCD-hN-bRtF-TU bRtF-reN W-Oud-BxO Ya-e-g PFSN-hVrX-hVrX-PFSN PbW-KCI-Vo g-Ye-qeRs Ye-hVrX-d Ya-fCD-BxO Vo-e-KCI u-Ya-BxO fCD-f-d W-u-eOB e-eOB-b hN-BxO-hN-PbW Vo-eOB-qeRs-Vo b-CyhrNEY-rKH Vo-f-W rfbe-b-YnR TQPo-TQPo-b hVrX-eOB-KCI-Vo TU-BxO-qeRs b-e-jiy-reN BxO-reN-Ya jiy-hVrX-f fCD-hN-CyhrNEY qeRs-f-BxO rfbe-rfbe-YnR-qeRs bRtF-Vo-qeRs rKH-g-rfbe rKH-jiy-bRtF d-TQPo-eOB Vo-jiy-Ya TU-u-YnR-bRtF CyhrNEY-TU-e CyhrNEY-CyhrNEY-W-u KCI-TU-qeRs PbW-d-Ya rfbe-hN-reN e-u-TU hN-Oud-Oud Ye-TU-uVeO rKH-W-W hVrX-b-TQPo e-d-uVeO-uVeO fCD-KCI-reN Ya-reN-fCD qeRs-PFSN-Ye d-BxO-f e-jiy-TQPo reN-Ye-reN hN-Ya-hVrX reN-g-Ye KCI-BxO-KCI rKH-hN-CyhrNEY TQPo-PFSN-Oud rKH-u-rfbe-KCI qeRs-rfbe-reN Ye-jiy-PFSN CyhrNEY-Vo-bRtF Oud-uVeO-b YnR-bRtF-b f-Ye-KCI rKH-Ye-CyhrNEY CyhrNEY-reN-f hVrX-KCI-u e-BxO-Vo d-TQPo-rKH rfbe-qeRs-KCI qeRs-jiy-jiy reN-Oud-PFSN u-rfbe-uVeO g-qeRs-qeRs KCI-TU-KCI e-Oud-PFSN Ya-TQPo-d u-b-Vo uVeO-Ye-Vo fCD-d-W fCD-KCI-uVeO PFSN-d-g reN-rfbe-hN-CyhrNEY YnR-KCI-reN e-PFSN-TQPo 
+reN-Ya-fCD-Ya e-TU-TQPo CyhrNEY-W-rKH e-qeRs-eOB KCI-reN-Ya reN-TQPo-u BxO-g-KCI CyhrNEY-Ye-KCI-fCD KCI-b-e jiy-TU-Ye Vo-rfbe-eOB W-PFSN-e jiy-hVrX-eOB reN-Oud-CyhrNEY f-W-hVrX YnR-YnR-u Oud-fCD-KCI PFSN-reN-W b-d-CyhrNEY hVrX-hN-KCI rfbe-uVeO-PFSN Ya-g-uVeO TQPo-KCI-Ya d-uVeO-f b-KCI-YnR BxO-rfbe-d TU-YnR-reN qeRs-f-e fCD-uVeO-d g-qeRs-KCI Oud-W-uVeO rKH-b-CyhrNEY CyhrNEY-PFSN-Oud d-hVrX-Ye qeRs-hN-g CyhrNEY-PbW-rfbe g-b-Vo Ya-u-KCI Oud-KCI-Vo hVrX-d-f bRtF-reN-PFSN CyhrNEY-qeRs-TQPo reN-qeRs-BxO Vo-eOB-rfbe qeRs-b-TQPo CyhrNEY-PFSN-hVrX TU-TQPo-jiy Vo-PFSN-Ya g-u-d hVrX-Ya-PFSN uVeO-jiy-b reN-CyhrNEY-rKH Vo-TQPo-reN Ye-YnR-Oud W-TQPo-f f-eOB-rfbe eOB-e-KCI b-u-e Ye-fCD-reN rKH-rfbe-rKH-u f-b-f PFSN-fCD-qeRs-bRtF BxO-rfbe-uVeO bRtF-rKH-reN-g f-Ya-bRtF BxO-uVeO-Vo Vo-Ye-reN hN-u-TQPo Vo-CyhrNEY-bRtF W-e-TU jiy-CyhrNEY-u Vo-TQPo-TQPo hN-d-KCI rfbe-e-BxO u-fCD-PFSN PFSN-rfbe-b bRtF-bRtF-bRtF fCD-PbW-jiy YnR-fCD-Vo b-hN-g W-BxO-TU TU-f-Vo qeRs-YnR-PFSN reN-fCD-jiy fCD-Ya-bRtF reN-hVrX-Ya W-Vo-g g-uVeO-PbW f-Ye-f jiy-PbW-PbW jiy-jiy-BxO Vo-BxO-uVeO-Ya YnR-KCI-u g-hN-b TQPo-Ye-f-BxO hN-TU-f TU-rfbe-hN W-PFSN-Oud-reN eOB-bRtF-jiy Ye-reN-g 
+CyhrNEY-bRtF-Oud Oud-hN-f qeRs-fCD-rKH eOB-PbW-bRtF PFSN-YnR-W Ye-PFSN-rfbe fCD-rKH-hN CyhrNEY-hVrX-PbW bRtF-Vo-Ye b-KCI-bRtF u-CyhrNEY-KCI BxO-BxO-Ye d-Vo-qeRs g-g-hN BxO-hVrX-TU Vo-BxO-BxO KCI-uVeO-bRtF hVrX-KCI-jiy TU-BxO-Ye g-TU-TQPo-Oud f-Ya-f-YnR TU-e-TU reN-rKH-YnR reN-KCI-uVeO b-PFSN-eOB PFSN-CyhrNEY-qeRs Vo-rfbe-PFSN e-PFSN-f TU-u-Ya-BxO BxO-Ya-e eOB-CyhrNEY-e e-PFSN-rKH BxO-TU-f uVeO-fCD-eOB W-TQPo-uVeO e-TU-b Vo-Oud-e bRtF-fCD-Ya reN-Ya-reN PFSN-KCI-bRtF u-rKH-u PbW-Ya-YnR Vo-hVrX-eOB Ya-CyhrNEY-hVrX-Ye bRtF-e-Oud Oud-TU-hVrX d-W-eOB reN-uVeO-BxO qeRs-bRtF-Ye b-rKH-W BxO-g-rfbe b-reN-YnR u-BxO-eOB Ya-uVeO-f rfbe-uVeO-qeRs fCD-reN-YnR rKH-Vo-Oud e-W-u Vo-W-d PbW-eOB-rKH BxO-TQPo-KCI rKH-CyhrNEY-e f-g-KCI f-TQPo-rKH-rfbe g-jiy-PbW KCI-PFSN-hN TU-TQPo-PbW fCD-hVrX-g hVrX-Ye-PbW e-KCI-g Vo-b-b-f W-PbW-uVeO YnR-uVeO-qeRs d-Ye-bRtF TQPo-bRtF-W Oud-bRtF-Oud-KCI PbW-f-CyhrNEY YnR-b-eOB rKH-b-Oud TQPo-qeRs-f PFSN-u-bRtF hN-qeRs-uVeO u-PFSN-e-rfbe Ya-g-u Vo-reN-KCI eOB-b-hN KCI-eOB-PFSN bRtF-Ye-BxO YnR-CyhrNEY-hVrX b-u-TU rfbe-BxO-hN Ye-W-Vo CyhrNEY-CyhrNEY-b W-jiy-uVeO-uVeO TU-W-Ya e-u-e Ya-uVeO-reN BxO-b-BxO Oud-hVrX-g jiy-YnR-BxO 
+d-KCI-Ye rKH-g-e f-qeRs-g-TU BxO-jiy-d fCD-u-qeRs Vo-bRtF-hVrX-rfbe PFSN-Ye-fCD hVrX-d-PFSN Oud-Ye-g KCI-W-hVrX reN-W-d u-f-BxO-Oud reN-uVeO-TQPo PFSN-TQPo-uVeO bRtF-qeRs-bRtF uVeO-rfbe-d eOB-rfbe-KCI f-rfbe-rKH b-eOB-hN CyhrNEY-Oud-uVeO reN-Oud-g Ya-Vo-Vo PFSN-KCI-Ye-Ya rKH-rKH-jiy Ye-b-hN b-g-TU rKH-W-W-hVrX eOB-rfbe-TQPo Ye-YnR-CyhrNEY CyhrNEY-d-Vo PbW-jiy-Ye e-TU-Oud g-fCD-uVeO-qeRs Ye-hN-Vo fCD-rfbe-TU hN-W-TU BxO-b-rKH W-qeRs-TQPo jiy-bRtF-W BxO-rfbe-f hVrX-fCD-fCD eOB-BxO-PFSN Vo-PbW-u PFSN-uVeO-qeRs CyhrNEY-TU-uVeO-Vo CyhrNEY-rKH-Vo d-g-KCI-d hVrX-b-u qeRs-rfbe-TQPo rKH-rfbe-fCD Ya-b-CyhrNEY reN-qeRs-rfbe W-PFSN-TQPo u-Vo-BxO uVeO-uVeO-qeRs hVrX-jiy-qeRs hN-Vo-reN YnR-u-TQPo Vo-PFSN-rKH e-hN-f e-Oud-YnR fCD-CyhrNEY-TU d-b-fCD e-YnR-uVeO e-qeRs-e hN-d-Vo Ya-TU-g CyhrNEY-b-TU-bRtF e-jiy-hN CyhrNEY-qeRs-uVeO Oud-KCI-f hN-PbW-Ye fCD-reN-hVrX Vo-e-PFSN f-eOB-eOB-PbW Ya-YnR-jiy b-fCD-Vo PbW-u-Oud-uVeO jiy-reN-rfbe Ya-f-BxO BxO-f-TU u-Vo-Ye bRtF-W-reN CyhrNEY-hN-hVrX-BxO CyhrNEY-eOB-eOB hN-jiy-reN qeRs-fCD-Ya qeRs-b-TQPo-e KCI-W-hN-bRtF b-KCI-Ye uVeO-PFSN-BxO CyhrNEY-YnR-Ye-jiy bRtF-u-Oud W-jiy-reN hVrX-uVeO-YnR g-hN-e e-d-hN TU-PbW-hN KCI-rKH-fCD reN-YnR-bRtF-TU 
+Oud-eOB-reN b-eOB-PFSN qeRs-fCD-rKH-u TU-Vo-PbW-u hN-fCD-uVeO hN-f-CyhrNEY-Ye Vo-YnR-bRtF-BxO KCI-TQPo-Ye e-Ye-W-rKH TU-Ye-f uVeO-TU-u e-hN-reN hVrX-d-u PbW-hVrX-PFSN hVrX-rfbe-uVeO hN-g-reN g-u-b u-jiy-CyhrNEY rKH-jiy-d g-u-KCI BxO-e-Vo fCD-TQPo-hVrX b-f-fCD YnR-b-jiy-Ya PbW-g-KCI PbW-BxO-BxO Oud-YnR-rfbe KCI-CyhrNEY-CyhrNEY b-Ya-rfbe-d CyhrNEY-e-g u-TQPo-d g-u-f Ya-KCI-Oud uVeO-Ya-KCI W-hVrX-fCD-d rfbe-e-d d-e-bRtF YnR-Oud-reN reN-TQPo-b qeRs-g-fCD W-PbW-rfbe TQPo-TU-f PFSN-bRtF-hN rKH-PbW-BxO-eOB TQPo-PFSN-g-Oud rKH-fCD-BxO Ya-TQPo-rKH BxO-jiy-g KCI-qeRs-PFSN rKH-b-TU PbW-fCD-TU W-TU-KCI hVrX-hN-rfbe d-BxO-eOB bRtF-bRtF-uVeO u-reN-d e-qeRs-TU g-b-BxO CyhrNEY-W-uVeO KCI-PbW-hN rKH-eOB-hN eOB-b-jiy rfbe-Oud-hN-Vo Ye-uVeO-Oud hVrX-Ya-d W-PFSN-f bRtF-jiy KCI-qeRs-rKH PFSN-TQPo-Ya-rKH fCD-YnR-e TQPo-rKH-YnR CyhrNEY-b-TQPo hN-e-PbW-b rKH-BxO-Ya hN-hVrX-CyhrNEY bRtF-TU-TQPo BxO-uVeO-b KCI-b-g jiy-PbW-eOB PbW-reN-Vo rfbe-KCI-rKH TQPo-g-f W-CyhrNEY-uVeO YnR-fCD-qeRs e-rKH-b b-CyhrNEY-e KCI-Ye-TU b-YnR-BxO KCI-g-Vo W-hVrX-hVrX bRtF-bRtF-hVrX uVeO-u-PbW W-uVeO-e eOB-u-d Oud-Vo-qeRs rKH-Vo-qeRs-YnR e-rKH-W jiy-b-uVeO fCD-YnR-rKH b-PFSN-YnR 
+BxO-jiy-qeRs-bRtF YnR-TU-BxO rfbe-TQPo-hN-Vo BxO-TQPo-eOB b-u-b hN-fCD-TQPo qeRs-g-g reN-reN-BxO TQPo-BxO-f fCD-Vo-u e-hVrX-u KCI-Ye-g jiy-PFSN-Vo d-hVrX-rKH hVrX-W-reN Ya-reN-TU Ye-CyhrNEY-rKH bRtF-W-fCD eOB-jiy-TQPo YnR-Oud-BxO TQPo-eOB-W b-hVrX-d YnR-TU-CyhrNEY rfbe-b-hVrX bRtF-Ye-hVrX-d Ya-KCI-Vo f-Vo-TQPo d-u-Oud d-CyhrNEY-f Ya-hN-Ye Ya-W-Ye uVeO-Ye-YnR TQPo-PbW-e e-YnR-PbW f-PFSN-Vo BxO-TU-PFSN f-reN-b CyhrNEY-YnR-reN BxO-f-PbW u-uVeO-rKH u-bRtF-W TU-eOB-CyhrNEY fCD-rKH-PbW fCD-TU-W TU-reN-eOB-hVrX hN-reN-KCI hN-b-Ya f-qeRs-hVrX-b hN-eOB-uVeO W-g-d rfbe-d-KCI rKH-uVeO-Ya CyhrNEY-reN-hN f-CyhrNEY-hN YnR-d-b f-uVeO-e hVrX-hVrX-W bRtF-g-qeRs Oud-CyhrNEY-uVeO rKH-TQPo-rfbe qeRs-uVeO-e b-TU-b W-b-hN e-Ye-Oud BxO-eOB-KCI-fCD Oud-uVeO-BxO g-rfbe-PFSN eOB-fCD-Vo uVeO-f-PFSN TQPo-reN-YnR qeRs-qeRs-Ye PbW-Ye-Ya Vo-PbW-BxO bRtF-u-rKH hN-eOB-e jiy-bRtF-f W-u-PFSN rKH-YnR-PFSN qeRs-Oud-fCD e-fCD-CyhrNEY rfbe-PbW-fCD CyhrNEY-qeRs-Ye Oud-f-g KCI-KCI-Oud PFSN-PbW-PbW f-TQPo-rfbe rKH-PbW-rfbe rKH-TU-f YnR-u-Oud-Ye Oud-d-d rKH-YnR-CyhrNEY u-uVeO-uVeO bRtF-jiy-TQPo f-Oud-u KCI-W-rfbe-rKH g-b-KCI hVrX-eOB-d Ye-g-Vo CyhrNEY-KCI-u rKH-hN-KCI 
+Ye-rKH-W fCD-f-eOB u-rfbe-YnR Vo-e-YnR hN-g-Ye g-rKH-qeRs YnR-eOB-hVrX Vo-u-TU CyhrNEY-b-W eOB-reN-u W-rKH-u PbW-qeRs-YnR d-eOB-TQPo d-qeRs-g Oud-PbW-W qeRs-jiy-BxO BxO-W-hVrX Ya-TQPo-bRtF-rKH PFSN-rfbe-Ye W-eOB-e Vo-d-Ya Ya-d-Ya rKH-u-PbW rKH-d-CyhrNEY hN-bRtF-e PbW-uVeO-YnR-bRtF u-W-PbW qeRs-BxO-f YnR-Oud-CyhrNEY fCD-qeRs-Ye g-fCD-Ya g-rKH-reN hN-reN-b rKH-uVeO-KCI Ye-Vo-KCI reN-BxO-qeRs b-rKH-d Vo-reN-W YnR-Oud-f BxO-qeRs-Vo hN-Ya-Oud-u Ya-jiy-uVeO CyhrNEY-hN-u bRtF-f-g YnR-bRtF-bRtF hN-YnR-eOB f-Oud-rKH-TQPo hVrX-YnR-TQPo bRtF-rKH-KCI TQPo-hVrX-g TQPo-uVeO-CyhrNEY rfbe-reN-CyhrNEY rfbe-u-eOB eOB-Ye-Oud BxO-hN-bRtF TU-uVeO-rKH PbW-Vo-b KCI-PbW-eOB PFSN-TQPo-rKH-TU PFSN-g-TU uVeO-BxO-b rKH-Ya-uVeO hVrX-TQPo-bRtF KCI-reN-b e-u-uVeO hVrX-d-Vo rKH-fCD-fCD hVrX-d-Oud b-jiy-f rfbe-qeRs-KCI-Ye reN-TQPo-CyhrNEY rKH-Oud-eOB eOB-Oud-hVrX KCI-YnR-KCI fCD-Oud-BxO TQPo-reN-u PbW-CyhrNEY-u f-hVrX-uVeO qeRs-KCI-u g-Ye-Ye CyhrNEY-eOB-uVeO g-PFSN-d Oud-YnR-PbW-rfbe TU-d-Vo Ya-bRtF-Ya reN-PFSN-b reN-uVeO-eOB rfbe-Ya-CyhrNEY u-PbW-Vo e-Ye-reN TQPo-KCI-eOB Ya-uVeO-e-e Oud-KCI-e PFSN-Vo-Vo b-uVeO-YnR qeRs-d-CyhrNEY Oud-reN-Oud eOB-rKH-BxO e-rfbe-jiy Vo-PFSN-b 
+PbW-Vo-PbW Oud-jiy-YnR PFSN-KCI-YnR PbW-W-PFSN PbW-uVeO-Ye rKH-CyhrNEY-Ye rKH-Oud-Oud YnR-d-BxO-e Ya-b-f TU-TQPo-PbW-KCI KCI-reN-b-BxO Oud-reN-PbW BxO-qeRs-Oud u-g-KCI Oud-f-qeRs-YnR d-hVrX-qeRs e-rfbe-reN fCD-Oud-d CyhrNEY-reN-Ye TU-qeRs-hVrX BxO-KCI hN-hVrX-reN-Ye Ya-YnR-YnR rKH-rfbe-BxO Ya-f-PbW eOB-f-rKH uVeO-b-PbW Oud-Vo-d BxO-bRtF-rfbe d-Ye-hVrX YnR-hVrX-rfbe f-g-PFSN-PbW g-bRtF-KCI e-bRtF-jiy d-PFSN-u KCI-reN-PFSN BxO-u-e hVrX-Ya-Vo rfbe-e-PFSN hVrX-bRtF-BxO hVrX-b-Ya-TQPo eOB-Oud-f u-PbW-f hVrX-f-hVrX Ye-b-PFSN jiy-d-uVeO e-PbW-PbW rfbe-PFSN-eOB BxO-TQPo-Oud W-fCD-eOB hVrX-PFSN-b fCD-e-reN uVeO-CyhrNEY-bRtF b-BxO-CyhrNEY PFSN-BxO-Vo-PFSN jiy-hVrX-Ye eOB-b-hN-b KCI-Vo-hN-TQPo qeRs-PbW-u Ye-KCI-YnR KCI-BxO-f W-b-Vo Ye-b-rKH hN-YnR-d TU-rfbe-PFSN Ye-f-Vo TQPo-rKH-rfbe rKH-uVeO-PbW TU-d-TU fCD-fCD-f W-e-PbW u-d-PFSN Ye-Oud-uVeO PbW-PFSN-rKH fCD-BxO-YnR rfbe-e-rfbe TQPo-hN-d eOB-TQPo-fCD KCI-fCD-reN qeRs-rfbe-W uVeO-KCI-rKH jiy-Vo-PbW TU-Ye-YnR-PFSN BxO-Ye-TU hVrX-TU-uVeO Vo-uVeO-fCD YnR-TQPo-YnR CyhrNEY-Vo-fCD fCD-Ye-YnR TQPo-reN-Vo KCI-fCD-W W-d-BxO Oud-reN-g Ye-Ya-hN W-hN-rfbe b-d-u e-d-eOB PFSN-hN-BxO eOB-f-fCD Ye-KCI-Vo-W 
+TQPo-BxO-reN d-KCI-YnR CyhrNEY-b-uVeO d-CyhrNEY-e KCI-f-hN hN-bRtF-eOB TQPo-YnR-Ya Oud-g-reN qeRs-Vo-TQPo hVrX-g-g qeRs-rfbe-Ya f-PFSN-hN-d TU-KCI-reN bRtF-W-BxO-PFSN PFSN-hVrX-Oud PFSN-Ya-hVrX reN-u-PbW PbW-Ya-uVeO fCD-PFSN-Oud-e hVrX-jiy-rfbe-rKH Oud-e-Ye CyhrNEY-f-BxO PFSN-TU-bRtF g-bRtF-TU Oud-hN-YnR TU-d-TQPo KCI-hVrX-qeRs bRtF-u-qeRs PFSN-hVrX-reN d-W-uVeO Ya-f-PFSN Ya-W-fCD PbW-e-rKH-Ya hVrX-Oud-jiy TQPo-KCI-W-eOB uVeO-rfbe-jiy bRtF-b-Vo eOB-e-TU qeRs-KCI-b hN-uVeO-b YnR-qeRs-uVeO Oud-PFSN-u Ye-W-CyhrNEY TQPo-Ye-CyhrNEY PFSN-YnR-f qeRs-f-jiy rfbe-PbW-Vo-uVeO hN-b-Oud eOB-YnR-Ye f-jiy-reN-b Oud-W-BxO Vo-Oud-reN-rfbe YnR-Ya-BxO g-reN-e reN-CyhrNEY-CyhrNEY bRtF-PFSN-b u-Ye-Oud uVeO-CyhrNEY-Ye u-BxO-eOB-TU PFSN-TQPo-fCD hN-hVrX-hVrX jiy-YnR-YnR YnR-e-hVrX-d hN-Ye-TU qeRs-Ye-Ya-PFSN Vo-e-f e-f-e PFSN-jiy-CyhrNEY BxO-TQPo-u hVrX-jiy-Ya rKH-u-hN fCD-f-fCD-reN Ya-rfbe-Ye BxO-YnR-PbW f-b-qeRs CyhrNEY-TU-CyhrNEY hVrX-fCD-Ya e-e-g hVrX-PFSN-Vo YnR-hVrX-KCI BxO-KCI-uVeO e-Vo-Ye KCI-BxO-e CyhrNEY-Vo-jiy-Ya f-b-b YnR-TU-hN KCI-reN-W W-PbW-jiy hN-Ya-e g-fCD-eOB e-CyhrNEY-qeRs BxO-Ye-W reN-e-d TU-TU-Ye rfbe-d-Ye Vo-uVeO-Oud-W Ye-e-d Ya-jiy-jiy-d jiy-eOB-bRtF W-Vo-hVrX 
+fCD-f-rKH g-PbW-BxO e-d-f fCD-PFSN-fCD Oud-TU-TU BxO-qeRs-W YnR-eOB-Ye PbW-rfbe-bRtF d-YnR-W YnR-uVeO-Vo PbW-Vo-hVrX Vo-b-W eOB-bRtF-YnR Vo-CyhrNEY-u W-fCD-d PbW-BxO-rKH PbW-Oud-bRtF u-g-reN eOB-Ye-jiy f-TU-hVrX jiy-CyhrNEY-TQPo YnR-rfbe-u PFSN-b-hN Oud-b-reN g-b-PFSN eOB-uVeO-CyhrNEY eOB-PFSN-YnR Vo-g-eOB hN-u-rKH rKH-YnR-g uVeO-PbW-TU-TQPo d-PFSN-qeRs hN-PbW-u PbW-PbW-CyhrNEY fCD-uVeO-TQPo hN-Oud-YnR PFSN-rKH-g KCI-TU-bRtF qeRs-rfbe-fCD hN-eOB-YnR Ya-reN-f b-TQPo-Oud Vo-TQPo-PFSN jiy-rKH-f reN-CyhrNEY-e u-u-rfbe Vo-g-TQPo W-Oud-d TU-bRtF-PFSN Ye-YnR-Oud-PFSN PFSN-PFSN-rKH hN-u-PbW-Ya rfbe-e-W hVrX-YnR-W PFSN-uVeO-Oud PbW-KCI-rKH eOB-PbW-W W-hVrX-TU TU-fCD-qeRs Ye-jiy-BxO g-rfbe-bRtF TU-Ya-jiy W-qeRs-Vo qeRs-BxO-TU Ye-PbW-g fCD-PbW-fCD f-CyhrNEY-qeRs bRtF-g-CyhrNEY jiy-Oud-Vo PbW-reN-Oud eOB-TU-eOB-TQPo e-qeRs-Vo BxO-Ye-PFSN-uVeO PFSN-fCD-jiy PbW-rfbe-TU Ye-KCI-uVeO Ye-TU-W e-hN-PbW Oud-hN-TQPo Vo-KCI-u jiy-d-TQPo f-eOB-Ya TQPo-reN-d d-d-Ya Ye-fCD-Vo CyhrNEY-f-fCD bRtF-BxO-jiy PbW-qeRs-CyhrNEY Oud-rfbe-u bRtF-Oud-jiy bRtF-TU-hN KCI-W-Ye reN-d-u jiy-TQPo-jiy bRtF-YnR-CyhrNEY f-Ya-reN Ye-e-g eOB-hN-KCI jiy-hN-Oud KCI-Vo-e-hN 
+Vo-TU-b CyhrNEY-eOB-u fCD-CyhrNEY-BxO reN-fCD-rKH BxO-rKH-BxO-KCI jiy-PFSN-reN Ya-TU-fCD CyhrNEY-CyhrNEY-d b-Oud-reN reN-d-W W-d-eOB jiy-bRtF-e uVeO-f-g PbW-Vo-Ye b-u-b-hN fCD-Oud-Oud PFSN-KCI-CyhrNEY Ye-PbW-qeRs PbW-BxO-Ya rKH-bRtF-bRtF reN-qeRs-qeRs eOB-CyhrNEY-CyhrNEY f-TQPo-Vo b-TU-hN fCD-hVrX-PbW TU-Oud-jiy rfbe-W-TU-TU PbW-b-fCD Ye-f-Vo-PbW e-rfbe-TQPo PbW-b-eOB KCI-TU-Vo f-jiy-KCI-hVrX b-d-fCD TQPo-b-reN W-eOB-Ye Ye-reN-reN TU-Oud-rfbe f-Oud-uVeO eOB-Oud-fCD TU-hN-Oud rKH-Ya-rfbe jiy-BxO-KCI Oud-e-KCI Vo-d-BxO bRtF-CyhrNEY-fCD e-TQPo-PFSN-Ya TU-g-u-qeRs hVrX-d-bRtF d-reN-hN YnR-BxO-KCI BxO-Oud-rfbe eOB-b-uVeO eOB-qeRs-d PbW-rfbe-hVrX-hN W-W-uVeO fCD-rfbe-hVrX hVrX-jiy-d PbW-Ye-PbW CyhrNEY-PbW-TQPo W-Ya-TU YnR-Ye-Oud BxO-Ya-g rfbe-reN-Oud CyhrNEY-eOB-b rKH-b-TU-uVeO uVeO-reN-W TQPo-rfbe-Ya g-u-KCI-g PFSN-BxO-f jiy-g-eOB g-CyhrNEY-hN PbW-KCI-W Ya-TU-PbW-d bRtF-rfbe hN-bRtF-b fCD-CyhrNEY-Ye rfbe-hN-BxO TU-reN-hVrX bRtF-Ya-d u-g-rfbe u-TU-W BxO-Ye-d W-eOB-u TQPo-fCD-Ye-fCD reN-Ye-rfbe-g u-Oud-e eOB-Oud-hVrX-PFSN eOB-hN-reN u-KCI-eOB-u hN-KCI-uVeO hVrX-TU-BxO hN-hVrX-W eOB-f-eOB f-reN-Oud-e PFSN-eOB-hVrX reN-u-bRtF-BxO hVrX-bRtF-Vo rfbe-b-Oud fCD-PbW-bRtF 
+Ye-hN-Vo-qeRs hN-Ya-Vo W-PFSN-BxO hVrX-Oud-PbW e-fCD-Vo-hVrX Ya-reN-Ye bRtF-reN-BxO CyhrNEY-KCI-KCI YnR-hVrX-jiy jiy-jiy-eOB-f W-uVeO-fCD eOB-rfbe-rKH rKH-Ye-b reN-hVrX-Ye rfbe-Vo-b qeRs-TU-bRtF-reN rKH-Ye-BxO PbW-hN-reN f-YnR-uVeO KCI-e-TQPo W-rfbe-YnR e-f-PFSN reN-eOB-W Oud-BxO-g BxO-e-uVeO hN-g-Ye-f bRtF-PFSN-TQPo KCI-Oud-W Oud-uVeO-u W-TQPo-fCD-fCD Ye-qeRs-CyhrNEY f-d-rKH-CyhrNEY fCD-rfbe-hN KCI-Ya-Ye fCD-PbW-f eOB-fCD-PbW-f CyhrNEY-d-W-f qeRs-TU-rfbe Ye-u-f e-f-rfbe g-TQPo-hN Oud-Vo-PFSN d-u-d-u KCI-CyhrNEY-CyhrNEY-qeRs eOB-hN-Vo Vo-eOB-hVrX qeRs-TQPo-Oud eOB-PbW-PbW PbW-reN-uVeO TU-W-f b-bRtF-jiy-b Ya-Vo-Vo-hVrX BxO-e-TQPo u-b-b TQPo-g-hVrX-jiy eOB-Oud-Oud hN-KCI-Vo e-bRtF-g Oud-CyhrNEY-hVrX PbW-eOB-KCI CyhrNEY-PFSN-qeRs reN-rKH-uVeO PFSN-PFSN-Oud fCD-uVeO-BxO Ya-rKH-rKH g-TQPo-f PbW-PbW-e Ye-W-e qeRs-Ye-rfbe bRtF-d-rfbe g-bRtF-qeRs W-f-b eOB-KCI-YnR b-eOB-Oud BxO-u-uVeO Ye-Vo-PFSN d-eOB-hN qeRs-PFSN-BxO Vo-uVeO-Oud-uVeO W-hVrX-Ya-TQPo b-qeRs-e hN-hN-rKH-bRtF g-jiy-b uVeO-bRtF-PFSN CyhrNEY-Ye-PbW f-hN-PFSN Ye-PbW-TU YnR-u-bRtF qeRs-rKH-reN reN-Ye-d Ya-PbW-g Vo-hN-d bRtF-Oud-e-Ya f-qeRs-jiy g-TQPo-BxO reN-Ya-hN Vo-reN-u bRtF-fCD-qeRs jiy-KCI-CyhrNEY YnR-BxO-TQPo 
+qeRs-qeRs-TQPo Ye-d-qeRs Vo-Oud-BxO W-b-hVrX W-d-g TU-hN-YnR KCI-rfbe-fCD hN-PFSN-hVrX g-KCI-u fCD-b-jiy hN-f-uVeO TU-PbW-BxO u-W-hVrX hN-eOB-uVeO-hN Ya-rfbe-BxO u-Vo-Vo bRtF-Ye-reN rfbe-jiy-eOB Vo-qeRs-PbW jiy-Oud-rKH qeRs-Vo-W-reN CyhrNEY-hN-rfbe TU-e-Ye Vo-Ya-rfbe u-hN-PFSN bRtF-CyhrNEY-g jiy-eOB-hN-fCD qeRs-fCD-bRtF PbW-eOB-Ye hN-uVeO-uVeO bRtF-eOB-jiy BxO-Ye-e hVrX-qeRs-b uVeO-TU-hVrX PFSN-fCD-PFSN TQPo-Ya-Vo-u TU-CyhrNEY-TU PbW-Ye-qeRs CyhrNEY-TQPo-qeRs rKH-hVrX-reN TU-TU-TU rfbe-u-jiy g-YnR-b Oud-u-e Ye-PbW-PFSN fCD-PFSN-bRtF e-hN-TU fCD-g-YnR rKH-f-fCD d-hVrX-Ye-f u-jiy-CyhrNEY-BxO reN-f-PbW uVeO-uVeO-reN-PbW rfbe-TQPo-YnR fCD-Vo-YnR-fCD bRtF-TQPo-reN KCI-e-Oud uVeO-KCI-W uVeO-fCD-rfbe TU-Ya-g YnR-BxO-PbW hVrX-PbW-Vo qeRs-CyhrNEY-KCI BxO-fCD-eOB eOB-Vo-PFSN Vo-Oud-bRtF reN-Oud-TQPo-e TQPo-b-u u-W-bRtF rfbe-qeRs-TQPo YnR-hN-Oud g-YnR-rfbe b-e-hN uVeO-KCI-W-KCI hVrX-e-YnR g-rfbe-BxO jiy-e-rfbe uVeO-Vo-eOB bRtF-rKH-PFSN u-Ya-reN g-TU-rKH-bRtF TQPo-fCD-bRtF-Ye f-Vo-b hN-CyhrNEY-CyhrNEY W-b-bRtF hN-rKH-YnR u-W-YnR YnR-KCI-Ya KCI-bRtF-bRtF uVeO-KCI-qeRs uVeO-CyhrNEY-Vo rfbe-fCD-YnR Ye-W-PbW TU-TU-KCI YnR-Oud-reN-u e-g-f KCI-YnR-e f-Ye-rfbe-W uVeO-f-f BxO-e-YnR 
+hVrX-rKH-Ya BxO-uVeO-TU rKH-Ya-rfbe-YnR e-reN-rfbe Ye-PFSN-reN e-bRtF-b CyhrNEY-Ye-PFSN Oud-PFSN-eOB f-BxO-eOB CyhrNEY-W-Ya d-fCD-rfbe bRtF-bRtF-reN reN-PbW-hN PbW-PFSN-d BxO-PFSN-uVeO BxO-PFSN-W CyhrNEY-reN-rfbe eOB-YnR-b hVrX-TQPo-Ya CyhrNEY-Vo-TU d-b-BxO hVrX-bRtF-Ya BxO-e-TQPo-BxO b-d-W Ya-Vo-KCI YnR-BxO-rfbe BxO-f-e PFSN-d-rKH TU-jiy-qeRs Ye-reN-fCD Vo-Ye-d f-d-hN g-Ya-rfbe BxO-hVrX-f CyhrNEY-rfbe-reN-e u-e-Ya-e Ya-e-Ye rKH-Ya-KCI qeRs-reN-TU Vo-d-Ya-g g-e-Ye u-BxO-jiy Ye-PbW-rKH PFSN-BxO-g-uVeO eOB-Ye-W qeRs-TQPo-uVeO TQPo-PbW-KCI rKH-BxO-CyhrNEY TU-jiy-reN KCI-TQPo-TU KCI-KCI-hVrX W-bRtF-b-KCI hVrX-eOB-bRtF-bRtF W-e-rfbe b-Oud-Ya d-KCI-g TQPo-TQPo-PFSN rKH-YnR-hN rfbe-Ye-Ya PFSN-eOB-jiy Oud-f-d YnR-qeRs-e e-qeRs-BxO PbW-Oud-Ye KCI-d-qeRs Oud-PFSN-W reN-g-BxO-YnR Oud-eOB-KCI-YnR hN-CyhrNEY-g hN-qeRs-eOB d-BxO-g uVeO-YnR-reN rfbe-reN-Ya PFSN-e-hVrX uVeO-reN-e g-YnR-hN Ye-rKH-Vo TQPo-jiy-BxO Ye-TU-rfbe jiy-TU-YnR Vo-qeRs-Oud g-Oud-b Ya-e-f Ye-TU-BxO Vo-BxO-PbW W-rfbe-jiy PbW-f-reN TU-W-hVrX Vo-uVeO-W e-f-Oud b-g-Oud uVeO-u-hVrX bRtF-TU-rKH YnR-Vo-PbW g-BxO-PFSN Ye-bRtF-Oud KCI-f-reN g-d-bRtF f-e-PbW TQPo-Ya-b 
+hN-reN-Vo Ye-fCD-KCI rfbe-TU-e reN-uVeO-Ye rKH-hVrX-YnR e-qeRs-W u-BxO-hN g-reN-PFSN f-Ye-TU rKH-Vo-d Vo-reN-bRtF hN-hN-eOB rfbe-W-g hN-f-rKH CyhrNEY-Oud-YnR b-PbW-u TQPo-reN-hVrX e-hN-Ya W-f-BxO-Vo W-PbW-qeRs uVeO-u-rKH CyhrNEY-CyhrNEY-g CyhrNEY-e-e TQPo-eOB-Oud g-PFSN-eOB Oud-rKH-Ye-CyhrNEY reN-Ye-Oud eOB-u-rKH g-Oud-Ye e-eOB-rKH PFSN-bRtF-reN YnR-Ye-KCI e-Vo-Ye-rKH d-Oud-qeRs Ye-eOB-f Ya-hVrX-Vo TQPo-f-fCD hVrX-d-PbW Ye-Ye-KCI W-b-e PFSN-Oud-rfbe eOB-rKH-KCI Ye-uVeO-Ye qeRs-TU-e jiy-YnR-BxO-bRtF eOB-PbW-e u-b-Ya-hN bRtF-g-Ye g-e-PFSN hN-u-Ya-hVrX qeRs-PbW-PFSN d-reN-KCI PbW-bRtF-d BxO-eOB-Ya e-jiy-qeRs PbW-g-u W-jiy-Oud reN-rKH-PbW e-W-u-Vo bRtF-uVeO-jiy bRtF-bRtF-fCD Vo-g-BxO PbW-reN-bRtF jiy-Oud-W f-bRtF-YnR BxO-g-u jiy-fCD-hVrX KCI-Vo-jiy jiy-CyhrNEY-CyhrNEY TQPo-KCI-jiy-Ye PFSN-TQPo-rfbe qeRs-Ye-hVrX qeRs-Vo-d rKH-PFSN-Vo PFSN-BxO-qeRs jiy-KCI-b TQPo-g-CyhrNEY f-qeRs-W e-fCD-YnR-hN jiy-CyhrNEY-g W-BxO-fCD Oud-BxO-bRtF uVeO-KCI-g-reN eOB-d-reN hVrX-e-Vo Oud-Ye-fCD TU-b-eOB CyhrNEY-hVrX-TU eOB-BxO-uVeO KCI-bRtF-Ye d-rKH-KCI Oud-Vo-g rfbe-KCI-TU uVeO-TU-YnR qeRs-f-qeRs bRtF-eOB-PFSN hN-PFSN-rfbe rfbe-KCI-YnR hVrX-eOB-PFSN bRtF-b-bRtF 
+PFSN-BxO-PbW CyhrNEY-f-CyhrNEY rfbe-bRtF-Ya-bRtF fCD-fCD-hVrX fCD-qeRs-hVrX rKH-qeRs-e qeRs-CyhrNEY-e rfbe-rKH-f Ye-g-YnR W-reN-g e-f-Ya e-TU-g Ya-PFSN-Ya u-qeRs-rKH eOB-e-CyhrNEY eOB-rKH-rfbe PFSN-KCI-g b-TU-g hVrX-jiy-CyhrNEY PbW-jiy-rfbe hN-u-e b-e-KCI qeRs-g-fCD-g Oud-qeRs-Vo bRtF-rKH-hN hVrX-KCI-CyhrNEY-u d-qeRs-W W-BxO-YnR TQPo-u-qeRs TQPo-Oud-qeRs W-rKH-e bRtF-qeRs-TU BxO-TU-bRtF KCI-CyhrNEY-fCD YnR-reN-e-f PbW-e-W-TU TU-TQPo-reN reN-b-W b-b-eOB rKH-u-CyhrNEY b-rfbe-PbW-e KCI-f-YnR-u KCI-KCI-jiy jiy-Ya-CyhrNEY-hN Vo-PbW-Ya uVeO-e-TU jiy-hVrX-f-W b-e-PbW-d PbW-eOB-TU jiy-PFSN-TQPo KCI-uVeO-PFSN eOB-hN-CyhrNEY PbW-g-g Vo-rKH-fCD f-YnR-uVeO-Ya d-fCD-d KCI-hVrX-eOB hN-W-BxO u-g-uVeO W-TQPo-bRtF BxO-TQPo-d YnR-PFSN-eOB KCI-bRtF-YnR eOB-CyhrNEY-g-Oud Vo-rKH-uVeO fCD-W-g Ya-e-d d-d-Ya-bRtF Oud-eOB-hVrX rfbe-rfbe-Ye Vo-g-rKH b-qeRs-PFSN uVeO-qeRs-Oud reN-qeRs-Ya-W W-KCI-rKH TQPo-PbW-hVrX TQPo-YnR-f-KCI KCI-hVrX-PFSN hVrX-Ya-fCD TQPo-rfbe-KCI e-e-TQPo PbW-g-g-fCD hVrX-bRtF-u uVeO-b-Oud g-uVeO-TU e-rKH-g Vo-CyhrNEY-f-d Ye-YnR-e-bRtF fCD-uVeO-rfbe TU-hVrX-b f-reN-jiy f-TQPo-KCI reN-YnR-PFSN-Vo f-YnR-BxO YnR-g-u reN-YnR-reN reN-TU-Ya uVeO-bRtF-bRtF-hVrX BxO-eOB-BxO hN-hVrX-YnR 
+KCI-BxO-reN KCI-d-rKH rfbe-g-qeRs PbW-CyhrNEY-YnR g-PbW-reN b-CyhrNEY-rKH-b d-rfbe-rKH qeRs-TU-PbW PFSN-W-d b-uVeO-YnR-KCI KCI-uVeO-rfbe BxO-BxO-reN e-jiy-qeRs-d W-eOB-b CyhrNEY-b-PbW rKH-PbW-TU Ya-jiy-Vo KCI-hVrX-hN YnR-TQPo-PbW reN-reN-YnR e-hVrX-TU rfbe-f-Vo-reN b-reN-qeRs hVrX-Oud-YnR reN-TQPo-d TU-PbW-hVrX CyhrNEY-Ya-e hVrX-reN-g u-eOB-qeRs Ye-qeRs-bRtF Ya-jiy-fCD Oud-YnR-qeRs e-eOB-rfbe rfbe-bRtF-rfbe eOB-W-PbW-Oud rKH-Vo-hN-rfbe PFSN-f-Vo hVrX-BxO-PFSN Ye-jiy-g YnR-W-g TQPo-reN-qeRs TU-TQPo-rKH g-Oud-qeRs TU-CyhrNEY-e Ye-TQPo-Ye KCI-bRtF-rKH b-g-Oud-PbW bRtF-f-KCI-TU Oud-Oud-hN eOB-TQPo-d f-CyhrNEY-Ya reN-b-eOB hVrX-BxO-rKH b-b-f b-rKH-eOB bRtF-reN-qeRs TU-PbW-Ye YnR-CyhrNEY-hVrX-jiy KCI-hN-rfbe Ya-b-d-W Oud-Ya-uVeO hVrX-f-eOB-BxO d-Ye-b d-uVeO-rKH jiy-eOB-fCD eOB-TU-f reN-CyhrNEY-hVrX Ye-Vo-BxO-hN bRtF-PFSN-TQPo-CyhrNEY rKH-hN-TQPo hN-Ye-eOB fCD-Oud-Oud-uVeO qeRs-b-Ye fCD-g-Vo YnR-BxO-Ya u-hVrX-W eOB-hVrX-fCD W-jiy-BxO hVrX-fCD-qeRs BxO-uVeO-u qeRs-f-W CyhrNEY-qeRs-BxO BxO-hVrX-TQPo-reN W-TU-eOB b-rKH-reN qeRs-bRtF-rKH d-Oud-YnR bRtF-PbW-reN Ya-qeRs fCD-TQPo-W fCD-KCI-uVeO-eOB f-e-Ya Vo-hN-Ya hVrX-BxO-BxO reN-CyhrNEY-u-fCD e-Ya-rKH f-reN-TQPo-jiy rKH-Oud-W u-YnR-b hN-hN-b 
+TU-TQPo-b fCD-BxO-CyhrNEY qeRs-fCD-g eOB-Oud-u YnR-YnR-W-rKH BxO-d-e b-Ye-TQPo rKH-PbW-d b-Ye-W hN-eOB-Oud hVrX-e-PbW f-qeRs-PFSN f-qeRs-YnR eOB-uVeO-u Vo-uVeO-W-W f-PFSN-YnR reN-TQPo-Ya Oud-g-jiy rfbe-Ya-Vo-eOB uVeO-eOB-Vo jiy-fCD-W d-e-reN CyhrNEY-TU-TU YnR-CyhrNEY-f rKH-d-fCD rfbe-uVeO-d W-W-qeRs-u hVrX-qeRs-eOB TQPo-rfbe-PbW bRtF-Oud-W eOB-BxO-BxO jiy-KCI-W reN-Oud-e eOB-Oud-YnR e-b-YnR d-PbW-b rKH-PFSN-f-W e-fCD-TQPo PFSN-CyhrNEY-rKH Ye-b-Ya-Ya W-fCD-f f-bRtF-b f-BxO-CyhrNEY-qeRs jiy-hVrX-YnR TU-g-Ya u-hVrX-reN bRtF-TU-Oud TQPo-g-hVrX-hN u-qeRs-fCD Oud-KCI-reN hN-reN-qeRs hVrX-CyhrNEY-u-b bRtF-eOB-rKH-PbW PbW-uVeO-fCD jiy-rfbe-qeRs PbW-rfbe-CyhrNEY Oud-rfbe-W e-b-hVrX g-eOB-jiy-d hN-hVrX-BxO Ya-uVeO-f-e fCD-KCI-PFSN W-jiy-d BxO-hN-fCD Ya-f-b b-BxO-Ye qeRs-Ya-TU rfbe-KCI-e W-Oud-g f-f-f-b reN-PbW-rfbe g-YnR-bRtF TU-bRtF-Ye hN-PFSN-YnR-TQPo TU-bRtF-qeRs e-TU-e d-W-Ya rKH-W-TQPo PbW-BxO-CyhrNEY reN-qeRs-TQPo YnR-g-eOB fCD-rfbe-bRtF u-YnR-fCD-Ya e-d-hVrX-PFSN hN-eOB-g uVeO-Ye-f TQPo-reN-fCD hN-hVrX-CyhrNEY-f Ye-e-bRtF PbW-W-KCI uVeO-rfbe-PbW fCD-e-hVrX reN-qeRs-W fCD-g-jiy fCD-Vo-W u-PFSN-fCD Ye-CyhrNEY-KCI PFSN-f-u Ya-TU-hVrX-Oud eOB-eOB-YnR 
+fCD-rfbe-jiy d-YnR-TU jiy-f KCI-eOB-PbW TU-TQPo-uVeO b-BxO-uVeO rKH-CyhrNEY-e-Vo Ye-qeRs-BxO uVeO-W-u b-g-BxO rKH-W-hVrX jiy-u-fCD Oud-jiy-g YnR-TQPo-KCI fCD-BxO-TQPo f-rKH-d b-rKH-hN rKH-PFSN-W-b d-KCI-Oud TQPo-fCD-Ye-e u-b-KCI e-uVeO-Vo-KCI rKH-Ye-d b-u-rfbe fCD-b-qeRs bRtF-Vo-Ye-e BxO-d-fCD BxO-W-CyhrNEY e-uVeO-Ya PFSN-u-hVrX b-Oud-jiy TQPo-PbW-Oud reN-hVrX-Oud qeRs-u-TU hN-Vo-TU bRtF-bRtF-PFSN rKH-jiy-PbW bRtF-uVeO-e rKH-b-W reN-TU-e jiy-Vo-u jiy-W-hN Oud-d-W Ya-eOB-CyhrNEY CyhrNEY-hN-u-hVrX fCD-rKH-KCI d-hN-Ya f-bRtF-Vo-hVrX b-b-Ye bRtF-fCD-BxO u-CyhrNEY-YnR eOB-Vo-CyhrNEY Ya-KCI-Ya PbW-Oud-jiy hN-rKH-hN rKH-KCI-Ye rKH-Ye-W CyhrNEY-rKH-reN rfbe-jiy-KCI eOB-Oud-Vo Ye-Vo-d eOB-YnR-PFSN KCI-Ye-d TQPo-Oud-BxO g-TU-uVeO-Ye eOB-e-uVeO qeRs-TU-PFSN PFSN-d-jiy Ye-KCI-f uVeO-d-rKH qeRs-reN-Oud Ye-b-d rKH-TQPo-d e-hN-Oud YnR-d-W W-TU-PbW PFSN-g-uVeO Ye-Ye-e Vo-uVeO-PFSN qeRs-KCI-hN b-TU-PFSN rfbe-Ye-Vo b-u-reN-YnR KCI-rfbe-bRtF uVeO-KCI-W-rfbe BxO-hVrX-f-qeRs KCI-e-Ya fCD-d-b eOB-PFSN-uVeO PbW-uVeO-b BxO-YnR-d Oud-qeRs-Ye-rKH qeRs-Vo-u Ye-reN-Ya e-rKH-u Ya-Ya-PFSN rKH-CyhrNEY-reN TU-qeRs-rKH CyhrNEY-YnR-u f-u-PbW 
+g-e-fCD jiy-CyhrNEY-W g-b-Oud YnR-PbW-hN jiy-TQPo-e KCI-Ya-qeRs YnR-rKH-rfbe PbW-g-BxO Vo-Oud-Oud bRtF-Ya-d-rfbe b-CyhrNEY-Vo jiy-PbW-d PbW-d-KCI u-CyhrNEY-rfbe W-Ya-hN Ya-CyhrNEY-KCI TU-hVrX-TQPo uVeO-Oud-uVeO bRtF-TU-fCD qeRs-hVrX-g PbW-eOB-hN KCI-bRtF-jiy qeRs-Vo-bRtF rfbe-qeRs-rfbe rfbe-rfbe-fCD uVeO-Ye-rKH-bRtF u-e-uVeO W-u-Ya uVeO-hVrX-PFSN PFSN-eOB-YnR jiy-u-Vo-uVeO-f YnR-KCI-rfbe CyhrNEY-eOB-Vo u-YnR-Ya rKH-Ya-fCD fCD-KCI-reN-u u-PFSN-BxO W-e-fCD-eOB qeRs-rfbe-qeRs-uVeO hN-hN-YnR PbW-TU-bRtF-KCI CyhrNEY-fCD-reN hN-Ye-f KCI-hN-fCD rfbe-Ye-BxO g-hN-reN f-W-reN Ye-TQPo-reN TQPo-Ya-KCI g-bRtF-PFSN e-hN-e PbW-TQPo-reN f-Ya-TQPo PFSN-g-reN PFSN-KCI-rKH BxO-e-hN W-uVeO-bRtF fCD-g-fCD hVrX-reN-YnR jiy-hN-b W-BxO-g Ya-Vo-BxO g-u-Ya uVeO-uVeO-e qeRs-Ya-YnR BxO-Vo-CyhrNEY Oud-TQPo-reN rfbe-rfbe-KCI-TQPo fCD-BxO-hVrX reN-hN-PFSN Ye-hVrX-b-jiy e-hN-bRtF e-rKH-fCD qeRs-e-bRtF BxO-b-BxO-Vo jiy-hVrX-CyhrNEY-Vo BxO-uVeO-Oud TU-jiy-reN-TU KCI-PFSN-hVrX-TU u-uVeO-f fCD-Ya-Vo eOB-qeRs-g Ye-bRtF-PbW W-bRtF-e-KCI b-qeRs-reN Oud-Ya-jiy u-rfbe-d reN-bRtF-eOB qeRs-rKH-u rKH-PFSN-fCD qeRs-KCI-TU rKH-TU-BxO hN-f-W f-TQPo-Oud fCD-f-CyhrNEY rfbe-d-TU Ye-jiy-bRtF jiy-b-jiy Ye-e-g-PFSN BxO-d-eOB 
+TU-eOB-eOB uVeO-reN-qeRs fCD-hVrX-reN PbW-BxO-u-hVrX f-KCI-Ya jiy-PFSN-PbW CyhrNEY-reN-u TQPo-YnR-reN-BxO Ya-hVrX-fCD hVrX-hN-f reN-b-rfbe-g rfbe-YnR-YnR b-reN-uVeO eOB-d-jiy W-bRtF-YnR fCD-Vo-CyhrNEY BxO-b-bRtF u-Vo-g-hVrX CyhrNEY-u-b-PFSN BxO-f-f-PFSN PFSN-TQPo-bRtF Ye-bRtF-f-Ye bRtF-YnR-eOB Ye-hVrX-TU qeRs-W-uVeO BxO-d-rfbe hN-eOB-jiy jiy-rKH-BxO eOB-Vo-f BxO-reN-Vo d-hN-jiy W-reN-bRtF PbW-g-PbW Oud-fCD-TQPo Vo-f-hVrX reN-bRtF-b Vo-TU-qeRs bRtF-fCD-CyhrNEY W-uVeO-PFSN Ye-d-YnR W-bRtF-BxO Ye-YnR-uVeO Ya-PbW-hN hN-KCI-f u-KCI-Oud u-KCI-bRtF e-reN-hN CyhrNEY-reN-Oud fCD-b-reN-g BxO-eOB-rKH Ye-TU-hVrX fCD-YnR-Ya f-Vo-hN hVrX-d-rfbe jiy-hN-KCI rfbe-f-hVrX-d hVrX-TQPo-bRtF-hVrX d-fCD-TQPo Ye-b-Vo b-u-PbW rKH-eOB-g TQPo-f-rKH f-qeRs-b-qeRs TU-f-TU g-rKH-PbW Ya-hN-u-hVrX qeRs-Oud-Oud-g Vo-Vo-BxO-fCD bRtF-eOB-BxO jiy-TU-PFSN-uVeO g-BxO-PbW TQPo-TQPo-fCD YnR-W-eOB TU-qeRs-eOB e-Ye-reN-eOB jiy-jiy-f-Oud Ya-hVrX-BxO jiy-YnR-rKH hN-reN-f qeRs-Ya-TQPo TU-Ya-b-PbW qeRs-Vo-KCI BxO-jiy-hVrX g-hN-fCD YnR-u-PbW TQPo-PFSN-W-BxO bRtF-rfbe-rfbe hVrX-PFSN-KCI e-Ye-Vo f-Ya-jiy bRtF-eOB-CyhrNEY Vo-fCD-e bRtF-qeRs-Vo BxO-PFSN-d e-fCD-rfbe BxO-rfbe-TU qeRs-Ya-eOB f-Vo-reN bRtF-jiy-eOB f-rKH-g 
+YnR-Oud-KCI eOB-CyhrNEY-rfbe Vo-eOB-YnR Oud-TQPo-b reN-jiy-Ye reN-g-e hN-e-BxO e-d-BxO g-Oud-Vo YnR-g-YnR jiy-Oud-hVrX bRtF-Vo-rfbe Oud-Oud-TQPo BxO-reN-u W-Oud-TU TU-uVeO-hN b-W-eOB W-fCD-qeRs g-PbW-hN KCI-W-u TU-eOB-TQPo BxO-TU-uVeO bRtF-bRtF-KCI f-rKH-CyhrNEY rfbe-hN-b-e rfbe-qeRs-f d-CyhrNEY-jiy Ye-Ye-uVeO u-rfbe-f b-Oud-YnR Vo-hVrX-d-Ya uVeO-KCI-TQPo-jiy fCD-Ya-d-YnR CyhrNEY-Ye-PFSN-TU uVeO-f-BxO Vo-reN-CyhrNEY reN-rfbe-Ya Vo-rKH-u Vo-TQPo-Oud e-YnR-Vo hVrX-jiy-reN uVeO-Vo-reN f-reN-hN e-Ya-f hVrX-PFSN-e reN-bRtF-PFSN CyhrNEY-b-BxO u-TU-Vo PFSN-BxO-fCD d-qeRs-b Vo-Ya-BxO Vo-b-TQPo rfbe-BxO-YnR uVeO-Ye-BxO W-d-Ya BxO-b-rKH-d eOB-Ye-Oud-YnR Ye-Ye-TU bRtF-CyhrNEY-uVeO Vo-Ya-fCD W-jiy-Ya PFSN-f-PbW PbW-Ye-b bRtF-rfbe-Ye g-BxO-KCI b-W-PFSN PbW-u-BxO TQPo-e-PbW e-YnR-f KCI-Ye-fCD-u b-Ye-b jiy-e-g Ya-TU-TQPo eOB-rfbe-rKH-g qeRs-b-bRtF Ye-hN-g hN-e-YnR g-fCD-BxO CyhrNEY-qeRs-hVrX uVeO-d-bRtF PFSN-rKH-rfbe fCD-BxO-Oud W-Vo-Ye f-BxO-e Vo-Oud-rfbe PFSN-Oud-reN rKH-Oud-rfbe bRtF-Vo-d YnR-jiy-bRtF Oud-YnR-u hN-hVrX-u KCI-Ye-BxO-rfbe PFSN-b-Ya f-TQPo-W g-uVeO-PbW-TQPo jiy-jiy-b YnR-TU-g-KCI hVrX-Ya-fCD-reN jiy-W-rKH-e eOB-eOB-fCD 
+e-KCI-fCD KCI-W-Oud jiy-rfbe-Oud-reN f-reN-rKH TQPo-e-reN f-PFSN-Vo-rKH PbW-e-W-rKH TQPo-hN-d-TQPo hN-W-reN fCD-fCD-u PFSN-jiy-PbW uVeO-hVrX-u TU-YnR-b-Oud qeRs-g-u fCD-b-d bRtF-g-Ye-b Ye-PFSN-PbW reN-PbW-YnR d-u-Oud-hVrX BxO-d-Ya Ye-W-PbW-e reN-uVeO-CyhrNEY PFSN-fCD-YnR-g uVeO-reN-fCD reN-KCI-PFSN uVeO-hN-d Ya-eOB-PFSN d-hVrX-Oud rKH-e-Ye PFSN-jiy-YnR Ye-uVeO-CyhrNEY eOB-Ya-Ya TQPo-f-hVrX KCI-b-rfbe TQPo-PbW-hVrX-TQPo fCD-W-Oud hN-qeRs-PFSN PFSN-u-rfbe f-qeRs-TU hN-Ye-reN hVrX-TU-b Ya-eOB-W Vo-CyhrNEY-bRtF-W g-reN-CyhrNEY TU-YnR-uVeO Ye-W-Oud fCD-Ya-W PbW-W-Ye e-YnR-e BxO-PbW-rfbe hVrX-PbW-Oud jiy-Vo-b hN-Ye-TU-d fCD-rKH-Vo uVeO-Vo-eOB-reN hN-YnR-hN YnR-KCI-KCI fCD-b-eOB hN-jiy-rfbe g-rKH-eOB PbW-PFSN-hVrX uVeO-hVrX-Ya CyhrNEY-u-jiy TU-jiy-Vo PbW-Ye-Ye bRtF-PFSN-Oud f-TU-Vo f-hN-Ya bRtF-W-e YnR-rfbe-CyhrNEY BxO-qeRs-eOB W-eOB-Vo KCI-TU-YnR-fCD bRtF-f-b jiy-u-e Ye-e-Vo CyhrNEY-bRtF-g e-PFSN-Vo hN-qeRs-KCI d-CyhrNEY-YnR reN-b-g rKH-Vo-YnR e-reN-PFSN uVeO-f-f-hN f-Ye-CyhrNEY CyhrNEY-g-b TU-BxO-b fCD-fCD-hVrX-uVeO eOB-rKH-TQPo qeRs-BxO-b Vo-bRtF-W eOB-Ye-TU eOB-b-rKH KCI-Vo-Vo jiy-e-TU rKH-f-bRtF Ya-Ye-jiy-KCI YnR-rfbe-bRtF hVrX-Vo-TU uVeO-hN-fCD 
+g-Vo-eOB YnR-eOB-rKH u-uVeO-KCI bRtF-BxO-f PbW-uVeO-d Oud-hN-e b-bRtF-Vo CyhrNEY-YnR-u-hVrX TQPo-TU-KCI CyhrNEY-u-b-Vo CyhrNEY-rKH-rKH PFSN-g-CyhrNEY-eOB BxO-e-KCI CyhrNEY-g-jiy CyhrNEY-e-rKH eOB-bRtF-bRtF qeRs-reN-CyhrNEY d-Oud-eOB YnR-Ya-g PFSN-TQPo-YnR-bRtF e-reN-CyhrNEY CyhrNEY-g-PbW-PbW jiy-jiy-b-b fCD-BxO-PbW jiy-W-YnR BxO-TQPo-qeRs-Oud rKH-CyhrNEY-PFSN CyhrNEY-Ya-eOB b-d-TQPo BxO-Ye-YnR fCD-f-TQPo BxO-Oud-b f-PbW-BxO reN-Ye-PFSN reN-Oud-f rKH-TU-b TU-BxO-rfbe f-hN-Ye b-PFSN-uVeO-TU rKH-PbW-reN CyhrNEY-g-bRtF g-hN-reN-W PFSN-PbW-f rfbe-Oud-rfbe e-PFSN-YnR uVeO-PbW-fCD eOB-b-f rfbe-qeRs-qeRs fCD-bRtF-PbW jiy-uVeO-TQPo-b KCI-BxO-hVrX qeRs-bRtF-eOB fCD-W-YnR KCI-CyhrNEY-TU PFSN-Ye-Ye rKH-b-rfbe BxO-eOB-uVeO TU-rfbe-PbW W-Vo-u reN-bRtF-u W-W-TU-fCD Ye-W-qeRs hN-rKH-YnR-Oud eOB-hVrX-PFSN b-Ye-qeRs-hN PbW-PFSN-bRtF fCD-uVeO-qeRs uVeO-qeRs-Oud-Vo eOB-qeRs-reN bRtF-uVeO-Ya PbW-g-BxO-g PFSN-f-uVeO rfbe-uVeO-Ye hVrX-YnR-Vo Ye-bRtF-TU qeRs-e-e bRtF-Oud-CyhrNEY bRtF-e-hN qeRs-e-hN bRtF-uVeO-f rKH-rfbe-qeRs b-Ye-Ye uVeO-d-hN u-u-g Ya-TU-eOB-hN qeRs-g-b BxO-d-KCI hN-Vo-rKH PbW-hVrX-PFSN-hN u-bRtF-uVeO PFSN-rfbe-reN qeRs-qeRs-hVrX hVrX-u-e-rKH rKH-rfbe-Ya W-YnR-hN bRtF-Ye-u-f g-uVeO-qeRs e-YnR-g-qeRs reN-b-e BxO-fCD-Oud-d 
+hN-rKH-rfbe bRtF-reN-TU fCD-Oud-hVrX CyhrNEY-hVrX-Ye rfbe-YnR-hVrX-e Ya-rfbe-BxO-jiy rKH-u-KCI PbW-Oud-uVeO f-rKH-rfbe BxO-rKH-Vo hN-hVrX-YnR-bRtF rfbe-BxO-eOB YnR-hN-b KCI-TQPo-fCD KCI-rfbe-Oud Ya-Ye-Ye jiy-fCD-TU eOB-fCD-e reN-Ya-eOB bRtF-reN-fCD fCD-KCI-d Oud-CyhrNEY-BxO YnR-TQPo-f hVrX-Ye-eOB hN-W-PbW YnR-Ye-Ya Ye-jiy-TU YnR-Ya-KCI d-rfbe-TQPo b-d-TU PFSN-rKH-fCD bRtF-rKH-CyhrNEY Vo-reN-hVrX Oud-e-Ya rfbe-W-d eOB-TQPo-CyhrNEY jiy-TU-jiy-hN fCD-bRtF-hVrX bRtF-eOB-Oud d-e-bRtF-Ye hVrX-Ya-hVrX e-jiy-eOB Ye-TU-b PbW-hN-d b-jiy-qeRs TU-W-rKH Ya-qeRs-hVrX eOB-TQPo-qeRs-Vo reN-Ye-f BxO-d-g g-TU-Ya d-Ya-PbW TQPo-fCD-qeRs uVeO-rKH-d d-PFSN-Vo g-Oud-Vo-b fCD-eOB-Vo Vo-CyhrNEY-Ye PFSN-Ya-f Ya-uVeO-rfbe rKH-TQPo-TQPo f-PbW-PbW PbW-b-eOB-f uVeO-PbW-g YnR-f-hVrX qeRs-BxO-hN hN-YnR-PbW-reN jiy-TQPo-u KCI-rfbe-Ya-g f-b-e TQPo-BxO-uVeO e-TU-YnR rKH-hN-u Ya-qeRs-Ye YnR-rKH-reN-W uVeO-eOB-BxO u-rKH-hN PbW-hN-Vo TU-reN-bRtF uVeO-PbW-TQPo BxO-u-W Vo-YnR-YnR hN-fCD-Vo eOB-PFSN-Ya-hN W-qeRs-e Oud-jiy-BxO Oud-bRtF-BxO jiy-hN-u b-rKH-f BxO-BxO-BxO-TQPo uVeO-TU-qeRs eOB-fCD-fCD PFSN-hN-rKH Oud-YnR-Ye rKH-uVeO-f Ye-qeRs-qeRs TU-f-Vo-fCD Ye-PFSN-jiy reN-CyhrNEY-Ye bRtF-e-qeRs 
+Ye-PbW-bRtF Oud-d-b TQPo-fCD-W bRtF-qeRs-bRtF-f Vo-fCD-PbW d-eOB-hVrX PbW-hN-Ya PFSN-jiy-fCD u-qeRs-qeRs bRtF-W-reN-CyhrNEY KCI-rfbe-b-reN f-eOB-fCD fCD-eOB-TU Oud-rfbe-fCD reN-W-u Ye-uVeO-Ya u-rfbe-bRtF Vo-W-PbW f-rfbe-hVrX rKH-CyhrNEY-YnR-PFSN TQPo-TQPo-e bRtF-hVrX-bRtF d-TU-jiy f-TU-d uVeO-Oud-rfbe bRtF-b-bRtF-d KCI-f-f g-hVrX-TU d-e-PFSN-e TU-u-PFSN rfbe-Oud-f CyhrNEY-PbW-uVeO f-g-bRtF W-jiy-W TU-Oud-jiy-qeRs jiy-uVeO-TQPo-BxO Ya-rfbe-rKH Ya-YnR-qeRs rKH-Vo-KCI PbW-fCD-rKH e-TU-Vo PbW-YnR-hVrX PbW-uVeO-jiy f-u-rKH rfbe-Ye-reN-W b-hVrX-TQPo BxO-Oud-hVrX bRtF-BxO-rKH PFSN-reN-Oud g-YnR-YnR-d CyhrNEY-TU-Oud PFSN-KCI-d jiy-rfbe-jiy jiy-rfbe-f PbW-BxO-rKH-KCI jiy-YnR-u-bRtF e-qeRs-TQPo qeRs-f-Ye b-YnR-TU qeRs-rKH-Ya uVeO-uVeO-d-Ye hN-reN-KCI-W Oud-TU-W TU-CyhrNEY-jiy b-bRtF-Ya W-TU-KCI-f bRtF-TQPo-bRtF jiy-rfbe-rKH g-bRtF-f Vo-Vo-TU Ya-YnR-W qeRs-hVrX-rfbe TQPo-Ye-KCI f-g-PbW W-TQPo-Ye fCD-fCD-u-YnR fCD-g-BxO hN-rfbe-CyhrNEY hN-Ye-Oud Ye-Vo-YnR-u rKH-BxO-PbW Ya-d-uVeO hN-PFSN-jiy g-eOB-jiy-YnR d-hVrX-Ya u-hVrX-Ye g-PbW-KCI qeRs-f-hN PFSN-Ya-e PFSN-uVeO-PFSN e-uVeO-fCD CyhrNEY-TQPo-hVrX-W Vo-g-e Oud-YnR-PFSN CyhrNEY-b-d Ya-hVrX-TQPo TQPo-CyhrNEY-BxO d-Vo-g d-hN-hVrX PbW-Ye-Ya-PFSN 
+KCI-hN-rfbe-b W-rKH-b d-b-PbW bRtF-BxO-fCD Oud-qeRs-CyhrNEY jiy-KCI-PFSN qeRs-jiy-W eOB-uVeO-jiy hN-rfbe-u uVeO-eOB-YnR W-Ye-Oud Ye-qeRs-g PFSN-uVeO-rfbe TQPo-u-b Ya-W-d qeRs-CyhrNEY-YnR jiy-Oud-bRtF Ye-eOB-TQPo d-bRtF-bRtF u-reN-u jiy-TQPo-Ya fCD-u-YnR Oud-KCI-BxO rfbe-bRtF-uVeO Oud-eOB-W KCI-hN-W PbW-YnR-fCD rKH-PbW-fCD rKH-rKH-reN u-YnR-u-PbW uVeO-CyhrNEY-eOB uVeO-qeRs-PbW d-d-qeRs YnR-TU-reN fCD-rKH-KCI-d PFSN-TU-Oud eOB-reN-Vo PFSN-f-rKH hVrX-PbW-reN Oud-BxO-Ya YnR-e-u qeRs-YnR-g Ye-b-W PFSN-u-Oud PFSN-u-W-YnR u-g-CyhrNEY YnR-reN-TU Ye-u-BxO b-d-g rKH-BxO-hVrX qeRs-KCI-hVrX W-PbW-TU e-Oud-f reN-d-hVrX CyhrNEY-BxO-d PFSN-g-YnR-bRtF u-hN-uVeO Vo-g-jiy TQPo-BxO-qeRs Ye-rKH-bRtF qeRs-TQPo-uVeO-TQPo Vo-e-KCI-u jiy-d-CyhrNEY-eOB f-g-uVeO hVrX-hVrX-KCI b-Ya-KCI f-e-uVeO g-g-g e-g-TU hVrX-KCI-W bRtF-Oud-KCI Ye-rKH-rfbe hVrX-reN-f f-uVeO-jiy Oud-rfbe-BxO b-d-e BxO-hVrX-jiy uVeO-b-Oud-BxO reN-bRtF-TU Vo-g-bRtF u-TU-e W-CyhrNEY-hVrX PbW-reN-hN bRtF-e-CyhrNEY PFSN-BxO-d b-W-e reN-TU-qeRs fCD-bRtF-e KCI-Vo-YnR Ye-rfbe-uVeO-u CyhrNEY-u-W b-rKH-eOB-f eOB-jiy-TU b-fCD-Oud CyhrNEY-YnR-KCI YnR-KCI-Ye u-qeRs-CyhrNEY d-Vo-f f-BxO-KCI uVeO-rKH-Vo 
+KCI-TQPo-W Oud-Oud-Oud PbW-CyhrNEY-Ya TQPo-jiy-bRtF PFSN-Ya-BxO-Ya YnR-Oud-hVrX PFSN-fCD-TU b-Ya-PFSN uVeO-bRtF-eOB-jiy PbW-eOB-Ye-TU hVrX-TU-b-fCD hVrX-PFSN-reN e-f-W qeRs-YnR-qeRs-PbW rfbe-f-TU Vo-reN-qeRs rKH-qeRs-fCD b-f-jiy CyhrNEY-TU-PFSN hVrX-fCD-fCD-fCD TU-uVeO-TQPo eOB-PbW-TQPo jiy-rKH-hVrX KCI-Oud-TU e-g-jiy u-PbW-bRtF-Ye u-KCI-BxO Ya-e-PFSN qeRs-jiy-PbW-Oud g-hN-CyhrNEY TU-W-hVrX-W Ya-b-CyhrNEY-TQPo rKH-hVrX-Vo f-Oud-KCI reN-eOB-fCD Ye-CyhrNEY-YnR d-TU-f rKH-Ye-YnR eOB-jiy-Vo hN-TQPo-g rfbe-e-BxO-rfbe hVrX-u-fCD bRtF-g-Ya YnR-rKH-reN-f CyhrNEY-d-jiy hN-YnR-KCI Oud-qeRs-Ya BxO-Ya-reN-TU uVeO-f-hVrX jiy-b-b rKH-jiy-eOB KCI-KCI-YnR TU-KCI-qeRs d-g-W W-rfbe-W uVeO-Ya-PFSN bRtF-KCI-b CyhrNEY-KCI-Vo BxO-Ya-rKH reN-g-Oud hVrX-Ye-Vo g-jiy-rfbe BxO-jiy-uVeO KCI-jiy-PFSN rfbe-rfbe-u jiy-TU-KCI YnR-PFSN-PFSN u-PFSN-TU BxO-hN-uVeO-Vo KCI-eOB-bRtF rfbe-Ye-YnR reN-TQPo-rKH YnR-e-TU-Vo Ye-hVrX-uVeO reN-b-g-hN CyhrNEY-W-TQPo g-TU-hN jiy-PFSN-Ye-uVeO g-PbW-rKH YnR-uVeO-YnR u-fCD-reN hN-PbW-KCI TU-rfbe-Vo Oud-u-YnR BxO-hVrX-Ye PbW-f-bRtF u-d-hN CyhrNEY-Vo-jiy-TU reN-rKH-qeRs PbW-jiy-f eOB-TU-rKH KCI-TQPo-YnR TU-rKH-rKH-rfbe TU-Ya-W fCD-f-PFSN b-Ya-bRtF d-BxO-f-jiy d-rfbe-d rKH-PbW-hVrX hVrX-g-u 
+hN-YnR-Vo Oud-TQPo-TQPo TQPo-fCD-TQPo TU-YnR-Vo d-d-TQPo Ye-bRtF-YnR hN-CyhrNEY-b PbW-BxO-d Ya-eOB-hN-u bRtF-CyhrNEY-Vo Vo-jiy-Ye hVrX-g-d Ye-bRtF-d PFSN-Ye-e f-uVeO-qeRs PFSN-YnR-e-hVrX b-rKH-e Oud-W-TU reN-Oud-reN qeRs-reN-d YnR-KCI-u-b hN-Ye-u reN-Oud-fCD rKH-TU-b-g TQPo-TU-W eOB-eOB-qeRs hN-Ye-PFSN e-TU-BxO f-reN-KCI KCI-eOB-Vo hVrX-KCI-PbW u-g-reN-Ye YnR-f-b-bRtF bRtF-PFSN-g uVeO-Oud-Oud-YnR fCD-uVeO-TQPo-TQPo BxO-b-qeRs hN-qeRs-g W-PFSN-W Ye-rfbe-fCD uVeO-TU-rKH d-qeRs-d-Vo u-KCI-jiy g-Ya-e KCI-reN-Vo-TU YnR-rKH-Ye W-b-KCI bRtF-TQPo-TU W-jiy-qeRs f-hN-fCD u-g-Ya e-rKH-d-rfbe Vo-BxO-hN-b W-Ye-CyhrNEY Ya-BxO-qeRs rKH-f-g uVeO-TU-CyhrNEY u-hN-BxO uVeO-hVrX-Vo hN-Ya-CyhrNEY PbW-hVrX-hN-PFSN eOB-d-e CyhrNEY-qeRs-hVrX-rfbe reN-BxO-d hVrX-qeRs-bRtF TQPo-Vo-u BxO-f-hN reN-jiy-hN TU-rKH-TQPo eOB-PFSN-fCD uVeO-f-u b-TQPo-Ya b-rfbe-KCI CyhrNEY-u-qeRs reN-reN-u PFSN-g-hVrX Oud-W-TQPo hN-eOB-d e-fCD-W-TQPo eOB-d-hN W-hVrX-b PbW-TU-hVrX TQPo-eOB-YnR-KCI f-TQPo-CyhrNEY e-reN-PFSN-Ya hVrX-TU-b-PbW hVrX-jiy-CyhrNEY-rKH b-e-Vo eOB-TU-PbW u-W-TQPo KCI-TU-Ye e-reN-uVeO Ye-Ye-BxO KCI-Ya-uVeO PFSN-Ya-b fCD-f-d-CyhrNEY jiy-TU-PbW jiy-BxO-b d-hN-bRtF BxO-jiy-W 
+g-TU-hN-u Oud-reN-YnR TU-hVrX-g Ye-fCD-Vo-PbW fCD-KCI-Ye hVrX-Oud-bRtF BxO-rfbe-e-W TQPo-TQPo-Ye reN-g-bRtF e-rfbe-rfbe PbW-reN-e KCI-g-u rKH-uVeO-eOB jiy-CyhrNEY-u-Oud KCI-KCI-rKH Oud-W-Ye Ye-TU-TQPo W-fCD-Vo qeRs-u-b BxO-qeRs-YnR-BxO f-eOB-Oud hVrX-e-BxO jiy-TU-rKH-qeRs CyhrNEY-g-YnR d-e-CyhrNEY qeRs-jiy-CyhrNEY u-TQPo-PFSN Ye-e-KCI hVrX-g-reN BxO-g-Vo bRtF-f-eOB hVrX-e-reN bRtF-KCI-YnR e-Vo-uVeO g-qeRs-Oud jiy-Oud-e rfbe-rKH-rfbe-Ya Ya-rKH-f Vo-eOB-TQPo fCD-hVrX-TQPo TU-b-g fCD-uVeO-e u-PFSN-YnR-reN Vo-u-d jiy-hVrX-bRtF u-reN-Oud CyhrNEY-PbW-Oud PbW-f-YnR TU-b-fCD Ya-Vo-reN rKH-TQPo-rfbe-uVeO reN-PFSN-PFSN CyhrNEY-b-Ya e-d-rfbe rKH-g-fCD f-g-hN YnR-g-jiy W-hVrX-W TQPo-uVeO-jiy e-reN-f rKH-CyhrNEY-PFSN-e qeRs-Vo-KCI-TU bRtF-u-Ye uVeO-d-TQPo hN-Vo-W PbW-e-CyhrNEY e-hVrX-eOB d-Ya-TU CyhrNEY-W-fCD u-W-rfbe YnR-BxO-d rKH-rfbe-KCI reN-d-eOB d-CyhrNEY-f-TQPo b-reN-b reN-jiy-W hN-BxO-Vo reN-Ye-BxO KCI-Vo-fCD reN-d-e W-KCI-f eOB-hN-hVrX eOB-Ya-b-u bRtF-BxO-rKH-rfbe d-uVeO-CyhrNEY Ye-TU-d YnR-b-reN rfbe-b-uVeO Ye-bRtF-qeRs g-Ya-hVrX f-Ya-g eOB-Ya-f-g bRtF-Vo-YnR qeRs-hVrX-TQPo Ye-jiy-BxO-qeRs uVeO-u-PbW-Oud BxO-CyhrNEY-KCI Oud-jiy-TU TQPo-eOB-KCI PbW-rfbe-fCD 
+Ye-PFSN-Oud jiy-TU-rfbe PbW-jiy-Ya W-BxO-TU-Ya f-e-d Ye-uVeO-e fCD-qeRs-bRtF-BxO b-reN-fCD Ye-Ya-Vo hN-fCD-e d-f-rKH Vo-BxO-rfbe-hVrX TQPo-Vo-KCI u-bRtF-CyhrNEY fCD-reN-Oud fCD-hVrX-uVeO e-W-b BxO-g-TU-Vo Ya-uVeO-TU hN-qeRs-hVrX eOB-u-b-f W-Ya-hN-f qeRs-Ye-hN f-W-W f-TQPo-rKH-d PbW-b-TQPo g-W-jiy f-b-uVeO YnR-Ya-hN W-bRtF-PFSN f-hN-Oud Ya-u-hVrX KCI-uVeO-Ye u-TU-W-PFSN Ye-YnR-rfbe-PFSN hN-b-rKH f-b-W b-hVrX-BxO KCI-YnR-qeRs TU-Ye-f-CyhrNEY f-Ya-reN-Vo BxO-Ye-u bRtF-Vo-bRtF-qeRs Ye-u-f-g CyhrNEY-KCI-Ya BxO-qeRs-TU rKH-CyhrNEY-Vo Vo-hN-u TQPo-YnR-hVrX uVeO-CyhrNEY-bRtF-qeRs rKH-TQPo-BxO TU-TU-W Oud-f-Oud fCD-CyhrNEY-g PFSN-TU-Ye uVeO-BxO-jiy rfbe-PbW-b W-KCI-CyhrNEY PFSN-fCD-eOB qeRs-Ya-KCI qeRs-TQPo-e Ya-W-Vo eOB-fCD-W-jiy YnR-rKH-TQPo jiy-reN-rKH d-YnR-rKH CyhrNEY-fCD-d e-PbW-f-reN CyhrNEY-CyhrNEY-TU e-hVrX-Ye TU-Ye-BxO hN-BxO-bRtF YnR-TU-YnR-hN u-e-fCD fCD-f-reN-reN f-Ye-u-u KCI-rKH-Ye YnR-jiy-BxO-d u-TU-hVrX jiy-rfbe-b TU-bRtF-Oud-g rKH-b-PFSN TU-u-uVeO-hVrX PFSN-Oud-d u-YnR-YnR bRtF-TQPo-TU-CyhrNEY hN-uVeO-Oud qeRs-W-jiy hN-Vo-jiy u-bRtF-W-Ya hVrX-W-rKH-d W-fCD-reN reN-jiy-fCD b-YnR-f qeRs-hVrX-TU rfbe-YnR-reN Vo-f-KCI KCI-BxO-reN-reN hVrX-qeRs-u bRtF-KCI-Oud 
+jiy-u-reN b-jiy-hN reN-PbW-Ye-reN b-fCD-uVeO Oud-TQPo-Vo hVrX-uVeO-hVrX-rKH TQPo-rKH-f Ya-b-rKH-hVrX d-TU-TQPo f-TU-Ya u-TU-g bRtF-W-Ya Oud-f-e BxO-uVeO-f TU-reN-rKH fCD-PbW-rKH d-Ye-fCD hVrX-TU-hVrX-fCD PFSN-rKH-u e-eOB-Ya-u KCI-KCI-b-jiy YnR-hN-b-Ye bRtF-bRtF-Oud bRtF-reN-f qeRs-rfbe-reN-YnR CyhrNEY-Ye-fCD reN-PbW-BxO BxO-fCD-Ye-W W-Ya-u Oud-TU-KCI PbW-hN-rfbe f-jiy-Ya hN-Ye-g reN-bRtF-Ya rKH-KCI-hN reN-TU-b-TU bRtF-Ya-Oud W-CyhrNEY-jiy-TQPo W-d-f YnR-rfbe-PFSN rKH-rfbe-qeRs-Vo PFSN-hVrX-rKH d-jiy-PbW d-hVrX-W TU-reN-fCD YnR-d-W-W jiy-Ya-CyhrNEY-fCD Vo-hVrX-rfbe reN-TU-PFSN W-b-KCI-bRtF W-reN-PFSN W-reN-uVeO fCD-b-f qeRs-hN-PbW g-rKH-g eOB-qeRs-qeRs fCD-BxO-TQPo-jiy hVrX-TU-PFSN e-eOB-rfbe-eOB bRtF-uVeO-jiy-TQPo uVeO-YnR-BxO hVrX-qeRs-hVrX jiy-CyhrNEY-e BxO-bRtF-Vo YnR-e-uVeO hN-PbW-g CyhrNEY-rKH-b reN-uVeO-f BxO-W-d YnR-PbW-f rfbe-g-b-g Ya-W-g Oud-BxO-TU YnR-CyhrNEY-Oud Oud-YnR-u-rfbe BxO-Ye-YnR-f b-reN-rKH KCI-CyhrNEY-eOB TU-hVrX-eOB Vo-Ya-f uVeO-jiy-CyhrNEY u-PbW-Vo-TQPo f-qeRs-g-KCI W-f-TU-eOB uVeO-uVeO-TU d-b-hVrX PFSN-fCD-KCI qeRs-reN-b fCD-d-W-CyhrNEY u-hVrX-PbW CyhrNEY-TU-uVeO-BxO reN-reN-Ya reN-PbW-rfbe-rfbe YnR-b-KCI BxO-hVrX-hN CyhrNEY-Oud-CyhrNEY hN-uVeO-Ye rKH-Ya-u hVrX-eOB-qeRs eOB-Oud-bRtF 
+PbW-KCI-d CyhrNEY-BxO-Vo Ye-fCD-eOB-TU b-PbW-d jiy-Ye-PFSN qeRs-u-reN-BxO bRtF-rfbe-Ya Vo-u-g TU-f-Ya KCI-TQPo-PFSN hN-uVeO-e TU-W-CyhrNEY hVrX-W-e W-f-d reN-YnR-CyhrNEY-Ye eOB-u-bRtF rKH-u-Oud PFSN-uVeO-CyhrNEY rfbe-YnR-hVrX-e-rfbe KCI-bRtF-jiy-KCI f-W-b uVeO-Oud-Ya f-qeRs-hVrX-u TQPo-fCD-CyhrNEY rKH-Oud-u b-hN-u Ye-Vo-KCI-uVeO BxO-PbW-PFSN-u BxO-Oud-TQPo KCI-rfbe-KCI W-reN-hN hVrX-Ye-bRtF-YnR jiy-Ya-TQPo uVeO-W-jiy-hVrX jiy-jiy-qeRs qeRs-Ye-W qeRs-e-PbW jiy-CyhrNEY-jiy jiy-hN-f-Oud b-W-TU f-g-rfbe PbW-BxO-g eOB-rKH-g W-PbW-BxO jiy-KCI-uVeO jiy-rfbe-Ye CyhrNEY-hN-BxO-TU Oud-uVeO-CyhrNEY W-hN-f d-Oud-uVeO b-W-Ye-Oud g-hVrX-hN KCI-uVeO-u Ye-uVeO-rfbe BxO-jiy-hVrX-Vo b-CyhrNEY-jiy KCI-f-reN-rKH Ya-CyhrNEY-bRtF-TU bRtF-PFSN-d CyhrNEY-CyhrNEY-jiy rKH-bRtF-qeRs YnR-TU-rfbe-YnR qeRs-Vo-fCD Oud-hVrX-fCD uVeO-hVrX-eOB TQPo-eOB-rKH TU-u-eOB hN-e-u Oud-YnR-PbW-u uVeO-uVeO-u YnR-e-Ya PFSN-f-eOB qeRs-g-Ya TU-Oud-TQPo-TQPo d-jiy-qeRs Vo-hN-bRtF rKH-qeRs-b W-d-eOB-e Ya-TQPo-hN g-rKH-TU g-Ya-bRtF g-rfbe-u d-qeRs-bRtF KCI-bRtF-reN hVrX-uVeO-Ye uVeO-TU-rfbe rfbe-e-d-g Ya-Ye-W hVrX-eOB-reN d-eOB-TU u-f-bRtF reN-BxO-b eOB-d-b-PFSN Vo-f-f hVrX-d-reN Ye-TQPo-YnR-W Ye-W-qeRs-CyhrNEY PFSN-PFSN-hVrX Ye-CyhrNEY-Vo hVrX-Ye-d 
+qeRs-rfbe-u-Oud CyhrNEY-rfbe-reN-eOB reN-fCD-e rfbe-e-f b-reN-TU uVeO-fCD-qeRs e-reN-b d-g-YnR BxO-jiy-uVeO-rKH e-e-BxO qeRs-d-CyhrNEY-hVrX TU-hVrX-rKH f-hVrX-PbW CyhrNEY-uVeO-g fCD-rKH-TQPo eOB-KCI-PFSN f-KCI-TQPo bRtF-qeRs-uVeO PbW-reN-rfbe bRtF-rfbe-Oud g-BxO-W-u fCD-f-f PFSN-KCI-u b-qeRs-uVeO f-W-PFSN TQPo-Ya-u Oud-g-e uVeO-d-CyhrNEY CyhrNEY-bRtF-d eOB-TU-reN rfbe-CyhrNEY-qeRs rfbe-uVeO-Ye-TU uVeO-Ya-d KCI-hN-e f-CyhrNEY-KCI-KCI W-eOB-fCD Ya-W-g-eOB BxO-reN-u-Ye TQPo-W-fCD-CyhrNEY qeRs-TU-hN Ya-fCD-bRtF jiy-YnR-W Oud-fCD-hN YnR-rKH-TU hN-PFSN-rKH e-Vo-BxO uVeO-fCD-BxO W-W-W CyhrNEY-eOB-reN W-rKH-YnR f-reN-g fCD-d-TU-u uVeO-u-eOB uVeO-eOB-PFSN-u Ya-YnR-e Ye-rfbe-jiy hN-CyhrNEY-g-uVeO g-rKH-CyhrNEY u-g-uVeO-hN fCD-reN-KCI-u W-KCI-reN KCI-PFSN-KCI TU-uVeO-YnR hN-CyhrNEY-rfbe d-f-u W-b-PFSN f-hN-b-d Ya-uVeO-eOB d-PFSN-TU d-TQPo-fCD reN-hN-BxO rKH-Ye-KCI-fCD rfbe-uVeO-PbW Ye-b-rKH-jiy reN-TQPo-fCD qeRs-TQPo-jiy hVrX-hVrX-Ye W-reN-CyhrNEY PbW-Ya-KCI KCI-PFSN-bRtF hVrX-reN-reN Oud-d-W-CyhrNEY KCI-rKH-YnR YnR-TU-g-bRtF W-PbW-reN e-g-g-e Vo-PFSN-Ya-rfbe jiy-rfbe-hVrX TQPo-b-KCI hVrX-PbW-g-jiy rfbe-Ya-rKH-hVrX CyhrNEY-Ya-b TU-bRtF-bRtF Vo-Oud-jiy g-BxO-g uVeO-Vo-fCD b-d-YnR hVrX-fCD-b TU-Oud-PbW g-rfbe-TQPo-eOB 
+BxO-f-PFSN g-Oud-qeRs-Oud Vo-YnR-e Ya-rfbe-rKH-f g-g-TQPo Ye-e-d-Oud YnR-d-hN d-uVeO-TQPo-b uVeO-Ya-KCI-hVrX YnR-reN-Oud YnR-hN-fCD CyhrNEY-hVrX-d hN-YnR-TQPo-hVrX eOB-u-CyhrNEY qeRs-eOB-g W-bRtF-hVrX hVrX-Ye-fCD KCI-TU-CyhrNEY eOB-uVeO-PFSN hVrX-reN-hN-hN W-Ye-b TU-PbW-hVrX-fCD BxO-d-PFSN e-hVrX-rKH b-qeRs-rKH YnR-reN-PbW Oud-TQPo-Ya KCI-W-YnR u-BxO-rfbe W-hN-Ya g-e-Ya KCI-uVeO-Ya CyhrNEY-bRtF-PbW Vo-hVrX-Vo Ye-e-bRtF-BxO PFSN-bRtF-g rfbe-TU-e-KCI uVeO-Ya-fCD hN-rfbe-reN hVrX-PbW-bRtF f-bRtF-TU-hN Oud-PFSN-e-jiy uVeO-jiy-PFSN KCI-PbW-Oud-g Oud-bRtF-hVrX-f e-YnR-Ye W-f-reN Oud-eOB-fCD hVrX-e-W reN-Oud-Oud Ye-e-hN CyhrNEY-Ye-PFSN-b eOB-rKH-Ya e-BxO-jiy Vo-uVeO-b uVeO-f-fCD W-Ya-Oud reN-bRtF-fCD BxO-eOB-hVrX rfbe-TU-hVrX Vo-YnR-qeRs qeRs-f-PbW hN-eOB-f reN-uVeO-e f-reN-reN TU-Vo-g TQPo-BxO-Ya TQPo-fCD-u hN-KCI-CyhrNEY jiy-rfbe-CyhrNEY bRtF-e-TU hN-Ya-Vo-Ye fCD-Vo-TQPo-rKH KCI-qeRs-hN YnR-CyhrNEY-hVrX-W rKH-f-Vo e-f-rKH qeRs-W-TQPo-rKH Ye-PbW-TU-CyhrNEY uVeO-CyhrNEY-bRtF-PFSN g-fCD-fCD-CyhrNEY reN-KCI-TQPo BxO-TQPo-eOB-eOB uVeO-TU-jiy bRtF-g-TU W-uVeO-b uVeO-BxO-YnR TU-TQPo-e PbW-YnR-rfbe d-e-Ya CyhrNEY-Oud-rfbe BxO-eOB-d uVeO-fCD-Ye f-Oud-TQPo fCD-Oud-TU hN-b-KCI-KCI TQPo-Vo-e u-e-bRtF u-hN-PbW W-e-Oud-u 
+rfbe-d-reN W-hVrX-bRtF bRtF-CyhrNEY-jiy qeRs-e-Vo Ye-hVrX-uVeO-uVeO g-f-Vo qeRs-Oud-Ye Oud-Ye-Ya jiy-W-YnR-f jiy-CyhrNEY-rKH Ye-TQPo-TU Vo-Ya-Oud hVrX-hVrX-u f-Vo-fCD PFSN-PbW-TQPo rfbe-d-Ya Ya-Ya-f Ye-bRtF-TU-KCI b-f-Oud u-Ya-eOB-PFSN TQPo-d-BxO TQPo-reN-f-Ye CyhrNEY-hN-b bRtF-YnR-TU rfbe-Ye-fCD u-PFSN-g PFSN-YnR-d-jiy PFSN-Ye-PFSN hVrX-CyhrNEY-YnR jiy-PFSN-qeRs b-Vo-CyhrNEY KCI-d-BxO PbW-hN-jiy b-u-CyhrNEY e-Ya-PFSN hN-g-d Ya-reN-reN CyhrNEY-Ye-hVrX b-f-bRtF reN-hN-u reN-CyhrNEY-KCI uVeO-Ye-hVrX fCD-qeRs-Ye-u b-PFSN-TQPo Ye-u-g hVrX-W-PFSN uVeO-rfbe-hN reN-Vo-jiy-f f-jiy-f hN-W-hVrX PFSN-TQPo-Oud rfbe-TU-f bRtF-e-u u-rfbe-hN Ye-YnR-hN BxO-PFSN-rfbe g-reN-YnR TQPo-b-hN reN-g-d rfbe-fCD-Oud KCI-Oud-KCI jiy-PFSN-PFSN-hN CyhrNEY-d-qeRs-Vo hVrX-b-PbW rfbe-hN-BxO-Ya fCD-BxO-jiy jiy-BxO-d bRtF-bRtF-KCI-PbW d-KCI-qeRs u-fCD-rKH TQPo-hN-Oud g-YnR-d fCD-PbW-YnR u-eOB-TQPo b-Ya-rfbe-hN e-e-CyhrNEY fCD-TU-reN-YnR W-TU-Ya d-TU-Ya Oud-BxO-b BxO-fCD-g Oud-b-hVrX uVeO-Vo-hN d-Ya-uVeO TU-YnR-g eOB-Vo-f-uVeO uVeO-rfbe-BxO-TU g-KCI-fCD hN-u-PFSN hVrX-g-TU u-rKH-Ya rKH-reN-hN Oud-fCD-f uVeO-Vo-b hVrX-eOB-Ye rfbe-reN-rKH hVrX-f-b u-hN-PFSN-hVrX PFSN-Vo-bRtF uVeO-KCI-Vo 
+hVrX-f-TQPo KCI-BxO-hVrX-d reN-bRtF-Ye fCD-Vo-bRtF reN-hN-hVrX Ya-PbW-Ye PFSN-Ya-BxO-uVeO d-BxO-b-Ya Ye-YnR-W-TU g-eOB-f KCI-CyhrNEY-KCI-rKH Ye-eOB-e rfbe-Oud-jiy bRtF-eOB-eOB Vo-e-uVeO W-PbW-Ya KCI-W-hVrX-reN hVrX-b-PbW-KCI Ye-TU-u-uVeO e-YnR-jiy rfbe-bRtF-TQPo W-Ye-u fCD-rKH-rfbe PbW-CyhrNEY-b f-jiy-bRtF eOB-PFSN-eOB Vo-bRtF-bRtF rKH-reN-bRtF g-reN-bRtF-TQPo Ye-Ya-KCI KCI-hVrX-fCD f-PbW-rfbe BxO-Ye-g TU-Vo-eOB e-rfbe-BxO d-u-e-PbW reN-YnR-f bRtF-TU-Vo-W Vo-YnR-eOB jiy-b-hVrX Ya-bRtF-rKH jiy-d-Oud PbW-e-TU-Vo bRtF-TU-fCD-d d-hVrX-g g-W-YnR reN-g-YnR b-Oud-u Oud-uVeO-TU Vo-reN-CyhrNEY-hN b-d-PbW Vo-rfbe-BxO rKH-jiy-W YnR-CyhrNEY-W TU-e-jiy u-b-PbW TQPo-hVrX-YnR TU-u-Ya-hN BxO-hVrX-PFSN rfbe-hN-u CyhrNEY-hN-KCI Ya-PFSN-TU PbW-W-g Ye-TU-qeRs KCI-uVeO-d jiy-hN-TU b-d-YnR-fCD Oud-qeRs-qeRs hVrX-hN-bRtF W-e-rKH hVrX-YnR-f BxO-reN-hN Ye-jiy-YnR TQPo-uVeO-reN eOB-jiy-e W-YnR-PFSN rfbe-e-BxO-qeRs PFSN-TU-bRtF-b PFSN-eOB-e KCI-b-PFSN f-uVeO-uVeO Oud-CyhrNEY-uVeO-fCD eOB-rfbe-TQPo-YnR uVeO-CyhrNEY-bRtF-g reN-uVeO-b KCI-rKH-PFSN-BxO bRtF-f-Oud TQPo-TQPo-Ye-d reN-b-rfbe-b uVeO-u-rfbe-KCI CyhrNEY-qeRs-CyhrNEY g-u-TQPo rKH-Oud-hVrX d-BxO-Ye Ye-Ye-reN BxO-fCD-BxO f-hN-Ye-BxO d-W-PbW f-PbW-KCI qeRs-reN-Ye 
+W-W-rfbe-YnR rKH-f-b uVeO-bRtF-PFSN-Ye W-hVrX-TQPo PFSN-Ye-CyhrNEY YnR-rfbe-bRtF-uVeO hVrX-YnR-g eOB-Ye-hN rKH-fCD-hVrX e-Ye-rKH Ye-jiy-f BxO-d-jiy TU-Ya-reN-W d-PFSN-bRtF u-f-PbW jiy-rKH-Oud d-bRtF-TU eOB-hN-jiy uVeO-u-hVrX-fCD qeRs-Ye-hVrX-BxO Ye-eOB-Vo rKH-Ye-TQPo rKH-Ye-Oud CyhrNEY-CyhrNEY-hN g-KCI-eOB e-PbW-YnR reN-CyhrNEY-YnR f-Vo-hN-hVrX W-W-W-Vo d-TQPo-TU reN-PFSN-fCD Vo-YnR-CyhrNEY fCD-Oud-bRtF-Ye f-PbW-PFSN BxO-eOB-u Ye-hN-Ye Oud-PbW-W-Ye rfbe-Vo-bRtF Vo-f-PFSN YnR-PFSN-hN hN-b-fCD-hN rKH-Vo-CyhrNEY rKH-W-TU qeRs-KCI-PFSN Oud-hN-hVrX hVrX-PbW-rKH-bRtF Ye-uVeO-CyhrNEY-KCI YnR-eOB-PFSN rKH-uVeO-qeRs jiy-Ya-Ye hVrX-f-d g-TQPo-YnR TU-jiy-uVeO hVrX-eOB-CyhrNEY-qeRs rfbe-d-eOB KCI-g-b bRtF-Ya-W TQPo-f-f qeRs-PbW-Vo qeRs-fCD-b TQPo-b-g uVeO-YnR-PFSN-e KCI-fCD-TU f-TU-qeRs BxO-f-W e-KCI-d hVrX-Vo-e Ye-W-b-TU hN-uVeO-CyhrNEY g-u-Ye qeRs-W-hN PFSN-uVeO-bRtF fCD-CyhrNEY-uVeO YnR-bRtF-rKH BxO-Ye-eOB BxO-BxO-PbW-TQPo hVrX-Ye-PFSN uVeO-Oud-g rfbe-reN-jiy KCI-BxO-f-e Vo-jiy-e-eOB fCD-Ya-jiy d-TU-bRtF d-PbW-PbW-uVeO TQPo-e-PbW-g uVeO-f-Ye-BxO PFSN-fCD-jiy-KCI qeRs-Ya-W Oud-rKH-Vo u-b-hVrX rfbe-rKH-BxO hN-rKH-KCI u-reN-g b-jiy-g-Ya Ya-PbW-hN-Vo u-BxO-TQPo Ye-jiy-fCD qeRs-f-eOB YnR-Vo-TQPo TU-rfbe-u 
+bRtF-qeRs-TU-d PbW-TU-hN PbW-eOB-uVeO fCD-TQPo-PFSN Ye-b-BxO hVrX-d-hVrX CyhrNEY-u-PbW PbW-g-Vo hN-e-PbW-Oud PbW-qeRs-hN hN-TQPo-eOB PbW-TQPo-f TU-uVeO-g KCI-qeRs-rKH-rfbe b-fCD-jiy rKH-YnR-KCI u-uVeO-fCD-BxO PbW-W-qeRs W-f-qeRs-rKH fCD-f-hVrX uVeO-u-jiy reN-Ya-bRtF-fCD eOB-hN-W W-Oud-CyhrNEY W-u-reN eOB-CyhrNEY-BxO bRtF-rKH-TQPo reN-TQPo-f e-CyhrNEY-bRtF rKH-fCD-PbW TU-KCI-Vo rKH-jiy-YnR-TQPo jiy-rKH-rKH Ye-bRtF-eOB bRtF-qeRs-fCD eOB-PbW-uVeO W-hN-qeRs W-reN-W PFSN-reN-hVrX YnR-g-YnR-KCI u-u-Ye Vo-Vo-Ye jiy-PFSN-hN hVrX-TQPo-PFSN hVrX-Ye-Vo-Vo PbW-fCD-f d-qeRs-CyhrNEY f-e-PbW-eOB YnR-jiy-f d-f-b TQPo-fCD-W-reN fCD-hN-hN-Vo KCI-e-reN u-eOB-W Ya-rKH-u eOB-Vo-TQPo e-g-PFSN Ye-hVrX-bRtF YnR-reN-PbW-BxO TU-TU-qeRs KCI-bRtF-f Ya-eOB-KCI f-Vo-YnR jiy-uVeO-YnR e-Oud-uVeO d-jiy-TQPo b-rfbe-TU Vo-reN-hVrX-TU Ya-YnR-KCI fCD-Oud-KCI hN-YnR-Ya rKH-uVeO-f-jiy Vo-bRtF-rfbe bRtF-CyhrNEY-CyhrNEY hVrX-PbW-g-f CyhrNEY-e-KCI bRtF-hN-YnR hVrX-e-TQPo-g TQPo-d-Oud eOB-qeRs-PFSN-Vo bRtF-PFSN-Vo bRtF-PFSN-hN PFSN-bRtF-hVrX PFSN-Ya-u Vo-PFSN-CyhrNEY-u u-f-e Ye-hVrX-BxO PFSN-d-qeRs-rfbe hVrX-u-Oud Ya-hVrX-Vo-b Vo-YnR-PbW TQPo-rfbe-CyhrNEY TU-KCI-PFSN u-Oud-qeRs KCI-jiy-g-qeRs hVrX-TQPo-d e-reN-b-bRtF PFSN-jiy-uVeO Oud-u-uVeO Ya-qeRs-uVeO 
+Oud-rfbe-PFSN rfbe-f-qeRs b-b-g qeRs-u-e rfbe-YnR-BxO e-e-TQPo-TQPo TU-uVeO-rKH-YnR hVrX-rKH-eOB Vo-bRtF-u Vo-e-rKH TQPo-CyhrNEY-YnR d-bRtF-rfbe KCI-Ya-KCI-bRtF TU-TQPo-jiy-KCI YnR-f-uVeO CyhrNEY-hN-W TU-fCD-BxO rKH-d-e uVeO-b-g fCD-jiy-TQPo e-Oud-Ye fCD-PFSN-qeRs PbW-W-CyhrNEY f-hN-hN TU-fCD-jiy g-u-Ye-qeRs rfbe-jiy-W TU-PbW-CyhrNEY bRtF-PFSN-KCI bRtF-f-u rKH-f-jiy Oud-f-hN TQPo-f-hVrX-f Vo-fCD-rKH Vo-qeRs-TU reN-PbW-TU jiy-W-BxO-fCD uVeO-W-bRtF reN-W-TQPo qeRs-bRtF-Vo eOB-e-eOB-g TQPo-Oud-Oud TU-KCI-W TU-TQPo-qeRs CyhrNEY-BxO-Ye bRtF-rKH-Ye TQPo-TU-rfbe b-rKH-d-b hVrX-W-fCD PFSN-TU-f rfbe-PFSN-W qeRs-YnR-uVeO Oud-rKH-fCD-PFSN Vo-BxO-Ya CyhrNEY-fCD-qeRs jiy-CyhrNEY-Vo rfbe-hN-reN-e uVeO-reN-b TU-b-W fCD-e-KCI rfbe-bRtF-TU fCD-g-d PbW-KCI-TQPo uVeO-PbW-PFSN rKH-b-jiy bRtF-bRtF-f e-TQPo-reN YnR-hVrX-d hVrX-jiy-jiy Ye-g-Vo-YnR BxO-fCD-hVrX-jiy rfbe-KCI-BxO Vo-PbW-Ya-fCD Ya-Ya-e e-hN-Ye u-f-hVrX-Ya e-Ye-jiy d-Ye-CyhrNEY PFSN-CyhrNEY-b Ye-Vo-jiy CyhrNEY-d-e-Vo u-hVrX-e bRtF-Oud-jiy-f Ya-hVrX-KCI TQPo-g-eOB fCD-CyhrNEY-uVeO-KCI u-hVrX-PbW-Oud d-TU-Ya-f reN-rKH-jiy d-Vo-KCI rKH-BxO-TQPo eOB-f-reN YnR-uVeO-eOB rfbe-YnR-u-fCD d-fCD-BxO bRtF-u-TU Vo-Oud-u bRtF-d-uVeO-u Ye-Oud-f TU-rfbe-hVrX 
+PbW-BxO-rfbe e-g-W-eOB b-YnR-d Ye-uVeO-f u-e-hVrX d-u-BxO W-PbW-PFSN YnR-rfbe-W u-Ye-e CyhrNEY-PFSN-Ye b-PFSN-Ya Vo-fCD-Ye-e hVrX-reN-Vo d-PbW-hN CyhrNEY-KCI-hN KCI-hN-b d-e-rKH BxO-Ye-PbW Ye-BxO-rfbe fCD-TU-W-BxO Oud-Ye-hVrX uVeO-TU-PbW hVrX-eOB-TQPo f-uVeO-rKH f-b-hN fCD-b-g fCD-TU-PFSN KCI-rKH-qeRs TU-bRtF-Oud-d rfbe-TQPo-BxO YnR-Ya-hN-fCD rfbe-jiy-uVeO d-W-u Ya-uVeO-Vo fCD-TQPo-W-rKH Oud-g-qeRs e-uVeO-Ye f-Vo-uVeO f-g-f fCD-uVeO-uVeO PFSN-f-eOB-Oud hVrX-rKH-Ye Oud-uVeO-rKH CyhrNEY-Ye-rKH uVeO-fCD-PFSN jiy-reN-bRtF KCI-Oud-CyhrNEY u-CyhrNEY-bRtF g-d-bRtF-YnR TU-g-eOB PbW-YnR-e Ye-W-e-eOB BxO-qeRs-b g-hN-YnR PFSN-W-TU fCD-Ya-eOB e-reN-hVrX-PbW eOB-e-PFSN rKH-e-eOB g-BxO-e KCI-BxO-YnR TQPo-PFSN-d Oud-CyhrNEY-Vo jiy-PFSN-uVeO W-e-u rKH-Ye-PbW Vo-u-PbW BxO-u-reN e-jiy-bRtF rfbe-hN-W CyhrNEY-uVeO-CyhrNEY BxO-Oud-YnR rfbe-BxO-PFSN Ye-Vo-PFSN-Ya rKH-u-rfbe-e BxO-uVeO-PFSN TQPo-f-TQPo-uVeO bRtF-b-uVeO f-YnR-W CyhrNEY-fCD-W TQPo-e-u reN-TQPo-eOB TU-reN-rfbe eOB-BxO-eOB eOB-TU-Oud f-W-CyhrNEY bRtF-rKH-hN-f eOB-W-Vo W-uVeO-eOB W-Vo-jiy u-KCI-Oud-TU KCI-BxO-d rfbe-CyhrNEY-e Vo-rKH-b Ya-Oud-hN KCI-PbW-BxO qeRs-qeRs-qeRs reN-reN-f jiy-b-CyhrNEY TU-Ye-PbW 
+qeRs-TU-fCD e-bRtF-fCD PFSN-Vo-f u-e-hN KCI-W-W rKH-Ya-PbW YnR-hVrX-f W-qeRs-Ye Ya-jiy-Ya rKH-reN-PbW rKH-Ye-uVeO bRtF-fCD-TU rKH-YnR-rKH u-qeRs-Ye-TU bRtF-uVeO-Vo W-KCI-rKH-rKH PbW-Ya-rfbe-b d-PbW-e PbW-Vo-f KCI-Ya-CyhrNEY KCI-Oud-TQPo Ya-u-CyhrNEY rfbe-BxO-uVeO CyhrNEY-f-f-Oud rfbe-u-rKH Oud-hVrX-eOB-PFSN Oud-PFSN-jiy f-reN-PbW rfbe-qeRs-eOB b-jiy-TQPo-CyhrNEY hVrX-hN-Ya rfbe-rfbe-PbW Ya-u-bRtF rfbe-b-TQPo eOB-KCI-uVeO KCI-CyhrNEY-d g-TQPo-Ya-hVrX KCI-PFSN-Ya e-Vo-g b-b-reN fCD-rKH-b W-YnR-fCD reN-fCD-Ye hN-Vo-TU-Oud uVeO-rKH-uVeO jiy-bRtF-BxO TU-W-CyhrNEY-BxO PbW-PFSN-YnR Ya-TQPo-jiy rfbe-reN-rfbe-e d-bRtF-rfbe-TU PbW-eOB-TU-YnR reN-W-u-Oud reN-reN-hVrX W-f-hN PbW-CyhrNEY-qeRs qeRs-W-rKH-Ya W-PFSN-KCI qeRs-Oud-f fCD-Ya-qeRs hN-d-u e-d-hN-Ya rfbe-hN-g e-qeRs-Vo-BxO hN-TU-YnR YnR-uVeO-fCD u-Oud-u-uVeO jiy-e-CyhrNEY g-W-TU TQPo-f-reN W-g-Vo d-u-PFSN Ya-d-d Vo-YnR-KCI eOB-rKH-TU rfbe-hVrX-BxO Vo-hN-d-bRtF KCI-u-PbW eOB-TQPo-bRtF reN-f-d Vo-Vo-bRtF Ya-hVrX-TQPo-CyhrNEY f-Oud-Ye Vo-e-KCI-rKH hVrX-hN-hN b-rfbe-PbW-rKH jiy-hVrX-e Vo-YnR-b PFSN-Vo-jiy-rfbe hVrX-hN-Oud-b e-qeRs-Oud-uVeO f-W-PFSN-d W-rfbe-KCI BxO-YnR-reN TQPo-u-g KCI-KCI-eOB hN-KCI-b jiy-bRtF-KCI CyhrNEY-Oud-TU BxO-b-TU 
+reN-hN-g YnR-KCI-Vo-TQPo e-TU-PbW CyhrNEY-W-hVrX reN-reN-Ye W-W-jiy TQPo-YnR-e W-reN-f PFSN-d-eOB qeRs-rfbe-eOB TQPo-qeRs-fCD uVeO-d-hN-g W-Ya-PbW uVeO-b-TU f-d-W-W Oud-e-hVrX Oud-rfbe-d W-d-Vo-qeRs u-qeRs-jiy qeRs-hVrX-reN TU-hN-CyhrNEY BxO-eOB-g jiy-YnR-BxO-YnR fCD-eOB-reN rfbe-hVrX-fCD Oud-uVeO-hVrX e-CyhrNEY-hVrX TU-Ye-eOB jiy-rfbe-YnR qeRs-b-Vo jiy-qeRs-YnR BxO-fCD-bRtF W-fCD-PbW PbW-bRtF-YnR d-YnR-hVrX fCD-Ya-TU Ya-YnR-KCI-rKH g-Vo-uVeO PbW-e-b-qeRs rfbe-f-rfbe eOB-CyhrNEY-Oud bRtF-PFSN-rfbe BxO-reN-hVrX qeRs-Vo-jiy qeRs-bRtF-b d-Oud-Ye Ya-jiy-b reN-fCD-rKH-Vo CyhrNEY-u-Ye KCI-KCI-f Vo-d-u-e bRtF-PFSN-YnR hVrX-rKH-rKH-e TQPo-PFSN-hVrX CyhrNEY-fCD-d-bRtF bRtF-u-d-Ya Ye-qeRs-u-bRtF bRtF-fCD-PbW PbW-YnR-W Ya-b-PFSN-PbW rKH-b-hVrX-PbW f-CyhrNEY-rfbe rKH-Vo-qeRs-hVrX Vo-reN-bRtF-uVeO g-u-bRtF fCD-rfbe-rfbe Ya-KCI-PFSN TQPo-TQPo-Ye-PbW W-W-f d-hVrX-f u-bRtF-rfbe d-hVrX-bRtF bRtF-e-hN-TQPo rfbe-qeRs-rKH b-W-d PbW-rfbe-rKH Oud-Vo-Oud-TU hVrX-g-rKH uVeO-reN-YnR Ya-KCI-Vo-b hVrX-W-d rfbe-uVeO-rfbe YnR-uVeO-bRtF u-eOB-Oud eOB-Ye-hVrX uVeO-u-u jiy-CyhrNEY-bRtF YnR-rKH-rKH eOB-Ya-YnR KCI-W-CyhrNEY e-b-rKH f-Ye-d u-Vo-rfbe BxO-W-CyhrNEY-hN TQPo-PbW-bRtF jiy-hVrX-qeRs eOB-Ya-g u-reN-hVrX rKH-Vo-CyhrNEY-hVrX Ye-d-Ye 
+W-g-d-TU bRtF-PbW-PFSN Vo-b-PbW-b jiy-hN-g d-YnR-PbW-qeRs Ye-Ya-TU-hVrX PbW-TU-Oud rfbe-hN-e W-Ye-KCI TU-KCI-TU hN-BxO-hVrX CyhrNEY-PFSN-d hVrX-g-rKH-qeRs Oud-jiy-hN e-eOB-PbW f-f-PFSN g-Vo-eOB-rKH eOB-TQPo-u Ya-hVrX-TQPo-e jiy-KCI-uVeO-PbW PFSN-hN-Ya TU-qeRs-Oud hN-KCI-reN Oud-TQPo-PFSN YnR-f-Oud-hVrX rfbe-CyhrNEY-PFSN Ye-hVrX-rKH-Ya Ye-hN-uVeO e-BxO-Vo-KCI reN-Vo-KCI TU-g-Ya-g Ya-d-W TU-hVrX-u Ya-g-W TU-BxO-jiy d-W-g KCI-f-reN-f uVeO-jiy-KCI g-eOB-hN g-W-Ya bRtF-hN-Oud-u u-g-Ya-Ya Oud-Vo-BxO rfbe-BxO-bRtF-Vo e-e-W Oud-d-d-fCD CyhrNEY-rfbe-uVeO Oud-eOB-CyhrNEY Ya-hVrX-KCI-g KCI-BxO-PbW reN-TQPo-e-TQPo Ya-Ya-Vo-reN YnR-reN-bRtF uVeO-PFSN-e BxO-rfbe-Ye CyhrNEY-u-fCD Ye-bRtF-qeRs-d rKH-jiy-b BxO-W-hVrX-hVrX qeRs-PFSN-d-eOB Ye-PFSN-f reN-g-rfbe bRtF-reN-PbW hN-CyhrNEY-CyhrNEY-rfbe f-CyhrNEY-hN-Oud jiy-g-Ye bRtF-eOB-bRtF rfbe-Ye-CyhrNEY Ye-qeRs-TQPo Ya-uVeO-uVeO b-jiy-Oud rfbe-rfbe-reN hN-eOB-g-TQPo rfbe-f-d g-g-TU fCD-uVeO-jiy reN-fCD-Ye-qeRs reN-TQPo-jiy CyhrNEY-Oud-TU-uVeO fCD-hN-TQPo Ye-PFSN-g Vo-e-Ye Ya-eOB-bRtF bRtF-reN-e jiy-YnR-bRtF W-Vo-PFSN Oud-Vo-CyhrNEY fCD-g-Ye f-Ya-e-Vo b-CyhrNEY-f eOB-YnR-rKH rfbe-g-BxO u-e-Ya-YnR Vo-reN-e jiy-d-Vo Ya-qeRs-fCD hVrX-e-Oud-W KCI-KCI-qeRs TQPo-rfbe-Vo bRtF-jiy-TU 
+g-Oud-uVeO CyhrNEY-rKH-KCI CyhrNEY-W-b fCD-reN-PbW uVeO-bRtF-BxO g-qeRs-Oud-Vo qeRs-bRtF-jiy reN-fCD-fCD g-qeRs-reN bRtF-CyhrNEY-Ya rfbe-TU-e-d eOB-KCI-rKH e-CyhrNEY-Ya CyhrNEY-TQPo-hVrX-Ya hVrX-e-hVrX qeRs-reN-b-d fCD-Ye-f CyhrNEY-Ya-qeRs jiy-KCI-TU YnR-Vo-f b-b-CyhrNEY TU-eOB-CyhrNEY-YnR u-eOB-reN CyhrNEY-hN-u-Ya KCI-PFSN-f TU-TQPo-TQPo TU-hVrX-CyhrNEY u-uVeO-rKH-d PFSN-Ya-reN b-e-Vo-Ya TQPo-CyhrNEY-W g-rfbe-TQPo-PFSN jiy-rKH-rKH-u fCD-YnR-BxO BxO-bRtF-b BxO-hVrX-TQPo-TQPo bRtF-f-Oud-fCD KCI-Ya-Oud qeRs-reN-rfbe-Ye W-fCD-TU f-Oud-hVrX reN-BxO-W Ya-YnR-qeRs-BxO qeRs-TQPo-d TU-rfbe-Ye b-qeRs-TQPo-PFSN Vo-eOB-g hVrX-qeRs-BxO rfbe-Ye-W u-eOB-CyhrNEY W-f-TU-f bRtF-Vo-fCD PFSN-BxO-TQPo-d Oud-f-PbW hVrX-jiy-PbW b-fCD-KCI f-hVrX-u KCI-eOB-PFSN-TQPo BxO-PFSN-jiy qeRs-bRtF-CyhrNEY TQPo-PFSN-g-PFSN W-e-uVeO TU-W-TU W-f-CyhrNEY fCD-rfbe-e e-YnR-qeRs Ya-rKH-eOB eOB-e-hN-b bRtF-W-fCD-PFSN rfbe-eOB-b-e rKH-PbW-e jiy-uVeO-Ye hN-qeRs-bRtF u-KCI-CyhrNEY TU-e-rKH hVrX-fCD-f PFSN-Oud-KCI fCD-eOB-f qeRs-KCI-PbW W-e-W-reN fCD-CyhrNEY-Ye-reN u-PFSN-PbW CyhrNEY-hN-hVrX-uVeO KCI-reN-reN jiy-qeRs-KCI Ye-TU-g TQPo-eOB-u u-Vo-PFSN uVeO-Vo-u YnR-Vo-e reN-TU-TU BxO-reN-b-Ye u-rfbe-b qeRs-TQPo-e-Ya reN-uVeO-reN PFSN-jiy-TU-g YnR-fCD-W YnR-CyhrNEY-eOB-reN u-Ye-YnR qeRs-PbW-PFSN-Oud 
+YnR-Oud-jiy bRtF-BxO-PFSN Vo-W-KCI bRtF-qeRs-d rfbe-Ye-PFSN eOB-reN-rKH uVeO-TU-TU e-YnR-Ye-Ye Ya-PbW-PFSN TU-reN-PFSN fCD-e-Vo TU-eOB-rKH TQPo-jiy-TU TQPo-qeRs-f-Vo rfbe-TQPo-e CyhrNEY-u-reN f-hVrX-W BxO-jiy-eOB BxO-qeRs-fCD TU-b-Vo Ye-Oud-bRtF TU-Ya-rKH-uVeO CyhrNEY-b-fCD Ya-g-jiy g-Vo-b f-TQPo-reN TU-uVeO-Ye u-e-eOB e-hN-eOB PbW-e-PbW bRtF-d-jiy d-Vo-g-Ye BxO-hN-Vo rfbe-rfbe-d qeRs-Oud-W CyhrNEY-Ye-eOB b-CyhrNEY-rfbe qeRs-PFSN-PFSN TQPo-KCI-PbW reN-CyhrNEY-YnR-f Ye-rfbe-rfbe TU-BxO-rKH BxO-rfbe-jiy Ya-hN-hVrX Ya-f-uVeO u-hVrX-W-bRtF Vo-PFSN-reN-rKH u-YnR-bRtF PbW-TQPo-reN-reN uVeO-jiy-PbW TQPo-TU-Ye d-jiy-W-qeRs Ye-uVeO-u PbW-Oud-rKH bRtF-TU-Oud-bRtF YnR-KCI-fCD CyhrNEY-Ya-eOB-Vo eOB-W-W PbW-bRtF-d-Ya Oud-CyhrNEY-Vo-TU Ya-f-uVeO-jiy BxO-Vo-f hVrX-f-eOB-rKH bRtF-PFSN-CyhrNEY uVeO-bRtF-PFSN-hVrX Ye-rKH-f eOB-PFSN-rKH hVrX-BxO-W e-bRtF-qeRs-qeRs uVeO-fCD-rKH jiy-reN-KCI rKH-KCI-hN-eOB d-d-reN KCI-uVeO-W-TU KCI-b-TQPo TQPo-e-g-rKH KCI-Ya-g-W BxO-Ya-reN-YnR d-jiy-qeRs-Ye f-fCD-b uVeO-f-TQPo Oud-PbW-fCD Ya-Ye-g d-jiy-Ye-reN g-CyhrNEY-CyhrNEY PFSN-e-BxO uVeO-hVrX-Vo-reN b-e-u-qeRs BxO-bRtF-TU f-Ya-e-f uVeO-f-PFSN-CyhrNEY bRtF-uVeO-CyhrNEY bRtF-BxO-reN W-bRtF-BxO-PbW bRtF-g-fCD bRtF-f-g-bRtF f-e-KCI eOB-u-f f-e-hN hN-reN-rKH 
+hVrX-Ya-eOB b-PbW-PbW u-reN-YnR Ye-BxO-hN-PbW u-W-TQPo-b e-W-BxO TU-rfbe-Ye-reN d-BxO-rfbe Vo-PbW-KCI-qeRs hN-d-TU e-hN-d YnR-rfbe-PbW g-qeRs-Ya-Oud uVeO-rfbe-f PFSN-bRtF-TU reN-Ya-Ye u-PFSN-CyhrNEY jiy-reN-W d-Vo-eOB uVeO-Ye-qeRs fCD-PFSN-eOB d-reN-hVrX reN-TQPo-hVrX hVrX-e-Ya d-PbW-Ye TU-Ye-g CyhrNEY-Oud-CyhrNEY-W hVrX-PFSN-YnR b-fCD-fCD reN-Ye-jiy e-bRtF-rfbe fCD-rfbe-KCI-b TQPo-Vo-PFSN TU-CyhrNEY-BxO fCD-d-d e-rKH-PbW-f W-YnR-hN-Ya eOB-e-eOB-qeRs Ye-f-TQPo g-eOB-jiy-BxO Ye-Ye-YnR f-hN-fCD-Ye Vo-Oud-KCI qeRs-fCD-g-hN TQPo-g-reN uVeO-W-u-CyhrNEY eOB-Ya-rfbe bRtF-Ya-rKH rKH-Ye-bRtF KCI-f-rfbe qeRs-rfbe-rfbe b-bRtF-Ya-hN rKH-b-b CyhrNEY-jiy-hVrX W-Vo-Ya hVrX-g-f e-W-eOB-reN W-KCI-W uVeO-u-e BxO-TU-PFSN-KCI PbW-u-rfbe rKH-Oud-bRtF Ye-YnR-YnR PFSN-rKH-KCI e-Ye-TU hVrX-Oud-CyhrNEY CyhrNEY-b-u-f TQPo-PbW-f TU-u-Oud fCD-qeRs-CyhrNEY-qeRs b-Vo-Ye d-f-rfbe bRtF-eOB-jiy-b g-CyhrNEY-Oud b-Vo-TU e-BxO-eOB CyhrNEY-d-PbW bRtF-d-KCI reN-jiy-bRtF W-d-TQPo rfbe-PbW-e f-Ya-PFSN b-fCD-fCD-fCD BxO-hVrX-W hVrX-KCI-qeRs-eOB hVrX-reN-eOB fCD-TQPo-BxO rfbe-Ya-g YnR-Oud-uVeO e-BxO-g PbW-PbW-W Ya-CyhrNEY-CyhrNEY rfbe-TU-YnR hN-jiy-bRtF d-reN-u u-PFSN-TQPo hN-rfbe-hN rKH-eOB-f d-W-TU u-Ye-reN 
+g-e-qeRs-hVrX Vo-u-b CyhrNEY-TQPo-PFSN-eOB YnR-u-Vo uVeO-W-YnR-e qeRs-f-Oud rfbe-TU-Oud TU-CyhrNEY-TU-TQPo fCD-hN-KCI PbW-reN-BxO BxO-CyhrNEY-Vo u-CyhrNEY-BxO rfbe-eOB-BxO hN-u-qeRs Ye-Ye-reN-uVeO hN-qeRs-Ya W-rKH-rfbe hN-Oud-reN u-reN-d-jiy reN-hN-BxO-f hVrX-Ye-YnR rKH-f-Oud qeRs-jiy-e W-b-TQPo-g e-reN-g hN-BxO-TU hN-KCI-TQPo jiy-TQPo-PbW PFSN-YnR-Vo reN-qeRs-Vo BxO-hVrX-b-CyhrNEY PFSN-PFSN-hN e-Oud-eOB uVeO-KCI-BxO jiy-hVrX-d d-BxO-Ya eOB-reN-PbW fCD-eOB-KCI hN-fCD-PbW Ya-BxO-g TQPo-u-rKH b-d-YnR-YnR reN-hN-BxO-hVrX W-bRtF-uVeO CyhrNEY-jiy-uVeO reN-b-hN Vo-hVrX-W-CyhrNEY b-BxO-Ya TU-qeRs-e rKH-Ye-YnR-TQPo rfbe-bRtF-TQPo-e Vo-qeRs-qeRs Vo-u-eOB f-uVeO-reN rfbe-f-b hN-u-CyhrNEY-fCD Ya-d-b-hN PFSN-d-u jiy-TQPo-f-TQPo eOB-g-reN-Ya qeRs-u-TU-eOB TU-reN-PFSN-PFSN hVrX-eOB-Vo Vo-bRtF-bRtF-Ya rKH-rfbe-hVrX W-f-YnR e-u-e-jiy rKH-YnR-TQPo fCD-g-KCI TU-PFSN-TQPo PbW-Oud-d Vo-KCI-bRtF TQPo-PbW-bRtF-rKH u-W-Oud TU-f-TQPo rKH-YnR-Ye-u e-uVeO-PFSN fCD-qeRs-f PFSN-jiy-e e-rKH-e Vo-YnR-PbW-uVeO eOB-TU-TQPo Vo-rKH-e PbW-Oud-KCI hVrX-Ya-Oud Ya-CyhrNEY-PbW YnR-u-uVeO YnR-W-Oud YnR-qeRs-CyhrNEY rKH-Vo-TQPo KCI-PFSN-d rKH-f-CyhrNEY reN-fCD-PFSN fCD-TU-YnR PFSN-jiy-rfbe f-TU-TU rfbe-YnR-Oud bRtF-TQPo-KCI PFSN-BxO-e-eOB u-e-KCI 
+g-hVrX-Ye-bRtF Oud-rfbe-YnR f-uVeO-e-bRtF PbW-TQPo-reN-eOB YnR-uVeO-fCD-reN hVrX-b-reN PbW-uVeO-hVrX bRtF-Oud-rKH f-Ye-uVeO rKH-fCD-Ya qeRs-TQPo-YnR TU-g-jiy W-rKH-bRtF PbW-rKH-d PFSN-Oud-CyhrNEY Ye-BxO-jiy TU-fCD-BxO-qeRs Ye-rKH-rfbe-TU hN-bRtF-BxO Ya-BxO-TU YnR-f-W hN-BxO-g uVeO-rKH-CyhrNEY fCD-bRtF-BxO hN-uVeO-bRtF-PFSN hN-Oud-rfbe-PbW PFSN-BxO-f-BxO bRtF-jiy-YnR hN-eOB-uVeO-rKH YnR-d-PFSN qeRs-TU-hVrX W-rfbe-fCD b-f-TQPo hN-reN-Ye b-rKH-f-hN eOB-rfbe-bRtF KCI-PFSN-YnR PFSN-W-eOB-rfbe KCI-rKH-d Vo-u-Ya-KCI hN-fCD-TU uVeO-Vo-qeRs CyhrNEY-rKH-TU rKH-hVrX-uVeO fCD-uVeO-bRtF g-Ya-YnR u-bRtF-jiy BxO-jiy-TU b-fCD-BxO Ya-qeRs-qeRs jiy-fCD-fCD-qeRs W-Vo-Ya-Ya Vo-b-g hVrX-BxO-jiy e-jiy-jiy bRtF-u-KCI g-eOB-BxO Ye-reN-hN Oud-BxO-reN KCI-qeRs-PbW uVeO-e-f BxO-fCD-BxO-W fCD-Vo-PFSN b-rfbe-CyhrNEY-W PFSN-PFSN-qeRs-hVrX Oud-TQPo-hN f-uVeO-hN fCD-PbW-bRtF-reN d-Ya-g fCD-TU-rKH hN-u-Oud e-Ye-Oud-reN Ya-g-g rKH-Oud-hVrX-KCI d-Oud-hN f-YnR-eOB f-Ye-f-hVrX g-Ye-W hN-Ye-W fCD-rKH-Vo-KCI YnR-Vo-rfbe e-eOB-PFSN hN-e-u-rKH eOB-Oud-reN e-e-KCI u-uVeO-bRtF PbW-bRtF-rfbe fCD-W-TU BxO-hVrX-hN-jiy rfbe-u-BxO KCI-Ya-Oud-rfbe fCD-f-KCI YnR-TQPo-reN-CyhrNEY TQPo-rfbe-b PbW-Oud-f qeRs-d-g-BxO YnR-u-KCI KCI-f-hN-PbW e-PFSN-PbW CyhrNEY-rfbe-PbW 
+Ye-fCD-eOB-W TU-hVrX-u-TQPo e-TQPo-hVrX b-TU-hN-KCI jiy-e-Ye YnR-hN-PFSN Oud-hN-Ye KCI-qeRs-fCD W-eOB-TQPo uVeO-PFSN-TU reN-e-YnR g-bRtF-hVrX-reN fCD-rKH-PbW-KCI rKH-f-TQPo PFSN-bRtF-PbW-hVrX Vo-reN-Oud PbW-d-uVeO uVeO-b-g-BxO KCI-qeRs-Ye jiy-hVrX-KCI rfbe-Ya-YnR CyhrNEY-PbW-b BxO-reN-Ya-g YnR-e-b eOB-hVrX-Vo BxO-PbW-f Ye-TQPo-uVeO rKH-CyhrNEY-Ya e-g-u f-uVeO-Vo-reN Ye-PbW-rKH-rKH TQPo-rKH-Ye u-u-Ya hN-f-CyhrNEY-TU BxO-jiy-g-e qeRs-reN-Oud-PbW eOB-rKH-W-Vo PbW-TQPo-rfbe uVeO-hVrX-YnR Ya-f-Ya Ya-KCI-reN W-Ya-Ye g-CyhrNEY-f bRtF-jiy-PFSN TQPo-uVeO-CyhrNEY-hN u-hVrX-eOB rKH-reN-PFSN-BxO reN-jiy-eOB TQPo-CyhrNEY-d-hN qeRs-PFSN-eOB bRtF-TU-Vo-qeRs rfbe-CyhrNEY-b eOB-TU-d BxO-e-Vo-g Oud-hVrX-rKH TU-Ya-qeRs TQPo-e-Ya KCI-PFSN-uVeO qeRs-Ya-Oud Ya-fCD-uVeO bRtF-CyhrNEY-Vo-g Vo-YnR-b-rfbe TU-PbW-YnR b-PFSN-PbW KCI-W-e Oud-CyhrNEY-d CyhrNEY-g-g b-jiy-fCD qeRs-bRtF-bRtF PbW-fCD-bRtF reN-u-PbW-reN TQPo-PbW-d W-d-rKH fCD-hVrX-CyhrNEY-b qeRs-b-hVrX eOB-YnR-PFSN-KCI Vo-YnR-CyhrNEY-rfbe hVrX-eOB-KCI-rfbe fCD-uVeO-CyhrNEY YnR-rKH-YnR Vo-PFSN-jiy BxO-jiy-d-g BxO-KCI-u fCD-BxO-e f-f-Ye d-fCD-fCD uVeO-CyhrNEY-TU rKH-b-d TU-Oud-PFSN reN-fCD-TQPo-bRtF qeRs-reN-g KCI-jiy-PbW rKH-KCI-Ye-Ye rfbe-YnR-CyhrNEY hVrX-rfbe-b W-PbW-jiy-jiy W-fCD-uVeO e-Ya-uVeO qeRs-bRtF-KCI hN-Vo-TU-qeRs 
+reN-d-b u-eOB-g PFSN-reN-f Ya-e-YnR W-f-reN-YnR uVeO-Oud-e-YnR Vo-reN-TU eOB-f-eOB-b Oud-BxO-BxO Oud-TU-Ye rfbe-reN-Vo qeRs-Oud-fCD-Ya bRtF-TQPo-Ya KCI-PFSN-CyhrNEY rKH-Vo-bRtF TQPo-uVeO-b TU-W-g-PFSN PbW-Ya-hVrX PFSN-YnR-W-u f-Vo-g b-TU-e eOB-W-PbW-rfbe Ye-rKH-W-hVrX hN-CyhrNEY-CyhrNEY-KCI e-TU-rKH u-Vo-BxO-f Oud-reN-Oud-b W-hVrX-uVeO u-d-f-e qeRs-PFSN-PFSN-TU hN-TU-jiy hN-u-Vo Ye-e-f KCI-rfbe-d eOB-rfbe-Oud e-PFSN-e-eOB TQPo-b-hVrX qeRs-e-eOB-TU rfbe-reN-fCD Ya-bRtF-CyhrNEY KCI-hN-KCI TU-bRtF-bRtF-e Oud-qeRs-PbW reN-TU-PFSN-uVeO Oud-b-KCI-u g-e-eOB jiy-hN-u-e CyhrNEY-rKH-YnR-f eOB-fCD-PFSN u-fCD-Oud Ya-qeRs-jiy PbW-TQPo-PFSN hVrX-CyhrNEY-TQPo-rKH hVrX-g-Ye TQPo-fCD-W-TU u-b-BxO reN-PFSN-jiy qeRs-g-PFSN-b reN-W-YnR-YnR Vo-e-eOB u-rKH-reN uVeO-Vo-g Oud-e-uVeO YnR-fCD-rfbe u-fCD-d g-u-Vo W-qeRs-f TQPo-reN-Ye Ya-W-PbW rKH-hN-e W-d-BxO-u d-u-d-fCD eOB-Ye-Ye-d u-f-PFSN rfbe-Vo-bRtF-g Oud-f-CyhrNEY TQPo-hVrX-d qeRs-rfbe-CyhrNEY-Ye Ya-bRtF-rKH-TU TU-fCD-Vo W-PFSN-Vo hVrX-rKH-Ya-YnR rKH-d-qeRs hN-hVrX-Vo rKH-bRtF-b b-KCI-uVeO fCD-e-g e-YnR-b bRtF-PbW-hN e-uVeO-eOB-YnR d-reN-BxO uVeO-fCD-hVrX bRtF-PFSN-reN rfbe-Vo-YnR Vo-eOB-uVeO e-Ye-g g-hN-hVrX BxO-rKH-Oud hVrX-PbW-TQPo BxO-qeRs-hN 
+KCI-W-W-KCI uVeO-CyhrNEY-bRtF-KCI rKH-jiy-hVrX uVeO-bRtF-W Ya-CyhrNEY-b Ya-qeRs-W W-PFSN-rKH Ya-TQPo-d-Oud Ye-qeRs-rfbe KCI-jiy-g-g KCI-TQPo-fCD-fCD Ye-reN-d fCD-d-eOB u-hN-TQPo YnR-u-W rKH-f-d eOB-Ye-qeRs Ye-Ya-PbW-jiy hVrX-hVrX-TU reN-uVeO-jiy-rKH b-b-PFSN bRtF-bRtF-jiy jiy-u-CyhrNEY KCI-d-hN reN-e-BxO-eOB PbW-Vo-b-PbW bRtF-W-PFSN rKH-b-Ye g-Ya-u hVrX-hVrX-Ye-jiy PbW-KCI-Vo-reN uVeO-f-rfbe-b reN-hVrX-BxO YnR-u-u b-hVrX-Ye CyhrNEY-eOB-reN-d f-hN-KCI f-e-fCD eOB-YnR-BxO Oud-rKH-Ye-CyhrNEY-uVeO reN-YnR-u W-Ye-hN bRtF-TQPo-PbW TU-TQPo-jiy-eOB Oud-hN-CyhrNEY rfbe-rfbe-eOB PbW-hN-rfbe-fCD hVrX-PFSN-hN hVrX-YnR-reN-bRtF TQPo-b-rfbe-d Oud-bRtF-eOB g-uVeO-g CyhrNEY-TU-rKH qeRs-TU-PbW-rfbe hVrX-hN-eOB fCD-u-reN f-bRtF-b-TQPo BxO-rfbe-Oud hVrX-TQPo-g KCI-Oud-KCI-hVrX Ya-PFSN-CyhrNEY BxO-jiy-bRtF TQPo-rKH-PbW Vo-BxO-reN b-Ye-PFSN hN-Vo-Ye-d Oud-TQPo-CyhrNEY uVeO-YnR-eOB-rfbe PbW-hVrX-d KCI-g-Oud g-YnR-Ya hVrX-bRtF-eOB Oud-Oud-qeRs-TQPo PbW-uVeO-Ya uVeO-fCD-qeRs-u u-TQPo-g d-reN-b b-u-reN-b hVrX-PbW-PbW CyhrNEY-jiy-rKH Ye-hN-reN TQPo-uVeO-CyhrNEY-reN d-KCI-rfbe BxO-Ya-PFSN hVrX-Ye-b Oud-TU-hVrX-eOB PFSN-d-qeRs-Vo b-PFSN-W TU-TQPo-hN rfbe-qeRs-KCI-g bRtF-bRtF-bRtF-CyhrNEY d-Ye-g-rKH Oud-b-b PbW-u-f g-W-qeRs eOB-Oud-hN TU-Oud-YnR CyhrNEY-KCI-e g-Oud-e Ye-BxO-hN-CyhrNEY 
+fCD-YnR-e-fCD e-b-PbW W-f-KCI f-u-Ya-Vo Ya-qeRs-PFSN reN-hVrX-YnR Ye-d-Ya Ya-g-rKH-Ya bRtF-CyhrNEY-qeRs qeRs-b-W TU-Ya-uVeO BxO-eOB-uVeO-rKH hN-Vo-bRtF Ye-u-Oud-eOB Ya-uVeO-rfbe-e PbW-e-qeRs uVeO-Ye-u Ye-e-hN-eOB KCI-qeRs-PbW-TU CyhrNEY-b-TQPo-W Oud-qeRs-CyhrNEY-eOB YnR-d-PFSN-b jiy-hN-b-PbW BxO-KCI-g e-rfbe-Ye CyhrNEY-fCD-jiy b-YnR-rfbe bRtF-PbW-YnR qeRs-d-Vo rfbe-Vo-g rKH-PbW-KCI Oud-TU-b Ye-e-hVrX jiy-jiy-reN TU-eOB-PFSN Vo-TQPo-YnR e-f-eOB e-Vo-jiy e-KCI-e qeRs-g-TQPo-KCI rfbe-uVeO-Ya Ya-TQPo-reN eOB-Ye-fCD e-g-rfbe u-rKH-d TU-TU-YnR hN-e-eOB-bRtF Ye-bRtF-qeRs-Ye reN-eOB-hN Ye-KCI-PFSN b-Vo-fCD PbW-bRtF-hN jiy-CyhrNEY-qeRs KCI-fCD-u TQPo-TQPo-CyhrNEY rKH-rKH-fCD hN-Oud-PFSN Oud-TQPo-e Ya-rfbe-eOB rKH-BxO-BxO jiy-d-u g-qeRs-eOB Vo-TU-f KCI-rKH-bRtF hVrX-rKH-Ye-eOB reN-eOB-hVrX Oud-b-u jiy-YnR-BxO-reN TQPo-g-hN hVrX-rKH-TU eOB-qeRs-u Vo-PFSN-YnR eOB-f-fCD-TU KCI-YnR-bRtF TQPo-W-Ye-TQPo KCI-d-PFSN Ye-rfbe-PbW TQPo-KCI-TU e-bRtF-g-rKH KCI-hN-hVrX PFSN-hN-f rfbe-PFSN-eOB-PFSN BxO-fCD-rfbe qeRs-W-f bRtF-rKH-KCI-rKH Vo-YnR-Vo rKH-u-uVeO W-qeRs-fCD f-PbW-KCI-u reN-hN-rfbe TQPo-rKH-u Ya-f-W Ya-PbW-PFSN-KCI BxO-jiy-TU-CyhrNEY Ya-d-e d-fCD-YnR TQPo-reN-Vo-Ya rKH-b-e PbW-CyhrNEY-d rKH-PbW-Ye 
+TU-TU-TU-Ye CyhrNEY-bRtF-TQPo u-Oud-TU W-uVeO-uVeO hVrX-W-TU f-uVeO-uVeO-Ya qeRs-f-g hVrX-qeRs-rfbe eOB-Oud-fCD-rKH b-hVrX-KCI fCD-BxO-b TQPo-rfbe-YnR b-b-f-e Oud-Ya-Oud qeRs-bRtF-W eOB-PbW-W-qeRs g-KCI-bRtF KCI-uVeO-KCI e-hN-uVeO Ya-bRtF-hN eOB-u-fCD hVrX-KCI-Oud jiy-eOB-u CyhrNEY-b-reN b-KCI-Oud KCI-qeRs-hVrX W-PbW-d f-Ye-f-TQPo PFSN-jiy-qeRs eOB-rfbe-uVeO PFSN-PbW-PbW-qeRs Ya-PFSN-Ye b-fCD-qeRs fCD-bRtF-Oud BxO-W-f hVrX-YnR-reN-reN qeRs-rKH-d TU-d-eOB KCI-b-qeRs PFSN-Vo-BxO b-Vo-b uVeO-Ya-TU-u KCI-d-TQPo eOB-jiy-YnR W-hN-f-TU rKH-W-jiy u-d-fCD Ya-f-eOB rfbe-qeRs-hN fCD-rKH-hVrX g-fCD-g b-PbW-bRtF TU-reN-f W-g-eOB d-b-rfbe uVeO-Ya-b qeRs-u-Oud d-uVeO-W KCI-eOB-Vo-qeRs reN-TQPo-Ye YnR-rfbe-Oud eOB-TQPo-Oud jiy-KCI-Ya TU-d-YnR KCI-f-rfbe-fCD eOB-uVeO-rKH-CyhrNEY Oud-f-Ye bRtF-TU-g-rfbe TU-PFSN-qeRs g-PFSN-rKH TU-KCI-e qeRs-f-Ya eOB-Vo-PFSN-CyhrNEY reN-hN-qeRs u-Ya-d Oud-YnR-g jiy-qeRs-hN reN-PFSN-TU b-YnR-qeRs-bRtF KCI-eOB-qeRs-PbW jiy-qeRs-eOB bRtF-f-d Ye-d-Vo jiy-CyhrNEY-PbW eOB-g-fCD TQPo-b-W jiy-BxO-TQPo e-b-jiy g-hVrX-CyhrNEY uVeO-jiy-hN hN-f-W-TU reN-Ya-KCI b-YnR-g TQPo-d-g-CyhrNEY Ye-CyhrNEY-PbW Ye-W-CyhrNEY-e d-qeRs-KCI e-b-Ya fCD-CyhrNEY-hN bRtF-rKH-KCI-bRtF 
+PbW-eOB-uVeO-b KCI-b-CyhrNEY PFSN-hN-eOB bRtF-hVrX-PFSN BxO-qeRs-Oud-Ye e-W-g-f TU-d-b qeRs-Ye-BxO-TU BxO-d-eOB-rfbe jiy-eOB-Ya u-Ye-rKH qeRs-KCI-PFSN-g f-W-u qeRs-b-f f-u-rfbe-KCI reN-Ye-Oud-CyhrNEY Ya-reN-rKH hN-CyhrNEY-KCI TU-PFSN-BxO hVrX-jiy-CyhrNEY-TU bRtF-qeRs-uVeO-hVrX b-g-u rKH-uVeO-jiy PFSN-fCD-PFSN-rKH e-Vo-bRtF PbW-qeRs-fCD KCI-fCD-eOB BxO-Ye-Ya d-hN-Ya-TQPo BxO-YnR-f Ya-W-TQPo bRtF-bRtF-rfbe bRtF-TQPo-KCI-Oud bRtF-rKH-u b-fCD-fCD-reN W-Vo-Vo jiy-hN-Vo TQPo-uVeO-PbW-eOB rKH-e-Oud W-jiy-Ye qeRs-bRtF-reN Ye-g-PFSN-Vo u-CyhrNEY-PFSN jiy-qeRs-Ya eOB-CyhrNEY-reN reN-g-PFSN reN-b-rfbe-u bRtF-PFSN-qeRs d-u-TU YnR-YnR-fCD f-hVrX-TQPo hVrX-rKH-d hN-W-BxO-CyhrNEY e-d-hN-CyhrNEY rfbe-TU-PFSN W-KCI-eOB W-Ya-hVrX d-W-jiy Ye-reN-b CyhrNEY-reN-reN-rfbe rfbe-KCI-d hN-jiy-jiy e-TU-jiy reN-BxO-jiy e-CyhrNEY-eOB d-PbW-reN Oud-Ye-e-CyhrNEY TU-BxO-u CyhrNEY-f-Ye qeRs-KCI-eOB reN-KCI-Ye-Ye rKH-reN-KCI W-uVeO-Vo CyhrNEY-e-g-fCD b-jiy-g-u e-TQPo-YnR TU-CyhrNEY-bRtF hVrX-qeRs-d fCD-e-Oud TQPo-g-uVeO Vo-uVeO-uVeO Ya-uVeO-b fCD-jiy-KCI CyhrNEY-PFSN-Oud-rfbe KCI-g-rfbe-hVrX hVrX-eOB-e eOB-hVrX-YnR Ya-g-CyhrNEY e-g-TU-Oud eOB-TQPo-W f-Ya-hN uVeO-reN-f rfbe-fCD-Vo-Ye PbW-CyhrNEY-f eOB-BxO-f eOB-fCD-W-fCD BxO-YnR-b eOB-rfbe-reN YnR-Vo-e-rKH YnR-BxO-jiy 
+fCD-W-CyhrNEY PFSN-rKH-rKH qeRs-uVeO-fCD-Ye eOB-g-b uVeO-f-uVeO-uVeO-eOB rfbe-e-eOB W-Vo-CyhrNEY bRtF-Ya-BxO uVeO-rKH-g e-d-d hVrX-d-g-CyhrNEY Ya-KCI-reN-CyhrNEY g-g-KCI Ya-W-fCD-PbW reN-PFSN-BxO PbW-KCI-u g-CyhrNEY-rKH PFSN-Ya-Oud bRtF-e-g e-rKH-f rKH-bRtF-bRtF-hVrX reN-Ye-bRtF PbW-Oud-W YnR-hVrX-PbW reN-PbW-KCI b-TU-g-bRtF jiy-u-e-rKH d-b-BxO-reN jiy-Ye-PFSN-f fCD-BxO-Ye reN-b-f Ye-Oud-b W-bRtF-Ye u-Vo-CyhrNEY g-hN-e-YnR hN-TU-BxO Ye-Ye-KCI-PFSN uVeO-Ye-rfbe W-KCI-KCI W-u-BxO PbW-CyhrNEY-hVrX-BxO CyhrNEY-reN-b e-hVrX-Oud Ya-rfbe-rfbe BxO-hVrX-hN-b d-KCI-Ya-qeRs YnR-BxO-rfbe-KCI YnR-PFSN-qeRs d-b-uVeO f-BxO-Ye Ya-Oud-hVrX e-uVeO-fCD-d u-CyhrNEY-hN eOB-Oud-Ya Ye-CyhrNEY-YnR-f rfbe-KCI-qeRs hN-fCD-eOB CyhrNEY-d-reN YnR-rKH-rKH-W CyhrNEY-BxO-rfbe TU-rKH-jiy hVrX-Ye-W TU-fCD-rKH uVeO-qeRs-u YnR-hVrX-YnR TQPo-fCD-eOB TQPo-eOB-hN jiy-PbW-e rfbe-bRtF-b bRtF-CyhrNEY-Oud hN-bRtF-PbW qeRs-TQPo-e-hVrX Ya-Oud-f qeRs-TU-eOB hN-bRtF-YnR fCD-f-PFSN-Oud uVeO-fCD-hN CyhrNEY-Oud-TQPo PbW-CyhrNEY-CyhrNEY g-KCI-Ya W-TQPo-bRtF-reN Vo-W-b eOB-d-b-fCD Ya-bRtF-d hN-Ya-PbW hN-Vo-eOB bRtF-hVrX-b u-eOB-rKH Oud-BxO-jiy rfbe-KCI-eOB-PbW b-Oud-g eOB-W-b eOB-CyhrNEY-CyhrNEY-d u-BxO-e fCD-hN-reN g-f-TQPo TQPo-TQPo-Ye-PbW-KCI W-Vo-g-e CyhrNEY-qeRs-Ye-PFSN rfbe-qeRs-g 
+KCI-BxO-qeRs e-jiy-reN PFSN-g-uVeO-Oud u-W-uVeO PbW-Vo-eOB W-PbW-hN-g g-g-YnR e-bRtF-rfbe-rfbe PFSN-bRtF-rfbe u-jiy-u e-YnR-reN reN-reN-uVeO g-TQPo-jiy W-reN-PbW TQPo-f-bRtF uVeO-W-Ya CyhrNEY-YnR-Vo PFSN-Vo-Ye uVeO-d-fCD-b PFSN-PbW-TQPo-Ya bRtF-PbW-TU fCD-CyhrNEY-u hN-rfbe-BxO Ye-eOB-Ye BxO-bRtF-YnR TQPo-e-u-reN Ya-rfbe-f PbW-e-b-CyhrNEY PbW-e-qeRs-Oud W-hN-BxO fCD-b-fCD TQPo-Ye-YnR d-u-g reN-f-CyhrNEY-BxO rfbe-d-fCD CyhrNEY-Vo-uVeO hVrX-f-bRtF jiy-PFSN-fCD Ya-PFSN-uVeO Ya-b-Ye Ya-Ya-rfbe-hN e-TQPo-BxO Ya-TU-g-hN jiy-uVeO-d Oud-CyhrNEY-e f-fCD-TQPo-b jiy-u-TU reN-u-hVrX eOB-W-YnR W-qeRs-Oud-b TU-d-jiy Oud-Ya-b eOB-rfbe-g g-hVrX-f b-KCI-jiy b-fCD-Ye PbW-d-fCD Ye-hN-Ye-qeRs KCI-PbW-b-TU W-Ye-reN-BxO u-PbW-hN hVrX-CyhrNEY-TU-TQPo qeRs-hN-CyhrNEY g-uVeO-u rfbe-Ya-qeRs KCI-TQPo-rKH-rfbe hN-rKH-u f-qeRs-Ye eOB-TQPo-TU Vo-rfbe-TQPo TU-f-Oud TQPo-PbW-bRtF-W Vo-e-Oud Vo-u-BxO TU-rKH-d g-rKH-g-BxO uVeO-b-qeRs Oud-reN-e f-uVeO-PbW BxO-hVrX-W-e Vo-e-fCD g-PFSN-rfbe u-PFSN-fCD-jiy KCI-fCD-BxO-BxO hVrX-e-Ya-reN BxO-bRtF-W jiy-hN-d-BxO g-TQPo-Oud jiy-YnR-e-TQPo Ya-hN-YnR qeRs-Vo-Ya hN-reN-qeRs-f fCD-u-f rfbe-reN-e hN-PFSN-hN Vo-hVrX-Vo-W d-TU-Vo-g qeRs-f-rKH TQPo-jiy-b eOB-b-qeRs 
+Vo-f-f-PFSN hN-Vo-Vo TQPo-rfbe-hVrX-g Oud-qeRs-Oud d-bRtF-d f-d-jiy Ye-hN-hVrX PFSN-u-reN u-u-rKH YnR-W-b qeRs-TQPo-f e-rKH-hN bRtF-PbW-BxO f-Ye-uVeO-bRtF CyhrNEY-PFSN-Ye-eOB Vo-PbW-eOB f-u-hN jiy-hN-Ya uVeO-qeRs-CyhrNEY b-rfbe-d CyhrNEY-YnR-Ye-CyhrNEY YnR-TQPo-TU BxO-rfbe-PFSN Oud-rfbe-rfbe-hN Ya-Ye-YnR CyhrNEY-Vo-hVrX e-hVrX-CyhrNEY bRtF-u-rfbe TU-jiy-TQPo uVeO-rKH-eOB bRtF-YnR-YnR Ya-uVeO-eOB-PbW hN-uVeO-PbW e-Ya-bRtF Ye-hVrX-PFSN PFSN-Ya-Oud-BxO uVeO-eOB-TQPo Oud-uVeO-e YnR-KCI-W TQPo-rKH-rKH Ya-g-uVeO-d qeRs-PFSN-rKH e-f-jiy d-bRtF-hN PbW-BxO-CyhrNEY-CyhrNEY TU-jiy-f PbW-bRtF-rfbe-hN hVrX-TU-Oud PFSN-hVrX-bRtF-Ye W-CyhrNEY-d PFSN-b-rKH uVeO-hN-PFSN rfbe-CyhrNEY-PFSN-PbW Ya-Ye-PbW jiy-e-uVeO f-Ye-uVeO-jiy PbW-Ye-rfbe rKH-reN-hVrX rfbe-rKH-qeRs rfbe-fCD-Vo-g PFSN-PbW-eOB KCI-Vo-KCI jiy-bRtF-rKH rKH-reN-uVeO PbW-CyhrNEY-TU fCD-d-Oud PFSN-bRtF-hVrX-TU YnR-g-BxO b-hVrX-Oud Vo-rKH-YnR YnR-jiy-jiy PbW-hN-jiy-u Oud-fCD-d PFSN-b-uVeO PbW-qeRs-uVeO W-Ye-uVeO Ye-g-fCD g-hVrX-f-hVrX TQPo-b-u-bRtF f-fCD-BxO-TQPo TU-PbW-KCI f-b-Oud u-BxO-e-eOB hVrX-d-eOB bRtF-d-Vo CyhrNEY-KCI-PFSN u-d-TQPo CyhrNEY-rfbe-d u-u-W Ya-YnR-g g-CyhrNEY-rfbe eOB-rfbe-hVrX-Ya hVrX-PbW-CyhrNEY-g g-jiy-PFSN qeRs-Ye-Ye TQPo-PbW-g eOB-fCD-e-hVrX Oud-rKH-d fCD-jiy-Ya b-rKH-b 
+TQPo-g-bRtF uVeO-d-Vo-KCI d-rKH-CyhrNEY rfbe-Ya-YnR-fCD rfbe-YnR-eOB CyhrNEY-BxO-fCD PbW-bRtF-hVrX-Ye eOB-hVrX-Vo-Vo PbW-Oud-hN TU-d-YnR-u fCD-reN-rKH Oud-bRtF-bRtF rKH-b-W-TQPo qeRs-f-uVeO Ye-jiy-hN b-CyhrNEY-uVeO TQPo-Ye-fCD hVrX-Oud-reN BxO-e-PFSN Ya-TQPo-Ye hVrX-PFSN-rKH b-f-KCI hVrX-W-reN-CyhrNEY e-CyhrNEY-TQPo-bRtF qeRs-TU-BxO KCI-PbW-Oud-PbW TQPo-hVrX-eOB PFSN-f-TQPo Ya-bRtF-b rKH-PbW-f-bRtF rKH-f-g-hVrX Oud-YnR-bRtF-g b-KCI-bRtF-W KCI-rKH-TQPo f-uVeO-hN-fCD uVeO-YnR-b e-d-KCI PFSN-PbW-qeRs uVeO-rfbe-KCI bRtF-eOB-Ye TU-KCI-qeRs-g YnR-fCD-TU Ya-KCI-TQPo qeRs-jiy-eOB rfbe-PFSN-Oud Vo-b-Oud reN-TQPo-g u-rKH-TQPo Oud-g-Vo Ya-g-PFSN BxO-fCD-g-PFSN CyhrNEY-PbW-TU-KCI BxO-e-hVrX PFSN-Ye-Oud u-eOB-uVeO qeRs-PbW-rKH f-Ya-u TQPo-qeRs-jiy hVrX-Vo-PFSN e-u-PFSN Vo-TQPo-KCI rfbe-W-Ye PbW-hN-e TU-YnR-PbW-d g-CyhrNEY-Ya hN-e-f qeRs-fCD-d-rKH TU-TU-Ye-g fCD-reN-u qeRs-u-qeRs hVrX-reN-Ya Vo-b-g-Ya W-Ya-qeRs TQPo-uVeO-uVeO u-Vo-g-KCI jiy-fCD-Vo Ya-g-Oud Ye-qeRs-Vo rKH-jiy-Oud qeRs-qeRs-e Ya-Oud-u qeRs-PbW-jiy jiy-PFSN-TU PbW-KCI-YnR Oud-hVrX-fCD-CyhrNEY TQPo-e-W jiy-PFSN-PbW-b g-rKH-jiy fCD-uVeO-PbW Vo-g-PbW BxO-YnR-Ye PbW-PFSN-qeRs bRtF-reN-BxO-fCD e-qeRs-YnR f-hN-rKH KCI-hN-u CyhrNEY-eOB-reN-e fCD-uVeO-hN u-KCI-rfbe b-b-hVrX-TQPo 
+W-YnR-f eOB-Ye-b eOB-d-d jiy-e-TQPo rKH-b-bRtF eOB-u-u f-CyhrNEY-jiy-TU uVeO-PbW-KCI rfbe-KCI-rKH-e b-eOB-TQPo qeRs-CyhrNEY-fCD Vo-g-PbW-hN Oud-Ye-Ya-Ya bRtF-PFSN-CyhrNEY-g Oud-Oud-TQPo-eOB Oud-eOB-rfbe Vo-rfbe-CyhrNEY KCI-rKH-f TU-KCI-Ya jiy-hN-Ye CyhrNEY-d-rKH qeRs-TQPo-Vo g-Vo-e reN-bRtF-hN PbW-f-Oud reN-Ya-Ye-Ya fCD-fCD-PbW Vo-eOB-reN YnR-b-e bRtF-fCD-BxO-Ye CyhrNEY-YnR-PFSN rKH-rKH-Ye PFSN-Vo-eOB Vo-jiy-CyhrNEY-uVeO TQPo-TQPo-jiy Ye-rfbe-eOB bRtF-YnR-reN b-f-rfbe PbW-bRtF-g hVrX-BxO-g-fCD reN-hVrX-jiy hVrX-Ya-rKH jiy-bRtF-Ye jiy-W-d KCI-reN-Ye qeRs-fCD-u TQPo-hVrX-rfbe-W PbW-YnR-Vo-TU reN-eOB-e-fCD b-PbW-bRtF-Ye reN-qeRs-Vo-PbW YnR-e-g KCI-fCD-TU-KCI TQPo-eOB-PbW Vo-Vo-hVrX PFSN-rKH-hVrX eOB-qeRs-Ye Ya-d-W-rfbe hN-b-KCI-e hVrX-b-g PFSN-KCI-g-Ye TU-YnR-g-KCI eOB-CyhrNEY-Ye TQPo-PbW-uVeO Ye-f-PFSN b-b-Ye-reN W-hN-rfbe-BxO fCD-W-TU-BxO Ya-fCD-bRtF-KCI TQPo-eOB-fCD rKH-eOB-f-TQPo e-rKH-TQPo u-bRtF-e hVrX-bRtF-W CyhrNEY-qeRs-reN W-g-qeRs Oud-Ye-W rfbe-e-fCD hN-b-d bRtF-e-CyhrNEY-g Oud-KCI-W eOB-CyhrNEY-PbW bRtF-Oud-BxO hVrX-e-hVrX-TU Vo-Oud-CyhrNEY eOB-bRtF-reN Vo-eOB-fCD-PbW reN-uVeO-reN-PbW rKH-g-u jiy-b-Oud-g Ya-b-hN TQPo-Vo-u-eOB YnR-YnR-CyhrNEY jiy-eOB-g hN-KCI-BxO rKH-PFSN-KCI uVeO-jiy-W W-hN-rfbe-YnR PFSN-TU-eOB e-jiy-reN-bRtF 
+ny-z-O
+800
+z-eS-oEf
+Q-Q-nqUo-OopO
+Q-LFs-LFs
+e-eS-Q
+xcE-eS-ge
+nqUo-oSz-LFs
+oSz-ehvV-eS
+e-qn-qn
+qn-oEf-nqUo
+e-KgIS-nqUo
+RS-TRh-KgIS
+Q-e
+oSz-O-ehvV-s
+Y-LFs-oEf
+Op-KgIS-BWR-s
+LFs-ny-ny
+OBbs-ge-TRh
+XgHL-ehvV-ODlr
+s-ODlr-ODlr-s
+ge-Op-ODlr
+TRh-ORj-rCzJ
+Y-oEf
+e-s-Y-O
+oEf-nqUo-LFs
+TRh-ORj-rCzJ
+qn-ORj-LFs
+Y-eS-ge-OopO
+Op-XgHL-ORj
+e-s
+Op-e-qn
+nqUo-RS-rCzJ
+z-s-BWR-ge
+OBbs-XgHL-uoq
+ORj-e
+oSz-rdUi-ORj-OBbs
+XgHL-ge-xcE
+ODlr-rCzJ-nqUo
+ODlr-TRh-RS
+ORj-oSz-ge-Q
+RS-ny-e-e
+rdUi-NGM-eS
+qn-BWR-ny
+ehvV-RS-uoq
+LFs-O-nqUo
+Op-qn-OBbs
+ODlr-uoq-ODlr
+TRh-O-KgIS
+RS-eS-xcE
+TRh-Op-OBbs-ODlr
+oSz-ODlr-e
+ORj-nqUo
+KgIS-eS-qn-BWR
+Op-z-OopO-Op
+uoq-TRh-BWR
+XgHL-ge-nqUo
+qn-XgHL-ehvV
+ge-ny-NGM-ORj
+ny-ODlr-e
+OBbs-BWR-nqUo
+O-Q-ODlr
+XgHL-s-rdUi-ny
+xcE-eS-ge-ge
+XgHL-Q-ODlr
+LFs-oSz-NGM
+Op-oSz-TRh
+oSz-ny-ODlr
+z-NGM-nqUo
+xcE-s-Y
+ODlr-Q-ge
+rCzJ-KgIS-RS
+RS-OBbs-ny
+eS-ehvV-NGM-nqUo
+oEf-qn-OBbs-uoq
+XgHL-ge-qn
+rCzJ-s-ge
+z-s-BWR-ge
+oSz-XgHL-O
+z-ge-xcE
+eS-XgHL-eS
+eS-ehvV
+LFs-oSz-NGM
+ny-Y-OBbs
+O-ehvV-ge
+Op-ODlr-O
+O-KgIS-s
+eS-eS-ge-OBbs
+ny-KgIS-Y
+RS-NGM-LFs
+XgHL-TRh-oEf-xcE
+oSz-KgIS-TRh
+z-oSz-Op-Y
+oSz-z-Y
+OopO-KgIS-ny
+TRh-ORj-Op
+RS-TRh-KgIS
+ORj-z-ehvV
+OBbs-NGM-BWR
+z-uoq-LFs
+Op-XgHL-O-XgHL
+rdUi-e-eS
+NGM-XgHL-uoq
+uoq-e-z-Op
+Y-ge-NGM
+s-LFs-eS
+XgHL-nqUo-eS
+ge-Op-O
+ge-ehvV
+OBbs-Y-KgIS
+xcE-qn-Q
+TRh-ny
+TRh-qn-e
+KgIS-LFs-xcE
+oSz-qn-BWR-s
+O-uoq
+e-XgHL-rdUi
+oSz-ehvV-ODlr
+XgHL-nqUo-eS
+e-oSz-uoq-OopO
+xcE-qn-NGM
+qn-ODlr-LFs
+ny-OopO-OopO
+KgIS-Q-ODlr-ge
+O-KgIS-Y
+z-Op-RS
+KgIS-ORj-NGM
+LFs-rdUi-XgHL
+rCzJ-e-eS-RS
+Y-OopO-oEf-OBbs
+OopO-Q-ORj
+ehvV-O-XgHL
+XgHL-eS-Op-e
+ORj-Y-oSz
+KgIS-Q-ODlr-ge
+TRh-oSz-nqUo
+s-xcE-z-Op
+OBbs-eS-z
+ORj-OBbs-e
+s-rCzJ
+RS-Y-z
+LFs-ge-nqUo
+e-ny-KgIS-e
+KgIS-BWR-eS
+LFs-Y-oEf
+NGM-XgHL-uoq
+eS-XgHL-eS
+eS-oEf-oEf
+oSz-XgHL-O
+ehvV-O-ORj
+Op-BWR
+ehvV-XgHL-xcE-qn
+Q-uoq-qn
+Y-Op-Op
+s-BWR-BWR
+ORj-NGM-OopO
+OopO-Op-ge
+oEf-s-oSz
+ODlr-z-nqUo
+LFs-OBbs-oSz-Q
+ODlr-LFs-rCzJ-ny
+ORj-xcE-xcE
+rCzJ-eS-uoq
+oEf-qn-OBbs-uoq
+OopO-oEf-BWR-s
+Y-rdUi-oEf
+LFs-OopO-Q-XgHL
+qn-TRh
+NGM-e
+oSz-eS-OopO-z
+Y-Y-TRh
+ge-XgHL-s-Y
+z-KgIS-xcE
+ny-eS-oSz
+TRh-oEf-BWR
+ORj-LFs
+O-LFs-ge
+uoq-e-XgHL
+OBbs-xcE
+ny-NGM-TRh-ehvV
+rCzJ-BWR-BWR
+xcE-oSz-xcE
+ORj-XgHL-XgHL
+KgIS-xcE-Q-ny
+eS-uoq-rdUi
+BWR-LFs-OBbs
+XgHL-rdUi-qn
+e-ehvV-rCzJ
+ehvV-Y-rdUi
+rdUi-LFs-LFs
+LFs-ge-uoq
+ODlr-ge-Op
+nqUo-rCzJ-s
+KgIS-LFs-uoq
+uoq-XgHL-OBbs
+eS-OBbs-ny
+z-s-BWR-ge
+eS-rCzJ-z
+BWR-Y-s
+RS-RS-KgIS
+e-TRh-ORj-s
+XgHL-ge-z
+OopO-uoq-oSz
+nqUo-oSz-OopO-ehvV
+XgHL-ehvV-ORj
+Y-OBbs-OopO
+LFs-ehvV-NGM-TRh
+ODlr-ge-oSz
+NGM-ge-qn
+qn-OopO-nqUo
+KgIS-z-s
+uoq-e-z-Op
+RS-oEf-OopO-OBbs
+NGM-xcE-NGM-Op
+ge-KgIS-Y
+uoq-e-z-Op
+XgHL-nqUo-oSz
+OopO-ORj-Y
+e-qn-e
+RS-ORj-RS
+oEf-rdUi-ORj
+Q-oSz-s
+ODlr-nqUo-s
+OopO-Q-LFs
+ehvV-ny-TRh-Q
+Y-NGM-ge
+ny-xcE-oEf
+O-rdUi-TRh
+OopO-ge-Y
+Op-oEf-Q
+oSz-qn-Op-Q
+z-xcE-uoq
+RS-ODlr-ge-Q
+e-XgHL-NGM
+oSz-O-ehvV-s
+OopO-ORj-Y
+BWR-ODlr-s
+TRh-qn-e
+LFs-oEf-uoq
+s-ORj-ny-ny
+ehvV-qn-O
+O-KgIS-s
+uoq-RS-e
+rdUi-OopO-rCzJ
+uoq-Y-BWR
+rdUi-XgHL-oSz
+Op-nqUo-Y-Y
+s-oSz-TRh
+OopO-ODlr-eS
+O-oEf-Op
+XgHL-Op-RS
+e-ORj-ORj-qn
+NGM-qn-ny
+qn-z-LFs-XgHL
+Y-NGM
+e-rdUi-O
+OBbs-LFs-ODlr-XgHL
+XgHL-eS-Op-e
+e-oEf-OopO-nqUo
+e-XgHL-TRh
+RS-ODlr-oSz
+NGM-qn-ny
+qn-ORj
+nqUo-BWR
+oSz-ORj-rdUi
+Op-Y-KgIS
+Q-OopO-BWR
+OBbs-ORj
+ODlr-s-KgIS
+O-TRh-rdUi
+Q-NGM-s
+qn-Y-TRh
+rdUi-Y-nqUo
+NGM-xcE-rdUi
+oEf-e-OopO
+XgHL-oEf-rCzJ
+OopO-rCzJ-nqUo
+qn-ORj-s
+LFs-KgIS-NGM
+eS-z-uoq
+e-xcE-rdUi
+nqUo-BWR-rCzJ
+ny-ge-ORj
+NGM-eS-Y
+OBbs-RS-RS
+Y-z-O-TRh
+OopO-ge-NGM
+eS-rCzJ-TRh
+KgIS-nqUo-Op
+oEf-TRh-rdUi-oSz
+Y-TRh-eS-O
+LFs-O-qn
+ny-Y-ehvV-ge
+ehvV-O-BWR
+rdUi-nqUo-OBbs-eS
+KgIS-nqUo-ORj
+OopO-oEf-BWR
+Q-Q-ehvV
+TRh-KgIS-BWR
+Op-nqUo
+RS-eS-xcE
+xcE-qn-Q
+Op-KgIS-rCzJ
+rdUi-ehvV-uoq
+O-z-BWR
+ORj-rCzJ-e
+TRh-oSz-uoq
+OBbs-ny-Q
+ge-ehvV
+z-xcE-uoq-z
+s-oEf-Y-Y
+rdUi-BWR-nqUo
+Y-rdUi-oEf
+RS-TRh
+ORj-xcE-LFs
+e-ge-qn-eS
+OBbs-OopO-rCzJ
+z-eS-Y-RS
+BWR-XgHL-XgHL
+O-NGM-LFs
+OopO-ODlr-Q
+ny-NGM-TRh-ehvV
+e-NGM-e
+ehvV-O-XgHL
+Y-rdUi-Q
+BWR-Q-Q
+oEf-ehvV-KgIS
+uoq-ORj-Q
+OopO-ge-NGM
+e-Op
+xcE-NGM-RS-ge
+OopO-ny-ODlr-OBbs
+BWR-s-ehvV
+ORj-oSz
+ORj-LFs-LFs
+Op-eS-s
+Q-uoq-qn
+Y-ge-OBbs
+ODlr-s
+rCzJ-eS-uoq
+eS-nqUo-KgIS
+BWR-nqUo-rdUi
+nqUo-RS-rCzJ
+oEf-Y-RS-TRh
+nqUo-ehvV-z
+oEf-qn-OBbs-uoq
+O-ehvV-ge
+rdUi-Y-eS
+oSz-ODlr
+XgHL-TRh-oEf-xcE
+oEf-OopO-rdUi
+NGM-xcE-Q-LFs
+Op-s-oSz-OBbs
+OBbs-NGM-BWR-BWR
+xcE-z-ny-s
+ge-uoq-z
+TRh-e-xcE-NGM
+e-Y-Y
+qn-RS-ny
+ny-ge-ORj
+OBbs-eS-Op-KgIS
+ODlr-oSz-BWR
+XgHL-Q-nqUo
+XgHL-nqUo-eS
+OopO-ehvV-ny
+qn-ORj-ge
+Y-ODlr
+rCzJ-nqUo-ODlr
+ODlr-rdUi-KgIS
+OBbs-oEf-qn
+BWR-XgHL-xcE
+Y-OopO-z
+xcE-Y-NGM
+Op-rCzJ-s
+XgHL-xcE-Op
+nqUo-ny
+s-e-TRh
+ORj-Q-eS
+ODlr-OBbs-ge
+oSz-ehvV-oEf
+Q-e-s
+nqUo-ODlr-RS
+TRh-qn-e
+uoq-Y-BWR
+xcE-OopO-xcE
+OopO-Q
+Op-Y-KgIS
+ORj-z-ODlr
+oSz-nqUo-oSz
+rdUi-BWR-ehvV
+rCzJ-ny-qn
+uoq-s-KgIS-OopO
+eS-Op
+RS-OBbs-oSz
+RS-RS-OopO
+xcE-e-XgHL
+oEf-TRh-O
+ehvV-ny-RS
+z-rCzJ-rdUi
+s-qn-XgHL
+z-eS-ORj
+s-KgIS-XgHL
+OBbs-nqUo-OBbs-Q
+XgHL-z-Y
+XgHL-ge-BWR
+Op-OopO-z
+e-OopO-rdUi
+BWR-oEf-OopO
+BWR-Op
+KgIS-nqUo-ge
+BWR-Y-ehvV
+OopO-KgIS-rCzJ
+LFs-oSz-NGM
+xcE-xcE-z
+ORj-XgHL-XgHL
+eS-ODlr-NGM
+OopO-ny-Y
+e-ge-TRh
+TRh-e-rCzJ
+NGM-ge-ehvV
+oSz-NGM-z
+ORj-OBbs-e
+oSz-LFs-s
+s-ny-uoq-NGM
+Q-Q-nqUo-OopO
+BWR-NGM-OopO
+OopO-qn-rCzJ
+rCzJ-s-eS
+OBbs-e-ehvV
+oSz-BWR-Y
+ehvV-O-XgHL
+OopO-ODlr-RS
+eS-e-eS
+Op-e-OBbs
+LFs-Y-eS
+OBbs-oSz-RS
+z-e-OopO
+z-oSz-BWR
+qn-ehvV-qn
+RS-Y-z
+OopO-ny-ODlr-OBbs
+TRh-oEf-rCzJ-LFs
+xcE-ehvV-rdUi
+s-KgIS-ge
+BWR-Q-LFs-Q
+KgIS-RS-oSz
+ny-xcE-nqUo
+RS-O-z
+ge-ge-Op
+ny-Y-O
+LFs-BWR-OBbs
+rCzJ-NGM-Y-TRh
+ODlr-Y-LFs
+s-Y-rCzJ
+OopO-ehvV-Op
+eS-uoq-z
+BWR-Y
+e-TRh-ORj
+Q-z-qn
+nqUo-rCzJ-TRh-oEf
+ge-uoq-z
+xcE-qn-Q
+Op-OopO-NGM
+rCzJ-uoq-oEf
+s-uoq-oSz
+oSz-ehvV-qn
+e-uoq-eS
+ORj-OBbs-e
+uoq-e-z-Op
+TRh-e-xcE-NGM
+Y-rdUi-oEf
+oSz-s-ge
+oSz-z-OBbs
+s-nqUo-z-RS
+O-rdUi-TRh-OBbs
+Op-ODlr-ny
+XgHL-Y-eS
+nqUo-qn-ORj
+ORj-s-KgIS
+ny-Q-BWR
+O-KgIS-Y
+BWR-LFs-e-Op
+oEf-Q-KgIS
+TRh-Op-OBbs-ODlr
+oSz-xcE-xcE
+ny-xcE-oEf-Op
+RS-eS-xcE
+Q-TRh-xcE
+ehvV-LFs-oEf
+Y-Q-nqUo
+TRh-rCzJ-NGM
+OopO-ORj-Y
+Y-ny-ehvV
+LFs-e-KgIS
+RS-ny-RS
+rdUi-KgIS-Op
+eS-OBbs-uoq
+O-ehvV-ge
+ge-uoq-z
+s-xcE-BWR
+s-xcE-Q
+nqUo-ODlr-RS
+nqUo-nqUo-s
+NGM-OopO-eS-ODlr
+ORj-Q-NGM
+eS-uoq-rCzJ
+O-Q-xcE
+LFs-eS-rCzJ
+NGM-nqUo-Q
+O-ODlr-Q
+oEf-Q-oEf-BWR
+RS-OopO-rCzJ
+xcE-oEf-uoq
+O-ehvV-ge
+e-BWR-oEf
+Op-ODlr-O
+Y-rdUi-oEf
+z-rCzJ-rdUi
+Op-ODlr-O
+LFs-Q
+ehvV
+ODlr-NGM-Op
+oSz-LFs-s
+TRh-eS-Q
+LFs-O-XgHL
+Op-oEf-Q
+z-ORj-oEf-qn
+oSz-RS-RS
+KgIS-BWR-qn
+ehvV-ge-e
+RS-rCzJ-ge
+NGM-qn-ny-O
+eS-OBbs
+ny-ehvV-NGM-Y
+O-ehvV-ge
+XgHL-nqUo-oSz
+Op-qn-OBbs
+OBbs-KgIS-ODlr-BWR
+Q-e-s
+ge-LFs-Q
+oSz-RS-OBbs
+s-OopO-e
+ehvV-oEf-rdUi
+ehvV-rCzJ
+OBbs-TRh-Q
+oEf-ge-xcE
+TRh-oSz-ODlr
+OBbs-RS-RS
+ODlr-nqUo-s
+BWR-ge
+ODlr-e-eS
+LFs-z-rdUi
+s-oEf-LFs
+rCzJ-Y-TRh
+KgIS-ODlr-NGM
+BWR-LFs-s-XgHL
+ODlr-nqUo-Y-z
+Q-xcE-rCzJ-s
+s-Op-xcE-s
+Q-s-xcE
+eS-XgHL-eS
+ehvV-O-XgHL
+ODlr-rCzJ-nqUo
+oSz-qn-BWR-s
+XgHL-ge-BWR
+Q-OopO-RS-XgHL
+Op-e-BWR
+Q-xcE-rCzJ-s
+BWR-RS-Q
+OBbs-eS-Y
+s-nqUo-Y
+z-RS-eS
+ny-XgHL-eS-BWR
+NGM-OBbs-BWR
+uoq-ny-ODlr
+XgHL-oEf
+rdUi-TRh-OopO
+OBbs-Y-KgIS
+ge-qn-ny
+XgHL-s-rdUi-ny
+TRh-Q-BWR
+ge-OBbs-Op
+e-ny-ORj
+s-nqUo-nqUo
+ODlr-LFs-rCzJ-ny
+TRh-Op-OBbs-ODlr
+rCzJ-Op-O
+OBbs-KgIS-ODlr
+Y-ODlr
+NGM-rdUi-KgIS
+uoq-Y-BWR
+ge-O-qn-rCzJ
+oEf-LFs-TRh
+rCzJ-qn-xcE
+ehvV-oSz-Op
+xcE-qn-z
+XgHL-Q-nqUo
+TRh-Op-OBbs-ODlr
+xcE-uoq-TRh-Y
+OBbs-ny-Q
+rCzJ-O-uoq
+qn-RS-qn-RS
+ODlr-nqUo-s
+e-ge-qn-eS
+ge-ny-KgIS
+LFs-eS-rCzJ
+NGM-Q-Y
+OopO-qn-s
+eS-NGM-OBbs-rdUi
+eS-rCzJ-ge
+Y-RS-ehvV
+ODlr-KgIS
+LFs-ge-nqUo
+Op-TRh-ORj
+oSz-KgIS-ny
+ODlr-O-oSz
+oEf-xcE-nqUo
+OBbs-LFs-ODlr-XgHL
+eS-TRh-e-e
+rdUi-RS-Y
+rCzJ-Op-ge
+oEf-e-LFs
+s-XgHL-Op
+OopO-eS
+ehvV-Q
+ny-nqUo-BWR
+e-XgHL-rdUi
+e-s-Y-O
+LFs-rCzJ
+ORj-xcE-KgIS
+ehvV-eS-KgIS
+O-s-BWR
+rdUi-xcE-eS
+xcE-RS-qn
+OBbs-Y-KgIS
+Op-e-xcE
+eS-ehvV-ehvV
+TRh-ehvV-nqUo-rCzJ
+RS-nqUo-e
+OopO-ORj-Y
+ge-NGM-qn
+LFs-ORj-uoq
+rdUi-ge-z-ehvV
+qn-e-LFs
+oSz-nqUo-ge
+rCzJ-BWR-ehvV
+ODlr-uoq-ge
+Q-nqUo-s
+oEf-XgHL-eS-TRh
+xcE-KgIS-ORj
+oSz-oSz-xcE
+rCzJ-Op-BWR
+LFs-RS-RS-nqUo
+rdUi-BWR-nqUo
+BWR-ODlr-s
+z-BWR
+e-ODlr-Op-LFs
+xcE-uoq-TRh-Y
+ORj-ODlr
+LFs-eS-s
+ORj-OBbs-e
+OopO-ODlr-ny-nqUo
+rdUi-oEf-s
+ge-ny-ehvV
+rdUi-Y-nqUo
+s-KgIS-nqUo
+BWR-rCzJ-O
+TRh-e-LFs
+uoq-z
+nqUo-Op-z
+oEf-ORj-oSz-KgIS
+oEf-s-oSz
+s-Q-O
+XgHL-uoq-nqUo
+oEf-nqUo-ORj
+nqUo-qn-ORj
+nqUo-qn-KgIS
+OopO-ehvV-Op
+oSz-ehvV-ODlr
+KgIS-TRh
+oSz-Op-KgIS
+oSz-LFs-s
+z-s-uoq
+ORj-OopO-ge
+TRh-KgIS-ODlr
+OBbs-oSz-RS
+e-OopO-z
+ORj-rCzJ-TRh
+nqUo-ODlr-RS
+ny-s-Op
+XgHL-ehvV-BWR
+Q-oEf-eS
+O-qn-KgIS
+RS-uoq-ODlr
+ODlr-NGM-Q
+XgHL-nqUo-eS
+s-KgIS-nqUo
+OopO-Op-O
+KgIS-Op-uoq
+BWR-BWR-OBbs
+rdUi-uoq-qn
+OopO-ORj-Y
+xcE-RS-z-ehvV
+NGM-oSz-Q
+rdUi-XgHL-s
+LFs-BWR-OBbs
+nqUo-qn
+uoq-nqUo-XgHL
+z-ODlr-Q
+O-s-Y
+qn-ehvV-qn
+ORj-rCzJ-ny
+ODlr-LFs-rCzJ-ny
+ge-NGM-z
+qn-Op-qn
+XgHL-ge-BWR
+O-ODlr-ge
+rdUi-ORj-z
+qn-s-XgHL
+LFs-OopO-LFs
+LFs-KgIS-z
+OopO-RS-Op
+NGM-e-OBbs
+Q-NGM-s
+Y-O-e
+RS-ny-oSz-rCzJ
+qn-RS-eS
+OopO-ehvV-Op
+ehvV-O-XgHL
+ORj-OopO-ge
+xcE-ehvV-ehvV
+BWR-OBbs-BWR
+ehvV-BWR-e
+OopO-ny-ny-OopO
+OBbs-eS-RS
+qn-ny-s-qn
+Q-qn-ny
+xcE-O-xcE
+O-eS-z
+e-ge-TRh
+ny-Op-e
+Y-nqUo
+Op-rdUi-rdUi-ny
+nqUo-TRh-oSz
+s-ge-Op-Op
+ORj-xcE-nqUo
+eS-oSz-uoq
+LFs-OBbs-oSz-Q
+LFs-ehvV-rCzJ
+z-RS-BWR
+ge-ny-ehvV
+Y-LFs
+ny-ORj-LFs
+Op-oEf-uoq
+qn-qn-e-ehvV
+ODlr-ehvV-Q-s
+LFs-Q-ge
+Y-ODlr-rCzJ
+NGM-rdUi-OopO
+O-z-BWR
+rdUi-e-eS
+rCzJ-OopO-RS-KgIS
+ODlr-O-qn
+s-Q-ge
+TRh-Y-LFs
+TRh-NGM-oEf
+rdUi-rCzJ-OBbs
+e-rCzJ-RS
+Q-NGM-ge
+OopO-ehvV-uoq-uoq
+BWR-O-TRh
+ehvV-XgHL-qn
+Q-BWR
+Y-TRh-eS-O
+xcE-s-e
+OBbs-oEf
+xcE-ORj-Y
+ehvV-eS-s
+e-XgHL
+Q-RS-O
+ehvV-LFs-oEf
+OBbs-XgHL
+e-ehvV-qn
+oEf-XgHL-eS-TRh
+s-XgHL-Op
+eS-BWR-uoq
+NGM-ODlr-xcE
+uoq-TRh
+e-XgHL-ODlr
+BWR-LFs-OBbs
+s-rdUi-e
+z-O-eS
+uoq-oEf-Q
+KgIS-z-ODlr-O
+Q-BWR-xcE
+ehvV-Q-oSz
+ehvV-ODlr-Op
+Q-oSz-TRh
+Y-ehvV-e
+ORj-OopO-uoq
+TRh-Q-xcE
+eS-xcE-TRh

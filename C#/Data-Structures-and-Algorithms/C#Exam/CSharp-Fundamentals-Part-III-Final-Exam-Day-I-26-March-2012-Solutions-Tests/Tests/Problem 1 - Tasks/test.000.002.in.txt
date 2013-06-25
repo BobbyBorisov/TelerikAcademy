@@ -1,0 +1,11 @@
+10
+New 4 t 1
+New 5 T2
+New 4 t-1
+Solve
+Solve
+Solve
+Solve
+New 1 t  1
+New 1 t  1
+Solve

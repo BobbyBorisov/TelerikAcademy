@@ -1,0 +1,11 @@
+10
+New 5 T- K
+New 8 T- N
+New 8 T- 11
+New 8 T- 1
+New 8 T --
+Solve
+Solve
+Solve
+Solve
+New 1999999999 Task

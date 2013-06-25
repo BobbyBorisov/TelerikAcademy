@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KruskalAlgorithm", "Kruskal\KruskalAlgorithm.csproj", "{63080B7D-D857-48EF-A862-EFBC30815F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimAlgrithm", "PrimAlgrithm\PrimAlgrithm.csproj", "{1E1260C7-313B-492D-BC96-78D7D0DD0A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63080B7D-D857-48EF-A862-EFBC30815F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63080B7D-D857-48EF-A862-EFBC30815F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63080B7D-D857-48EF-A862-EFBC30815F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63080B7D-D857-48EF-A862-EFBC30815F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1260C7-313B-492D-BC96-78D7D0DD0A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1260C7-313B-492D-BC96-78D7D0DD0A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1260C7-313B-492D-BC96-78D7D0DD0A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1260C7-313B-492D-BC96-78D7D0DD0A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

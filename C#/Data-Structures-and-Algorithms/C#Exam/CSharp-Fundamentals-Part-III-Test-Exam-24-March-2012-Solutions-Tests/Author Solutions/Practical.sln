@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Risk Wins, Risk Loses", "Problem 2 - Risk Wins, Risk Loses\Problem 2 - Risk Wins, Risk Loses.csproj", "{C98EE9E4-B936-4781-B9C7-3DF8A795B8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5 - Connect All Cities", "Problem 5 - Connect All Cities\Problem 5 - Connect All Cities.csproj", "{8149F329-3429-49E3-BA32-F14B1562040B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4 - Reach N", "Problem 4 - Reach N\Problem 4 - Reach N.csproj", "{022B6CC5-E8D6-4050-843C-FB90A023255E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Validate HTML", "Problem 3 - Validate HTML\Problem 3 - Validate HTML.csproj", "{BEC73814-DAD3-400A-9DB6-F73ADD7C55B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - Events", "Problem 1 - Events\Problem 1 - Events.csproj", "{E5193A64-A2EF-44D9-83E8-A77E26BBAF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98EE9E4-B936-4781-B9C7-3DF8A795B8FC}.Debug|x86.ActiveCfg = Debug|x86
+		{C98EE9E4-B936-4781-B9C7-3DF8A795B8FC}.Debug|x86.Build.0 = Debug|x86
+		{C98EE9E4-B936-4781-B9C7-3DF8A795B8FC}.Release|x86.ActiveCfg = Release|x86
+		{C98EE9E4-B936-4781-B9C7-3DF8A795B8FC}.Release|x86.Build.0 = Release|x86
+		{8149F329-3429-49E3-BA32-F14B1562040B}.Debug|x86.ActiveCfg = Debug|x86
+		{8149F329-3429-49E3-BA32-F14B1562040B}.Debug|x86.Build.0 = Debug|x86
+		{8149F329-3429-49E3-BA32-F14B1562040B}.Release|x86.ActiveCfg = Release|x86
+		{8149F329-3429-49E3-BA32-F14B1562040B}.Release|x86.Build.0 = Release|x86
+		{022B6CC5-E8D6-4050-843C-FB90A023255E}.Debug|x86.ActiveCfg = Debug|x86
+		{022B6CC5-E8D6-4050-843C-FB90A023255E}.Debug|x86.Build.0 = Debug|x86
+		{022B6CC5-E8D6-4050-843C-FB90A023255E}.Release|x86.ActiveCfg = Release|x86
+		{022B6CC5-E8D6-4050-843C-FB90A023255E}.Release|x86.Build.0 = Release|x86
+		{BEC73814-DAD3-400A-9DB6-F73ADD7C55B6}.Debug|x86.ActiveCfg = Debug|x86
+		{BEC73814-DAD3-400A-9DB6-F73ADD7C55B6}.Debug|x86.Build.0 = Debug|x86
+		{BEC73814-DAD3-400A-9DB6-F73ADD7C55B6}.Release|x86.ActiveCfg = Release|x86
+		{BEC73814-DAD3-400A-9DB6-F73ADD7C55B6}.Release|x86.Build.0 = Release|x86
+		{E5193A64-A2EF-44D9-83E8-A77E26BBAF15}.Debug|x86.ActiveCfg = Debug|x86
+		{E5193A64-A2EF-44D9-83E8-A77E26BBAF15}.Debug|x86.Build.0 = Debug|x86
+		{E5193A64-A2EF-44D9-83E8-A77E26BBAF15}.Release|x86.ActiveCfg = Release|x86
+		{E5193A64-A2EF-44D9-83E8-A77E26BBAF15}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

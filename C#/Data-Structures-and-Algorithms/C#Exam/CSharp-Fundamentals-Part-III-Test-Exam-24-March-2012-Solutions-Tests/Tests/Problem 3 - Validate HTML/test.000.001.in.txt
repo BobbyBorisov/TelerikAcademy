@@ -1,0 +1,7 @@
+6
+<html><head></head><body><b><i></i></b></body></html>
+<i></i><b></b><test></test><e><taggg></taggg></e>
+<e><abv></e></abv>
+<x><y><z><a></a></e></x></y></z>
+<c><a><b></b></c>
+<i></i><i></i><i></i><i></i><i></i>

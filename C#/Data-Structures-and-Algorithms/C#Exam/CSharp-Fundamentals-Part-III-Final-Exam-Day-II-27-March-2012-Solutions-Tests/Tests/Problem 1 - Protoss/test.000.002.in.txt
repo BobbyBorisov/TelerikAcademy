@@ -1,0 +1,14 @@
+1
+5
+up upper
+lo lower
+le left
+ri right
+ce center
+3 3
+upper-left upper upper-right
+left center right
+lower-left lower lower-right
+ce
+1
+lo-ri

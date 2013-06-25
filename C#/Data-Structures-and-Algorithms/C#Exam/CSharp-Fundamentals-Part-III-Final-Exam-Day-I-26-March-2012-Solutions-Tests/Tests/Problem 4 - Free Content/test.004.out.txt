@@ -1,0 +1,36 @@
+0 items updated
+Application added
+Application added
+Book added
+Book added
+Movie added
+Movie added
+Song added
+Song added
+Song added
+Song added
+Song added
+Song added
+Song added
+Song added
+Book added
+Song added
+Song added
+Movie added
+0 items updated
+1 items updated
+Application: One; Metallica; 10; http://10.app.metallica.com
+Application: One; MetallicA; 5; http://1.app.metallica.com
+Book: One; Metallica; 1000; http://books.metallica.com/1000
+Book: One; MetallicA; 10000000000; http://10000000000.metallica.com
+Book: One; Metallica; 80; http://books.metallica.com
+Movie: One; Metallica; 13; http://13.movies.metallica.com
+Movie: One; MetallicA; 3; http://3.movies.metallica.com
+Movie: One; MetallicA; 9999999999; http://9999999999.metallica.com/9999999999/9999999999/9999999999/9999999999/9999999999
+Song: One; MetallicA; 10; http://10.metallica.com/index.php?option=com_jmarket&Itemid=49&controller=product-category&eid=52&task=show
+Song: One; Metallica; 10000000000; http://10000000000.metallica.com
+Song: One; MetallicA; 10000000000; http://10000000000.metallica.com
+Song: One; MetallicA; 11; http://11.metallica.com/webhp?sourceid=chrome-instant&ix=ieb&ie=UTF-8&ion=1#sclient=psy-ab&hl=bg&site=webhp&q=%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8%20%D1%81%D0%BC%D0%B5%20%D0%BE%D1%82%20%D0%9A%D0%B0%D1%81%D0%BF%D0%B8%D1%87%D0%B0%D0%BD%2C%20%D0%BC%D0%BE%D1%8F%20%D1%80%D0%BE%D0%B4%D0%B5%D0%BD%20%D0%B3%D1%80%D0%B0%D0%B4&oq=&aq=&aqi=&aql=&gs_l=&pbx=1&fp=45669e7a7f451412&ix=ieb&ion=1&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&biw=1366&bih=673NEW
+Song: One; Metallica; 4; http://goo.gl/dIkth7gs
+Song: One; Metallica; 5; http://www.metallica.com
+Song: One; MetallicA; 9; http://9.metallica.com

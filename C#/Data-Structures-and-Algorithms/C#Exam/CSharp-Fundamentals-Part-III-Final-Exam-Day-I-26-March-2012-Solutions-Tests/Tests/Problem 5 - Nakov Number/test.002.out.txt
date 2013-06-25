@@ -1,0 +1,5 @@
+A 1
+AA 3
+B 2
+C 3
+NAKOV 0
