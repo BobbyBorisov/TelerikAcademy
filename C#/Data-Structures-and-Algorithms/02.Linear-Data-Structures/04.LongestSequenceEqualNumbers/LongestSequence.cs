@@ -8,7 +8,7 @@ namespace _04.LongestSequenceEqualNumbers
     {
         static void Main(string[] args)
         {
-            var list = new List<int>() { 2, 4, 6, 4, 5, 4 };
+            var list = new List<int>() { 2, 4, 4};
 
             //Uncomment and remove the initial numbers in the list to use the console.
             //while (true) 

@@ -1,0 +1,19 @@
+﻿body, div, a, p, ul, li {
+
+    margin: 0;
+    padding : 0;
+}
+
+    div.sites-bar > div > p {
+
+        font-weight:bold;
+    }
+    div.sites-bar div {
+
+      padding:20px;
+    }
+
+     div.sites-bar li {
+
+        list-style:none;
+    }

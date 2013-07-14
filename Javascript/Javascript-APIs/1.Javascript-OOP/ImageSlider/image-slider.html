@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="wrapper"></div>
+</body>
+	<script type="text/javascript" src="image.js"></script>
+	<script type="text/javascript" src="slider.js"></script>
+	<script type="text/javascript" src="object-create.js"></script>
+<script type="text/javascript">
+	var slider = Object.create(Slider).init("#wrapper").initEvents();
+	slider.addImage('ninja1', 'imgs/ninja_1.jpg');
+	slider.addImage('ninja1', 'imgs/ninja_2.jpeg');
+	slider.addImage('ninja1', 'imgs/ninja_3.jpg');
+	slider.FuckYeah();
+</script>
+</html>

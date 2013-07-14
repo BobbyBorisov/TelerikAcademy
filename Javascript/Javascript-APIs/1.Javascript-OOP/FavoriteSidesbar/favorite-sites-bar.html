@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles-favorite-sites-bar/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper"></div>
+
+    <script src="scripts-favorite-sites-bar/class-create-inherit.js"></script>
+    <script src="scripts-favorite-sites-bar/cross-browser-events.js"></script>
+    <script src="scripts-favorite-sites-bar/string-extention.js"></script>
+    <script src="scripts-favorite-sites-bar/site-bar-url.js"></script>
+    <script src="scripts-favorite-sites-bar/site-bar-folder.js"></script>
+    <script src="scripts-favorite-sites-bar/sites-bar.js"></script>
+
+    <script>
+        var sitesBar = new SitesBar('#wrapper').initEvents();
+        sitesBar.addUrl("Telerik Academy", "http://telerikacademy.com/");
+        sitesBar.addUrl("W3School", "http://www.w3schools.com/");
+        var socialNet = sitesBar.addFolder('Social Networks');
+        socialNet.addUrl("Facebook", "https://www.facebook.com/");
+        socialNet.addUrl("Twitter", "https://twitter.com/");
+
+        sitesBar.render();
+    </script>
+</body>
+</html>
