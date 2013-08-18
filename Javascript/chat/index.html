@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap Chat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/style.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <script type="text/javascript" src="js/http-requester.js"></script>
+    <h3>Chat</h3>
+    <div 
+        pub-key="pub-c-fc712db2-1e95-44ef-a3e5-7eac63eaa02f" 
+        sub-key="sub-c-a5c6e20a-07f1-11e3-8f37-02ee2ddab7fe" 
+        ssl="off" origin="pubsub.pubnub.com" id="pubnub"></div>
+    <script type="text/javascript" src="http://cdn.pubnub.com/pubnub-3.5.3.min.js"></script>
+    <script type="text/javascript">
+            PUBNUB.subscribe({
+                channel: "common-channel", 
+                callback: function (message) { 
+                    $("#messages-list").append("<li>"+message+"</li>")
+                }
+            });
+        
+    </script>
+    
+    <script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/class.js"></script>
+    
+    
+    <div id="chatbox" class="well well-small">
+       <div id="messages-box">
+          <ul id="messages-list">
+            
+          </ul>
+       </div>
+       <div id="text-box">
+          <div class="row-fluid">
+            <form id="message-form">
+                <textarea id="message-text" class="pull-left" rows="2"></textarea>
+                <button id="btn-send-message" class="btn btn-danger pull-right">Send Message</button>
+            </form>
+          </div>
+       </div>
+    </div>
+    <script>
+         
+       
+
+        var button = document.getElementById("btn-send-message");
+
+        
+
+        button.addEventListener("click", function (e) {
+          e.preventDefault();
+            message={};
+            
+            httpRequester.getJSON("http://smart-ip.net/geoip-json?callback=?",function(data){
+              message.ip = data.host
+              console.log(data.host)
+              PUBNUB.publish({
+                channel: "common-channel",
+                message: message.ip+" says: "+$("#message-text").val()
+
+            });
+              $("#message-text").val("");
+            },function(err){
+              console.log(err)
+            });
+
+
+            
+
+            
+        });
+    </script>
+  </body>
+</html>
