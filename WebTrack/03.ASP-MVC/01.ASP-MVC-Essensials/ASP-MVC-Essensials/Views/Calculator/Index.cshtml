@@ -1,0 +1,19 @@
+﻿@model  IEnumerable<ASP_MVC_Essensials.Models.MoneyExchangeModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Calculator</h2>
+
+@using (Html.BeginForm("Calculate","Calculator")){
+    <input type="text" name="Quantity" value="@ViewBag.Quantity"/>
+    @Html.DropDownList("Currency", (IEnumerable<SelectListItem>)ViewBag.Currencies)
+    <input type="submit" name="Calculate" />
+}
+
+@if (Model !=null){
+    foreach(var item in Model)
+    {
+        @Html.Partial("_PartialConvertedCurrency", item);
+    }
+}
