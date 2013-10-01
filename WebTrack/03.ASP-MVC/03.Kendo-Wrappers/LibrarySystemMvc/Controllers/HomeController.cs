@@ -14,7 +14,7 @@ namespace LibrarySystemMvc.Controllers
 
         public ApplicationDbContext data = new ApplicationDbContext();
         public ActionResult Index()
-        {
+        {     
             var result = this.data.Categories.Include("Books").ToList().Select(x => new TreeViewItemModel
             {
                 Text = x.Name,
