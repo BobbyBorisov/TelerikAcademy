@@ -1,0 +1,14 @@
+﻿@model LibrarySystemMvc.Areas.Administrator.ViewModels.BookAdminViewModel
+
+@{
+    //var a = Model;
+   
+}
+
+@(Html.Kendo().DropDownListFor(m => m)
+        .Name("Category")
+        .DataValueField("Id")
+        .DataTextField("Name")
+        .DataSource(ds => ds.Read("GetAll", "CategoriesAdmin", new { area = "Administrator" })))
+
+

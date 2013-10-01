@@ -1,0 +1,84 @@
+﻿@using LibrarySystemMvc.Areas.Administrator.ViewModels
+@{
+    ViewBag.Title = "BooksAdmin";
+}
+
+@(Html.Kendo()
+    .Grid<BookAdminViewModel>()
+    .Name("grid-books")
+    .Pageable()
+    .Sortable()
+    .Groupable()
+    .Filterable()
+    .Navigatable()
+    .Columns(columns =>
+    {
+        columns.Bound(model => model.Title);
+        columns.Bound(model => model.ISBN);
+        columns.Bound(model => model.CategoryName);
+        columns.Bound(model => model.AuthorName);
+        columns.Command(com =>
+        {
+            com.Edit();
+            com.Destroy();
+        }).Title("Commands");
+    })
+    .ToolBar(toolbar => toolbar.Create())
+    .Events(ev =>
+        {
+            ev.Change("selectRow");
+        })
+    .Editable(edit =>
+    {
+        edit.Mode(GridEditMode.PopUp).TemplateName("BookAdminViewModel");
+    })
+    .Selectable(select => select.Mode(GridSelectionMode.Single).Type(GridSelectionType.Row))
+    .DataSource(data =>
+    {
+        data.Ajax()
+            .Model(m => m.Id(b => b.Id))
+            .PageSize(5)
+            .ServerOperation(true)
+            .Events(ev => ev.Error("errorAlert"))
+            .Create("CreateBook","BooksAdmin")
+            .Read("ReadBooks", "BooksAdmin")
+            .Update("UpdateBook", "BooksAdmin")
+            .Destroy("DeleteBook", "BooksAdmin");
+
+    })
+    .ClientDetailTemplateId("client-template"))
+)
+
+<script id="client-template" type="text/x-kendo-template">
+    <div>Description: #: Description#</div>
+</script>
+
+<script>
+    function selectRow() {
+        var selected = $.map(this.select(), function (item) {
+            return $(item).text();
+        });
+
+        $('#selected').text(selected);
+    }
+
+    function errorAlert() {
+        console.log("An error ocurred");
+    }
+
+    function selectCatValue(e) {
+        $('#catNameTb').val(this.dataItem(e.item.index()).Name);
+        $('#catNameTb').text(this.dataItem(e.item.index()).Name);
+        $('#catNameTb').html(this.dataItem(e.item.index()).Name);
+
+
+    }
+
+   
+    function selectedValue(e) {
+        var selValue = this.dataItem(e.item.index()).Name;
+        $('#Achievement').val(selValue);
+    }
+</script>
+
+

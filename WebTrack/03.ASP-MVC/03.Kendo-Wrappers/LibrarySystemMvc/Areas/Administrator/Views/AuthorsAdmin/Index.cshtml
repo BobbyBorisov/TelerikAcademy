@@ -1,0 +1,63 @@
+﻿@using LibrarySystemMvc.Areas.Administrator.ViewModels
+@{
+    ViewBag.Title = "BooksAdmin";
+}
+
+@(Html.Kendo()
+    .Grid<AuthorViewModel>()
+    .Name("grid-authors")
+    .Pageable()
+    .Sortable()
+    .Groupable()
+    .Filterable()
+    .Navigatable()
+    .Columns(columns =>
+    {
+        columns.Bound(model => model.Name);
+        columns.Command(com =>
+        {
+            com.Edit();
+            com.Destroy();
+        }).Title("Commands");
+    })
+    .ToolBar(toolbar => toolbar.Create())
+    .Events(ev =>
+        {
+            ev.Change("selectRow");
+        })
+    .Editable(edit =>
+    {
+        edit.Mode(GridEditMode.PopUp);
+    })
+    .Selectable(select => select.Mode(GridSelectionMode.Single).Type(GridSelectionType.Row))
+    .DataSource(data =>
+    {
+        data.Ajax()
+            .Model(m => m.Id(b => b.Id))
+            .PageSize(5)
+            .ServerOperation(true)
+            .Events(ev => ev.Error("errorAlert"))
+            .Create("CreateAuthor", "AuthorsAdmin")
+            .Read("ReadAuthors", "AuthorsAdmin")
+            .Update("UpdateAuthor", "AuthorsAdmin")
+            .Destroy("DestroyAuthor", "AuthorsAdmin");
+
+    })
+)
+
+<script>
+    function selectRow() {
+        var selected = $.map(this.select(), function (item) {
+            return $(item).text();
+        });
+
+        $('#selected').text(selected);
+    }
+
+    function errorAlert() {
+        console.log("An error ocurred");
+    }
+
+</script>
+
+

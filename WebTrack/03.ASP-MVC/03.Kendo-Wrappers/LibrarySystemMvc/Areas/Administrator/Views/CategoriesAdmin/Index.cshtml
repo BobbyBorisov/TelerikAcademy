@@ -1,0 +1,47 @@
+﻿@using LibrarySystemMvc.Areas.Administrator.ViewModels
+@{
+    ViewBag.Title = "BooksAdmin";
+}
+
+@(Html.Kendo()
+    .Grid<CategoryAdminViewModel>()
+    .Name("grid-categories")
+    .Pageable()
+    .Sortable()
+    .Groupable()
+    .Filterable()
+    .Navigatable()
+    .Columns(columns =>
+    {
+        columns.Bound(model => model.Name);
+        columns.Command(com =>
+        {
+            com.Edit();
+            com.Destroy();
+        }).Title("Commands");
+    })
+    .Editable(edit =>
+    {
+        edit.Mode(GridEditMode.PopUp);
+
+    })
+    .Selectable(select => select.Mode(GridSelectionMode.Single).Type(GridSelectionType.Row))
+    .DataSource(data => { 
+        data.Ajax()
+            .Model(m => m.Id(b => b.Id))
+            .PageSize(10)
+            .ServerOperation(true)
+            .Events(ev => ev.Error("errorAlert"))
+            .Read("ReadCategories", "CategoriesAdmin")
+            .Update("UpdateCategories", "CategoriesAdmin")
+            .Destroy("DeleteCategory", "CategoriesAdmin");
+    })
+    )
+
+<script>
+    function errorAlert() {
+        console.log("An error ocurred");
+    }
+    
+</script>
+    

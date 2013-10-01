@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Kendo.Mvc.UI.TreeViewItemModel>
+@{
+    ViewBag.Title = "Home Page";  
+}
+
+<div>Search by book title</div>
+<form action="Home/Search" method="post">
+    @(Html.Kendo()
+            .AutoComplete()
+            .Name("titleSearch")
+            .DataTextField("Title")
+            .MinLength(3)
+            .Placeholder("Enter book")
+            .Events(ev =>
+                {
+                    ev.Select("selectAutoComplete");
+                })
+            .DataSource(data =>
+            {
+                data.Read(read =>
+                    {
+                        read.Action("GetAutocompleteData", "Home", new { area="" })
+                            .Data("onAdditionalData");
+                    })
+                    .ServerFiltering(true);
+            }))
+
+    <input type="submit" />
+</form>
+
+
+<h4>Categories</h4>
+
+@(Html.Kendo()
+    .TreeView()
+    .Name("tree-view")
+    .BindTo(Model)
+    .Events(ev =>
+        {
+            ev.Select("redirectToBookDetails");
+        }))
+
+<script>
+    function redirectToBookDetails(e) {
+        var id = $(e.node).data("id");
+
+        if (typeof (id) == "number") {
+            var xa = window.location.href;
+            window.location.pathname = "Home/BookDetails/" + id;
+        }
+    }
+
+    function onAdditionalData() {
+        return {
+            text: $('#titleSearch').val(),
+        }
+    }
+
+    function selectAutoComplete(e) {
+        id = this.dataItem(e.item.index()).Id;
+
+        window.location.pathname = "Home/BookDetails/" + id;
+    }
+</script>

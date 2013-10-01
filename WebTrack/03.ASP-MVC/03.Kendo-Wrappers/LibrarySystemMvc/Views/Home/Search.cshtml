@@ -1,0 +1,11 @@
+﻿@model IEnumerable<LibrarySystemMvc.ViewModels.ShortBookViewModel>
+
+@{
+    ViewBag.Title = "Search page";
+}
+
+<ul>
+    @foreach(var book in Model){
+        <li><a href="../Home/BookDetails/@book.Id">@book.Title by <em>@book.AuthorName</em>(Category @book.CategoryName )</a></li>
+    }
+</ul>
